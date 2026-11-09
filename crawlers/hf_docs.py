@@ -159,7 +159,7 @@ def main():
                 out_path = out_path / slugify(g)
             out_path = out_path / f"{page['url_path'].rsplit('/', 1)[-1]}.md"
             rel = out_path.relative_to(ROOT).as_posix()
-            official_url = f"https://huggingface.co/docs/{lib}{page['url_path']}"
+            official_url = "https://huggingface.co" + page["url_path"]
 
             if official_url in new_files:
                 print(f"    SKIP: 目录路径重复（{rel}）")
@@ -197,7 +197,7 @@ def main():
     cur_chapter = None
     cur_groups = None
     for page in pages:
-        official_url = f"https://huggingface.co/docs/{lib}{page['url_path']}"
+        official_url = "https://huggingface.co" + page["url_path"]
         info = new_files.get(official_url)
         if not info:
             continue

@@ -1,527 +1,470 @@
 {
   "source": "trl.docs",
-  "fetched_at": "2026-11-09T22:30:55",
+  "fetched_at": "2026-11-09T23:39:53",
   "base_url": "https://hf-mirror.com",
   "pages_total": 57,
   "files": {
-    "https://huggingface.co/docs/trl/docs/trl/index": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/index",
+    "https://huggingface.co/docs/trl/index": {
+      "path": "docs/trl/00_getting_started/index.md",
       "title": "TRL",
       "chapter": "Getting started",
       "groups": [],
       "sha256": "f619db6c7cca3be313d0a06bdfe43f516ae800983cfc288c15f90e79cccbf1f4",
-      "size": 5337,
-      "path": "docs/trl/00_getting_started/index.md"
+      "size": 5337
     },
-    "https://huggingface.co/docs/trl/docs/trl/installation": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/installation",
+    "https://huggingface.co/docs/trl/installation": {
+      "path": "docs/trl/00_getting_started/installation.md",
       "title": "Installation",
       "chapter": "Getting started",
       "groups": [],
       "sha256": "409775a415988f1f6358c8e64ee35181e801f84ce33ae1b7f802ee2884ec9f9a",
-      "size": 721,
-      "path": "docs/trl/00_getting_started/installation.md"
+      "size": 721
     },
-    "https://huggingface.co/docs/trl/docs/trl/quickstart": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/quickstart",
+    "https://huggingface.co/docs/trl/quickstart": {
+      "path": "docs/trl/00_getting_started/quickstart.md",
       "title": "Quickstart",
       "chapter": "Getting started",
       "groups": [],
       "sha256": "97450d22f927b3d6486b5388a3157c07e007170ec6e9a9be561c65a54758f516",
-      "size": 3713,
-      "path": "docs/trl/00_getting_started/quickstart.md"
+      "size": 3713
     },
-    "https://huggingface.co/docs/trl/docs/trl/usage_stats": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/usage_stats",
+    "https://huggingface.co/docs/trl/usage_stats": {
+      "path": "docs/trl/00_getting_started/usage_stats.md",
       "title": "Usage Stats Collection",
       "chapter": "Getting started",
       "groups": [],
       "sha256": "b8cd0a7b28d1cdde78e23910d9a70f83561708dc58f5b44df0a36f795709ccb5",
-      "size": 2513,
-      "path": "docs/trl/00_getting_started/usage_stats.md"
+      "size": 2513
     },
-    "https://huggingface.co/docs/trl/docs/trl/chat_templates": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/chat_templates",
+    "https://huggingface.co/docs/trl/chat_templates": {
+      "path": "docs/trl/01_conceptual_guides/chat_templates.md",
       "title": "Chat Templates",
       "chapter": "Conceptual Guides",
       "groups": [],
       "sha256": "6803a7922bf5e5be7fbdeeaf5751c7e0423d59c52968b922de131d60fc0cb76a",
-      "size": 17381,
-      "path": "docs/trl/01_conceptual_guides/chat_templates.md"
+      "size": 17381
     },
-    "https://huggingface.co/docs/trl/docs/trl/dataset_formats": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/dataset_formats",
+    "https://huggingface.co/docs/trl/dataset_formats": {
+      "path": "docs/trl/01_conceptual_guides/dataset_formats.md",
       "title": "Dataset Formats",
       "chapter": "Conceptual Guides",
       "groups": [],
       "sha256": "821d2c22892e4ed4cba611973069f3d29c1b41e44ce983b92fc0c40875387594",
-      "size": 36737,
-      "path": "docs/trl/01_conceptual_guides/dataset_formats.md"
+      "size": 36737
     },
-    "https://huggingface.co/docs/trl/docs/trl/paper_index": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/paper_index",
+    "https://huggingface.co/docs/trl/paper_index": {
+      "path": "docs/trl/01_conceptual_guides/paper_index.md",
       "title": "Paper Index",
       "chapter": "Conceptual Guides",
       "groups": [],
       "sha256": "59c52d6833155014018f1c0dc90e9018575c39a7172f182b6fd7f27701c6a857",
-      "size": 99816,
-      "path": "docs/trl/01_conceptual_guides/paper_index.md"
+      "size": 99816
     },
-    "https://huggingface.co/docs/trl/docs/trl/distillation_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/distillation_trainer",
+    "https://huggingface.co/docs/trl/distillation_trainer": {
+      "path": "docs/trl/02_trainers/distillation_trainer.md",
       "title": "Distillation",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "23003bf9853776e4dcc81e8cc8fcc83d9aa8126d7665ef254513b1466f24525e",
-      "size": 39582,
-      "path": "docs/trl/02_trainers/distillation_trainer.md"
+      "size": 39582
     },
-    "https://huggingface.co/docs/trl/docs/trl/dpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/dpo_trainer",
+    "https://huggingface.co/docs/trl/dpo_trainer": {
+      "path": "docs/trl/02_trainers/dpo_trainer.md",
       "title": "DPO",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "adbf3b7db5480a74c2e45363735452eccbb91790f0837245785d049cc742a207",
-      "size": 45229,
-      "path": "docs/trl/02_trainers/dpo_trainer.md"
+      "size": 45229
     },
-    "https://huggingface.co/docs/trl/docs/trl/grpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/grpo_trainer",
+    "https://huggingface.co/docs/trl/grpo_trainer": {
+      "path": "docs/trl/02_trainers/grpo_trainer.md",
       "title": "GRPO",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "0e61f581222db05749ed172b176c03b9e2e93008bfabda407b0b032e72f6cc25",
-      "size": 114242,
-      "path": "docs/trl/02_trainers/grpo_trainer.md"
+      "size": 114242
     },
-    "https://huggingface.co/docs/trl/docs/trl/kto_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/kto_trainer",
+    "https://huggingface.co/docs/trl/kto_trainer": {
+      "path": "docs/trl/02_trainers/kto_trainer.md",
       "title": "KTO",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "fd0fa9dacd332b9d7ff3377689ce1d25455a7cd67628e2f4fde8d61528a2c373",
-      "size": 41161,
-      "path": "docs/trl/02_trainers/kto_trainer.md"
+      "size": 41161
     },
-    "https://huggingface.co/docs/trl/docs/trl/reward_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/reward_trainer",
+    "https://huggingface.co/docs/trl/reward_trainer": {
+      "path": "docs/trl/02_trainers/reward_trainer.md",
       "title": "Reward",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "3c5efcc745d4fdcf149c7409a4e8bbec0f5144759cea8e3617e602d161762db8",
-      "size": 30809,
-      "path": "docs/trl/02_trainers/reward_trainer.md"
+      "size": 30809
     },
-    "https://huggingface.co/docs/trl/docs/trl/rloo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/rloo_trainer",
+    "https://huggingface.co/docs/trl/rloo_trainer": {
+      "path": "docs/trl/02_trainers/rloo_trainer.md",
       "title": "RLOO",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "31c2fcb68a5ff8db617dff97c8dc01b7f283e07768a7597338487560cb221ce5",
-      "size": 68185,
-      "path": "docs/trl/02_trainers/rloo_trainer.md"
+      "size": 68185
     },
-    "https://huggingface.co/docs/trl/docs/trl/sft_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/sft_trainer",
+    "https://huggingface.co/docs/trl/sft_trainer": {
+      "path": "docs/trl/02_trainers/sft_trainer.md",
       "title": "SFT",
       "chapter": "Trainers",
       "groups": [],
       "sha256": "9daa22fa455878e850cee39ec31a169b7b5aa88279af8ecf213287275f5483a9",
-      "size": 42949,
-      "path": "docs/trl/02_trainers/sft_trainer.md"
+      "size": 42949
     },
-    "https://huggingface.co/docs/trl/docs/trl/clis": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/clis",
+    "https://huggingface.co/docs/trl/clis": {
+      "path": "docs/trl/03_how_to_guides/clis.md",
       "title": "Command Line Interface (CLI)",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "9a9930ee0e2269dd75dd84ba68b86a5d734ab851c75d061d22da395d1ba6a595",
-      "size": 12941,
-      "path": "docs/trl/03_how_to_guides/clis.md"
+      "size": 12941
     },
-    "https://huggingface.co/docs/trl/docs/trl/jobs_training": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/jobs_training",
+    "https://huggingface.co/docs/trl/jobs_training": {
+      "path": "docs/trl/03_how_to_guides/jobs_training.md",
       "title": "Training using Jobs",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "c84d8abbab829525f44ff661f9f78911e0a3b125437d6b783036ae863cdf1d94",
-      "size": 17435,
-      "path": "docs/trl/03_how_to_guides/jobs_training.md"
+      "size": 17435
     },
-    "https://huggingface.co/docs/trl/docs/trl/customization": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/customization",
+    "https://huggingface.co/docs/trl/customization": {
+      "path": "docs/trl/03_how_to_guides/customization.md",
       "title": "Customizing the Training",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "269e2d0fe850a7ec6334b0c91b76fb05787289d2f1230fd098be8866f15d7964",
-      "size": 7444,
-      "path": "docs/trl/03_how_to_guides/customization.md"
+      "size": 7444
     },
-    "https://huggingface.co/docs/trl/docs/trl/reducing_memory_usage": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/reducing_memory_usage",
+    "https://huggingface.co/docs/trl/reducing_memory_usage": {
+      "path": "docs/trl/03_how_to_guides/reducing_memory_usage.md",
       "title": "Reducing Memory Usage",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "e6dcd9ab0806f99e0f39aecaa7b45a1903dae7142aa9634c6c76cb64558d99fa",
-      "size": 12491,
-      "path": "docs/trl/03_how_to_guides/reducing_memory_usage.md"
+      "size": 12491
     },
-    "https://huggingface.co/docs/trl/docs/trl/speeding_up_training": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/speeding_up_training",
+    "https://huggingface.co/docs/trl/speeding_up_training": {
+      "path": "docs/trl/03_how_to_guides/speeding_up_training.md",
       "title": "Speeding Up Training",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "327bb0121bbcf65f38681ae8c0c8bf47f85b23bbd11785b15385db5cab253ef1",
-      "size": 5352,
-      "path": "docs/trl/03_how_to_guides/speeding_up_training.md"
+      "size": 5352
     },
-    "https://huggingface.co/docs/trl/docs/trl/distributing_training": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/distributing_training",
+    "https://huggingface.co/docs/trl/distributing_training": {
+      "path": "docs/trl/03_how_to_guides/distributing_training.md",
       "title": "Distributing Training",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "fdce2f6b41c94f954385e74bef280ea55793e3b177ff38e6b9249349064bc44f",
-      "size": 4925,
-      "path": "docs/trl/03_how_to_guides/distributing_training.md"
+      "size": 4925
     },
-    "https://huggingface.co/docs/trl/docs/trl/aws_trainium": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/aws_trainium",
+    "https://huggingface.co/docs/trl/aws_trainium": {
+      "path": "docs/trl/03_how_to_guides/aws_trainium.md",
       "title": "Training on AWS Trainium",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "c03c998dfb15acc36d78426c6bfed4c486b667d646c73c4ca1cfe5b19a6568c9",
-      "size": 4520,
-      "path": "docs/trl/03_how_to_guides/aws_trainium.md"
+      "size": 4520
     },
-    "https://huggingface.co/docs/trl/docs/trl/amd_gpus": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/amd_gpus",
+    "https://huggingface.co/docs/trl/amd_gpus": {
+      "path": "docs/trl/03_how_to_guides/amd_gpus.md",
       "title": "Training on AMD GPUs",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "4187ab356d821d3d0afb882d4ecdd55dcc2c052af6b946fba158a10348e91138",
-      "size": 1345,
-      "path": "docs/trl/03_how_to_guides/amd_gpus.md"
+      "size": 1345
     },
-    "https://huggingface.co/docs/trl/docs/trl/long_context_training": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/long_context_training",
+    "https://huggingface.co/docs/trl/long_context_training": {
+      "path": "docs/trl/03_how_to_guides/long_context_training.md",
       "title": "Training Beyond 1M Tokens",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "4d32fb86eac2f8dc17742ea193a49a0aa10be4338b84902ecb07ae0f28ea860c",
-      "size": 13179,
-      "path": "docs/trl/03_how_to_guides/long_context_training.md"
+      "size": 13179
     },
-    "https://huggingface.co/docs/trl/docs/trl/use_model": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/use_model",
+    "https://huggingface.co/docs/trl/use_model": {
+      "path": "docs/trl/03_how_to_guides/use_model.md",
       "title": "Using Trained Models",
       "chapter": "How-to guides",
       "groups": [],
       "sha256": "213068de0099ac7e205f0d780998602cec454abb187d52fd490da5f2acfc866f",
-      "size": 2433,
-      "path": "docs/trl/03_how_to_guides/use_model.md"
+      "size": 2433
     },
-    "https://huggingface.co/docs/trl/docs/trl/deepspeed_integration": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/deepspeed_integration",
+    "https://huggingface.co/docs/trl/deepspeed_integration": {
+      "path": "docs/trl/04_integrations/deepspeed_integration.md",
       "title": "DeepSpeed",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "7851aa719a1a06ed832a77f9a7002c5aca4b232df68321fba5ab46ff09521123",
-      "size": 1455,
-      "path": "docs/trl/04_integrations/deepspeed_integration.md"
+      "size": 1455
     },
-    "https://huggingface.co/docs/trl/docs/trl/harbor": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/harbor",
+    "https://huggingface.co/docs/trl/harbor": {
+      "path": "docs/trl/04_integrations/harbor.md",
       "title": "Harbor",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "fbfecc0011c62e968a5b3fed656ede0c21cdc1fd2ec1052db262bb633a52b1fc",
-      "size": 13773,
-      "path": "docs/trl/04_integrations/harbor.md"
+      "size": 13773
     },
-    "https://huggingface.co/docs/trl/docs/trl/kernels_hub": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/kernels_hub",
+    "https://huggingface.co/docs/trl/kernels_hub": {
+      "path": "docs/trl/04_integrations/kernels_hub.md",
       "title": "Kernels Hub",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "c3f2c177aba77f54689567de32d1ce2374c04663c40958fc6697b7a92b4b8032",
-      "size": 4956,
-      "path": "docs/trl/04_integrations/kernels_hub.md"
+      "size": 4956
     },
-    "https://huggingface.co/docs/trl/docs/trl/openenv": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/openenv",
+    "https://huggingface.co/docs/trl/openenv": {
+      "path": "docs/trl/04_integrations/openenv.md",
       "title": "OpenEnv",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "e2bd60a0fec350f2ee60056bb0b64465a283485f7f4d399d29f3143b95b8cb8f",
-      "size": 35221,
-      "path": "docs/trl/04_integrations/openenv.md"
+      "size": 35221
     },
-    "https://huggingface.co/docs/trl/docs/trl/openreward": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/openreward",
+    "https://huggingface.co/docs/trl/openreward": {
+      "path": "docs/trl/04_integrations/openreward.md",
       "title": "OpenReward",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "6334af7cfc3e4718b074ddf3b1b7a38c8cd2678a674a44cacd50140c3d842c7e",
-      "size": 12976,
-      "path": "docs/trl/04_integrations/openreward.md"
+      "size": 12976
     },
-    "https://huggingface.co/docs/trl/docs/trl/peft_integration": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/peft_integration",
+    "https://huggingface.co/docs/trl/peft_integration": {
+      "path": "docs/trl/04_integrations/peft_integration.md",
       "title": "PEFT",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "6e9b29eab6b20270c8aa3dae6a70522eda142631b1fafa28d4715875e9af8d08",
-      "size": 21825,
-      "path": "docs/trl/04_integrations/peft_integration.md"
+      "size": 21825
     },
-    "https://huggingface.co/docs/trl/docs/trl/rapidfire_integration": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/rapidfire_integration",
+    "https://huggingface.co/docs/trl/rapidfire_integration": {
+      "path": "docs/trl/04_integrations/rapidfire_integration.md",
       "title": "RapidFire AI",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "5ddeba40a1112f57e8c91274ad31cecf23b7eb23c7d67615d6b7d5f99af70dd1",
-      "size": 17763,
-      "path": "docs/trl/04_integrations/rapidfire_integration.md"
+      "size": 17763
     },
-    "https://huggingface.co/docs/trl/docs/trl/trackio_integration": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/trackio_integration",
+    "https://huggingface.co/docs/trl/trackio_integration": {
+      "path": "docs/trl/04_integrations/trackio_integration.md",
       "title": "Trackio",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "6428a5213d40ad86a7cdc201c37654344a01c25d49d4542dee503dd72ea43dba",
-      "size": 1913,
-      "path": "docs/trl/04_integrations/trackio_integration.md"
+      "size": 1913
     },
-    "https://huggingface.co/docs/trl/docs/trl/unsloth_integration": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/unsloth_integration",
+    "https://huggingface.co/docs/trl/unsloth_integration": {
+      "path": "docs/trl/04_integrations/unsloth_integration.md",
       "title": "Unsloth",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "247496e4ebbf4793942aaf2f96cb4304eed33506204256cda6dd5e4444cd3482",
-      "size": 5242,
-      "path": "docs/trl/04_integrations/unsloth_integration.md"
+      "size": 5242
     },
-    "https://huggingface.co/docs/trl/docs/trl/vllm_integration": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/vllm_integration",
+    "https://huggingface.co/docs/trl/vllm_integration": {
+      "path": "docs/trl/04_integrations/vllm_integration.md",
       "title": "vLLM",
       "chapter": "Integrations",
       "groups": [],
       "sha256": "f628e5b0ebb1926b63c0b9ffd7d2f8b8bf1d3d4cfa14e01fc6a63ce0eb84e51c",
-      "size": 8836,
-      "path": "docs/trl/04_integrations/vllm_integration.md"
+      "size": 8836
     },
-    "https://huggingface.co/docs/trl/docs/trl/example_overview": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/example_overview",
+    "https://huggingface.co/docs/trl/example_overview": {
+      "path": "docs/trl/05_examples/example_overview.md",
       "title": "Example Overview",
       "chapter": "Examples",
       "groups": [],
       "sha256": "3ecd902f9c1582d861d8cdb02b549df114d6318925a269659d1d79a5dc878ea5",
-      "size": 16073,
-      "path": "docs/trl/05_examples/example_overview.md"
+      "size": 16073
     },
-    "https://huggingface.co/docs/trl/docs/trl/community_tutorials": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/community_tutorials",
+    "https://huggingface.co/docs/trl/community_tutorials": {
+      "path": "docs/trl/05_examples/community_tutorials.md",
       "title": "Community Tutorials",
       "chapter": "Examples",
       "groups": [],
       "sha256": "12d3fb50f1a2befc9e6e0300395faeed991c07bc9762a64929c6fae9f2a83dbb",
-      "size": 10923,
-      "path": "docs/trl/05_examples/community_tutorials.md"
+      "size": 10923
     },
-    "https://huggingface.co/docs/trl/docs/trl/lora_without_regret": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/lora_without_regret",
+    "https://huggingface.co/docs/trl/lora_without_regret": {
+      "path": "docs/trl/05_examples/lora_without_regret.md",
       "title": "LoRA Without Regret",
       "chapter": "Examples",
       "groups": [],
       "sha256": "264d362d36ed26d88e4663ff5f8848b0625e99d58b7746b6db9fe493229c27b7",
-      "size": 14262,
-      "path": "docs/trl/05_examples/lora_without_regret.md"
+      "size": 14262
     },
-    "https://huggingface.co/docs/trl/docs/trl/chat_template_utils": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/chat_template_utils",
+    "https://huggingface.co/docs/trl/chat_template_utils": {
+      "path": "docs/trl/06_api/utilities/chat_template_utils.md",
       "title": "Chat Template Utilities",
       "chapter": "API",
       "groups": [
         "Utilities"
       ],
       "sha256": "64cf40caa2a57a78304699ebb22205696ff394a3512054d995488e4a882737a9",
-      "size": 6887,
-      "path": "docs/trl/06_api/utilities/chat_template_utils.md"
+      "size": 6887
     },
-    "https://huggingface.co/docs/trl/docs/trl/data_utils": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/data_utils",
+    "https://huggingface.co/docs/trl/data_utils": {
+      "path": "docs/trl/06_api/utilities/data_utils.md",
       "title": "Data Utilities",
       "chapter": "API",
       "groups": [
         "Utilities"
       ],
       "sha256": "7f844a65d2b6b932376bef322b791cb98675ed557963b46d394bed688b8a6ee1",
-      "size": 6381,
-      "path": "docs/trl/06_api/utilities/data_utils.md"
+      "size": 6381
     },
-    "https://huggingface.co/docs/trl/docs/trl/script_utils": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/script_utils",
+    "https://huggingface.co/docs/trl/script_utils": {
+      "path": "docs/trl/06_api/utilities/script_utils.md",
       "title": "Script Utilities",
       "chapter": "API",
       "groups": [
         "Utilities"
       ],
       "sha256": "a9843673cccbd7d72a7f81e39c8c72cc6414154c65191563aedbceda4a5473f4",
-      "size": 10648,
-      "path": "docs/trl/06_api/utilities/script_utils.md"
+      "size": 10648
     },
-    "https://huggingface.co/docs/trl/docs/trl/callbacks": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/callbacks",
+    "https://huggingface.co/docs/trl/callbacks": {
+      "path": "docs/trl/06_api/callbacks.md",
       "title": "Callbacks",
       "chapter": "API",
       "groups": [],
       "sha256": "5652380bca540ddb0e6956bdc4d8034ae14211e10316b4c0f8a50846178ca9d6",
-      "size": 8932,
-      "path": "docs/trl/06_api/callbacks.md"
+      "size": 8932
     },
-    "https://huggingface.co/docs/trl/docs/trl/rewards": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/rewards",
+    "https://huggingface.co/docs/trl/rewards": {
+      "path": "docs/trl/06_api/rewards.md",
       "title": "Reward Functions",
       "chapter": "API",
       "groups": [],
       "sha256": "6ad81eac2f499588c1c24d2314746d1b5444adaa18495dde11694cc921331cde",
-      "size": 12390,
-      "path": "docs/trl/06_api/rewards.md"
+      "size": 12390
     },
-    "https://huggingface.co/docs/trl/docs/trl/experimental_overview": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/experimental_overview",
+    "https://huggingface.co/docs/trl/experimental_overview": {
+      "path": "docs/trl/07_experimental/experimental_overview.md",
       "title": "Experimental Overview",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "811e08872392c3f066cb174290b88a711c634ae76b39ba31ca3828f07c8eb6cc",
-      "size": 3038,
-      "path": "docs/trl/07_experimental/experimental_overview.md"
+      "size": 3038
     },
-    "https://huggingface.co/docs/trl/docs/trl/a2po_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/a2po_trainer",
+    "https://huggingface.co/docs/trl/a2po_trainer": {
+      "path": "docs/trl/07_experimental/a2po_trainer.md",
       "title": "A2PO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "0d7a5a40fdaae07972b19bcd31f8a204c59f3a4e5a681d55f82c1c1ee629ec35",
-      "size": 16561,
-      "path": "docs/trl/07_experimental/a2po_trainer.md"
+      "size": 16561
     },
-    "https://huggingface.co/docs/trl/docs/trl/async_distillation_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/async_distillation_trainer",
+    "https://huggingface.co/docs/trl/async_distillation_trainer": {
+      "path": "docs/trl/07_experimental/async_distillation_trainer.md",
       "title": "Async Distillation",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "f6caa0d52a442ed230afd548045155684976dab36b004ce196f7ebc843855476",
-      "size": 58224,
-      "path": "docs/trl/07_experimental/async_distillation_trainer.md"
+      "size": 58224
     },
-    "https://huggingface.co/docs/trl/docs/trl/async_grpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/async_grpo_trainer",
+    "https://huggingface.co/docs/trl/async_grpo_trainer": {
+      "path": "docs/trl/07_experimental/async_grpo_trainer.md",
       "title": "Asynchronous GRPO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "f39f0d4c8767c558ef31003b00ac9f21495e4d63c3df1f08e64babf5c1552c45",
-      "size": 83246,
-      "path": "docs/trl/07_experimental/async_grpo_trainer.md"
+      "size": 83246
     },
-    "https://huggingface.co/docs/trl/docs/trl/bema_for_reference_model": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/bema_for_reference_model",
+    "https://huggingface.co/docs/trl/bema_for_reference_model": {
+      "path": "docs/trl/07_experimental/bema_for_reference_model.md",
       "title": "BEMA for Reference Model",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "1f0b36cc11499dde1105a6a0d2d5c7648b382900fad78e720089f4531c9f28fd",
-      "size": 7120,
-      "path": "docs/trl/07_experimental/bema_for_reference_model.md"
+      "size": 7120
     },
-    "https://huggingface.co/docs/trl/docs/trl/cpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/cpo_trainer",
+    "https://huggingface.co/docs/trl/cpo_trainer": {
+      "path": "docs/trl/07_experimental/cpo_trainer.md",
       "title": "CPO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "1904426fd1fc8d6796d423680e2b9ff4a3d0e371ab52eed1f2083ab1a88d3a33",
-      "size": 28827,
-      "path": "docs/trl/07_experimental/cpo_trainer.md"
+      "size": 28827
     },
-    "https://huggingface.co/docs/trl/docs/trl/gkd_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/gkd_trainer",
+    "https://huggingface.co/docs/trl/gkd_trainer": {
+      "path": "docs/trl/07_experimental/gkd_trainer.md",
       "title": "GKD",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "3cb5ca093bfe31714f20cd4f83c4f7d5e1c6c56687c610bd4ae6e943b1b80738",
-      "size": 20523,
-      "path": "docs/trl/07_experimental/gkd_trainer.md"
+      "size": 20523
     },
-    "https://huggingface.co/docs/trl/docs/trl/gmpo": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/gmpo",
+    "https://huggingface.co/docs/trl/gmpo": {
+      "path": "docs/trl/07_experimental/gmpo.md",
       "title": "GMPO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "bd77ec0d57425e04b116ac95cd0dfe912f82e4ed19807dcc7e10ece2c033e774",
-      "size": 13696,
-      "path": "docs/trl/07_experimental/gmpo.md"
+      "size": 13696
     },
-    "https://huggingface.co/docs/trl/docs/trl/gold_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/gold_trainer",
+    "https://huggingface.co/docs/trl/gold_trainer": {
+      "path": "docs/trl/07_experimental/gold_trainer.md",
       "title": "GOLD",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "e914eb16c4d607d2404782380177b2211ba2e17adc3db935f6a913ccf6781d9f",
-      "size": 35108,
-      "path": "docs/trl/07_experimental/gold_trainer.md"
+      "size": 35108
     },
-    "https://huggingface.co/docs/trl/docs/trl/iw_opd_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/iw_opd_trainer",
+    "https://huggingface.co/docs/trl/iw_opd_trainer": {
+      "path": "docs/trl/07_experimental/iw_opd_trainer.md",
       "title": "IW-OPD",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "163f1672a34daeb21a8c0310f9e138898cf27393b54a99831db40cd73d3a8b5b",
-      "size": 21371,
-      "path": "docs/trl/07_experimental/iw_opd_trainer.md"
+      "size": 21371
     },
-    "https://huggingface.co/docs/trl/docs/trl/merge_model_callback": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/merge_model_callback",
+    "https://huggingface.co/docs/trl/merge_model_callback": {
+      "path": "docs/trl/07_experimental/merge_model_callback.md",
       "title": "MergeModelCallback",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "a41b31632b63a7adcdc1babc74cd50a66eca3306aef5dbcc425e50d693dd0c28",
-      "size": 1393,
-      "path": "docs/trl/07_experimental/merge_model_callback.md"
+      "size": 1393
     },
-    "https://huggingface.co/docs/trl/docs/trl/online_dpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/online_dpo_trainer",
+    "https://huggingface.co/docs/trl/online_dpo_trainer": {
+      "path": "docs/trl/07_experimental/online_dpo_trainer.md",
       "title": "Online DPO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "ef9bd36c50429bfd624feb81752db8b5e88d00c5ad4ca885855092629206a846",
-      "size": 35548,
-      "path": "docs/trl/07_experimental/online_dpo_trainer.md"
+      "size": 35548
     },
-    "https://huggingface.co/docs/trl/docs/trl/orpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/orpo_trainer",
+    "https://huggingface.co/docs/trl/orpo_trainer": {
+      "path": "docs/trl/07_experimental/orpo_trainer.md",
       "title": "ORPO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "7b2c4cab00a98e948bfc2d76d454b3ac88a3e8bc41f992499bc23a22d9ed0a6c",
-      "size": 23415,
-      "path": "docs/trl/07_experimental/orpo_trainer.md"
+      "size": 23415
     },
-    "https://huggingface.co/docs/trl/docs/trl/sdft_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/sdft_trainer",
+    "https://huggingface.co/docs/trl/sdft_trainer": {
+      "path": "docs/trl/07_experimental/sdft_trainer.md",
       "title": "SDFT",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "f925c38005aca2eb12f2f751409e2b27d3d74c482f17f5612b46c9150c78b13d",
-      "size": 27897,
-      "path": "docs/trl/07_experimental/sdft_trainer.md"
+      "size": 27897
     },
-    "https://huggingface.co/docs/trl/docs/trl/sdpo_trainer": {
-      "url": "https://huggingface.co/docs/trl/docs/trl/sdpo_trainer",
+    "https://huggingface.co/docs/trl/sdpo_trainer": {
+      "path": "docs/trl/07_experimental/sdpo_trainer.md",
       "title": "SDPO",
       "chapter": "Experimental",
       "groups": [],
       "sha256": "6bff0178eb4ba5fd44f3f44fc9480bdd35e18c21a4090c483a19f837504d796c",
-      "size": 35419,
-      "path": "docs/trl/07_experimental/sdpo_trainer.md"
+      "size": 35419
     }
   }
 }

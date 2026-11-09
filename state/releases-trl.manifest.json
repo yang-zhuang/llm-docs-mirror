@@ -1,1038 +1,935 @@
 {
   "source": "trl.releases",
-  "fetched_at": "2026-11-09T22:29:51",
+  "fetched_at": "2026-11-09T23:40:14",
   "base_url": "huggingface/trl",
   "pages_total": 103,
   "files": {
     "https://github.com/huggingface/trl/releases/tag/v1.17.1": {
+      "path": "releases/trl/v1.17.1.md",
       "tag": "v1.17.1",
       "name": "v1.17.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.17.1",
       "published_at": "2026-10-30T14:15:28Z",
       "prerelease": false,
       "sha256": "9fbbcebe71ad55e510103d9a296d0cd5900e87709a3e81900b6d1e0ce7ac7c78",
-      "size": 402,
-      "path": "releases/trl/v1.17.1.md"
+      "size": 402
     },
     "https://github.com/huggingface/trl/releases/tag/v1.17.0": {
+      "path": "releases/trl/v1.17.0.md",
       "tag": "v1.17.0",
       "name": "v1.17.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.17.0",
       "published_at": "2026-10-29T15:51:15Z",
       "prerelease": false,
       "sha256": "5a24940d75e9a1e50446756e7ca05f6387eb95167b3d025736efd67ed088d356",
-      "size": 15500,
-      "path": "releases/trl/v1.17.0.md"
+      "size": 15500
     },
     "https://github.com/huggingface/trl/releases/tag/v1.16.0": {
+      "path": "releases/trl/v1.16.0.md",
       "tag": "v1.16.0",
       "name": "v1.16.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.16.0",
       "published_at": "2026-10-15T18:00:33Z",
       "prerelease": false,
       "sha256": "10424b7e77fee41f5f0e7e70bcfb5de5e67fa069a09bcec8e4fed543bd1b3541",
-      "size": 11224,
-      "path": "releases/trl/v1.16.0.md"
+      "size": 11224
     },
     "https://github.com/huggingface/trl/releases/tag/v1.15.0": {
+      "path": "releases/trl/v1.15.0.md",
       "tag": "v1.15.0",
       "name": "v1.15.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.15.0",
       "published_at": "2026-10-08T19:26:48Z",
       "prerelease": false,
       "sha256": "236cfe2eface961b4f2b9c50a6dea9844194bf456378362deee346a3931bfa06",
-      "size": 33779,
-      "path": "releases/trl/v1.15.0.md"
+      "size": 33779
     },
     "https://github.com/huggingface/trl/releases/tag/v1.14.2": {
+      "path": "releases/trl/v1.14.2.md",
       "tag": "v1.14.2",
       "name": "v1.14.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.14.2",
       "published_at": "2026-10-06T20:30:35Z",
       "prerelease": false,
       "sha256": "de7f23ac2e8c3ec989c9ac959005c48fe7afec4bd32f636eac790429fa5c8a46",
-      "size": 1647,
-      "path": "releases/trl/v1.14.2.md"
+      "size": 1647
     },
     "https://github.com/huggingface/trl/releases/tag/v1.14.1": {
+      "path": "releases/trl/v1.14.1.md",
       "tag": "v1.14.1",
       "name": "v1.14.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.14.1",
       "published_at": "2026-09-29T13:41:37Z",
       "prerelease": false,
       "sha256": "03429394480835229ca2136f98c6af67841d9fbc782412bac30399e650ddfb8d",
-      "size": 772,
-      "path": "releases/trl/v1.14.1.md"
+      "size": 772
     },
     "https://github.com/huggingface/trl/releases/tag/v1.14.0": {
+      "path": "releases/trl/v1.14.0.md",
       "tag": "v1.14.0",
       "name": "v1.14.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.14.0",
       "published_at": "2026-09-25T06:40:07Z",
       "prerelease": false,
       "sha256": "eb8475846a0a3f2bedb8e70452b07f9e35b1530e695f93aa875f49d00843ee75",
-      "size": 28166,
-      "path": "releases/trl/v1.14.0.md"
+      "size": 28166
     },
     "https://github.com/huggingface/trl/releases/tag/v1.13.0": {
+      "path": "releases/trl/v1.13.0.md",
       "tag": "v1.13.0",
       "name": "v1.13.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.13.0",
       "published_at": "2026-09-10T00:50:26Z",
       "prerelease": false,
       "sha256": "4730c0e7e3228308e37281089b91e43bb33fb8142a48c8cfd0394b5d007e34f4",
-      "size": 25812,
-      "path": "releases/trl/v1.13.0.md"
+      "size": 25812
     },
     "https://github.com/huggingface/trl/releases/tag/v1.12.0": {
+      "path": "releases/trl/v1.12.0.md",
       "tag": "v1.12.0",
       "name": "v1.12.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.12.0",
       "published_at": "2026-08-26T20:05:50Z",
       "prerelease": false,
       "sha256": "efc44811ee80d3845951232b14f5b9c29d22d0d78d21f81769551200b893940a",
-      "size": 955,
-      "path": "releases/trl/v1.12.0.md"
+      "size": 955
     },
     "https://github.com/huggingface/trl/releases/tag/v1.11.0": {
+      "path": "releases/trl/v1.11.0.md",
       "tag": "v1.11.0",
       "name": "v1.11.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.11.0",
       "published_at": "2026-08-26T20:02:08Z",
       "prerelease": false,
       "sha256": "3eb2588ab58b476d4cf0536ad3fa4ad6643e470d9bf7e139fab05643edaebba8",
-      "size": 25260,
-      "path": "releases/trl/v1.11.0.md"
+      "size": 25260
     },
     "https://github.com/huggingface/trl/releases/tag/v1.10.0": {
+      "path": "releases/trl/v1.10.0.md",
       "tag": "v1.10.0",
       "name": "v1.10.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.10.0",
       "published_at": "2026-08-13T01:36:04Z",
       "prerelease": false,
       "sha256": "7f41a7b937ff89fc6ddb6e3bd1bb45bffe5fc78495eddb647762c4f0d56d3bd4",
-      "size": 28051,
-      "path": "releases/trl/v1.10.0.md"
+      "size": 28051
     },
     "https://github.com/huggingface/trl/releases/tag/v1.9.2": {
+      "path": "releases/trl/v1.9.2.md",
       "tag": "v1.9.2",
       "name": "v1.9.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.9.2",
       "published_at": "2026-07-28T10:39:01Z",
       "prerelease": false,
       "sha256": "6df3850a1e5f5824e6098b03611bf2428c5b913a04a7378fc47aa7140375ec9d",
-      "size": 545,
-      "path": "releases/trl/v1.9.2.md"
+      "size": 545
     },
     "https://github.com/huggingface/trl/releases/tag/v1.9.1": {
+      "path": "releases/trl/v1.9.1.md",
       "tag": "v1.9.1",
       "name": "v1.9.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.9.1",
       "published_at": "2026-07-26T16:49:29Z",
       "prerelease": false,
       "sha256": "f5ddcf0936e9ef5795d88f016b5771aca9757a5b51646dd412aa684804547c8c",
-      "size": 1406,
-      "path": "releases/trl/v1.9.1.md"
+      "size": 1406
     },
     "https://github.com/huggingface/trl/releases/tag/v1.9.0": {
+      "path": "releases/trl/v1.9.0.md",
       "tag": "v1.9.0",
       "name": "v1.9.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.9.0",
       "published_at": "2026-07-21T20:36:12Z",
       "prerelease": false,
       "sha256": "072b288234439511c7e0d859848b585dd0400b81566053c002ef966276d01050",
-      "size": 28948,
-      "path": "releases/trl/v1.9.0.md"
+      "size": 28948
     },
     "https://github.com/huggingface/trl/releases/tag/v1.8.0": {
+      "path": "releases/trl/v1.8.0.md",
       "tag": "v1.8.0",
       "name": "v1.8.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.8.0",
       "published_at": "2026-07-09T18:41:28Z",
       "prerelease": false,
       "sha256": "fd5be8a543c43badabd9353c7ea6733164cad301d95bd7c5a9c79d6223c89c2b",
-      "size": 28939,
-      "path": "releases/trl/v1.8.0.md"
+      "size": 28939
     },
     "https://github.com/huggingface/trl/releases/tag/v1.7.1": {
+      "path": "releases/trl/v1.7.1.md",
       "tag": "v1.7.1",
       "name": "v1.7.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.7.1",
       "published_at": "2026-07-04T04:05:54Z",
       "prerelease": false,
       "sha256": "5d7bc602941d07b855095905ca81038e034ef42c67a5a088e8af10adc5bbc361",
-      "size": 1116,
-      "path": "releases/trl/v1.7.1.md"
+      "size": 1116
     },
     "https://github.com/huggingface/trl/releases/tag/v1.7.0": {
+      "path": "releases/trl/v1.7.0.md",
       "tag": "v1.7.0",
       "name": "v1.7.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.7.0",
       "published_at": "2026-06-25T22:52:18Z",
       "prerelease": false,
       "sha256": "7ee1f2abd4fbc5ac2eaec7a9874cb7695c12d29613827641e34cee234356bf64",
-      "size": 29080,
-      "path": "releases/trl/v1.7.0.md"
+      "size": 29080
     },
     "https://github.com/huggingface/trl/releases/tag/v1.6.0": {
+      "path": "releases/trl/v1.6.0.md",
       "tag": "v1.6.0",
       "name": "v1.6.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.6.0",
       "published_at": "2026-06-11T22:00:15Z",
       "prerelease": false,
       "sha256": "fa4ab43ca8b43e6b46185ae6af8aaf68ca92f75cfe08f82163a27657db5e9468",
-      "size": 28240,
-      "path": "releases/trl/v1.6.0.md"
+      "size": 28240
     },
     "https://github.com/huggingface/trl/releases/tag/v1.5.1": {
+      "path": "releases/trl/v1.5.1.md",
       "tag": "v1.5.1",
       "name": "v1.5.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.5.1",
       "published_at": "2026-05-27T15:26:53Z",
       "prerelease": false,
       "sha256": "d137de1db66663a8c85df52b54c1e0aadcf7bac81d99cbfdf4cbb6521f6460b3",
-      "size": 380,
-      "path": "releases/trl/v1.5.1.md"
+      "size": 380
     },
     "https://github.com/huggingface/trl/releases/tag/v1.5.0": {
+      "path": "releases/trl/v1.5.0.md",
       "tag": "v1.5.0",
       "name": "v1.5.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.5.0",
       "published_at": "2026-05-25T15:33:19Z",
       "prerelease": false,
       "sha256": "2fcaef0c3c3ebec5137d4bfcd80dbcc7071813efa4fd2e33867ac0d6b1e65603",
-      "size": 14212,
-      "path": "releases/trl/v1.5.0.md"
+      "size": 14212
     },
     "https://github.com/huggingface/trl/releases/tag/v1.4.0": {
+      "path": "releases/trl/v1.4.0.md",
       "tag": "v1.4.0",
       "name": "v1.4.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.4.0",
       "published_at": "2026-05-09T00:01:36Z",
       "prerelease": false,
       "sha256": "7c9d0c53e563e2c7a9d073da56a762617ec8218036e7fc09765e63a1cc1b150f",
-      "size": 18435,
-      "path": "releases/trl/v1.4.0.md"
+      "size": 18435
     },
     "https://github.com/huggingface/trl/releases/tag/v1.3.0": {
+      "path": "releases/trl/v1.3.0.md",
       "tag": "v1.3.0",
       "name": "v1.3.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.3.0",
       "published_at": "2026-04-26T15:40:07Z",
       "prerelease": false,
       "sha256": "02d5892d314e35508069e50640d01da1ff83eb1bd601f4298a01614872763afe",
-      "size": 13554,
-      "path": "releases/trl/v1.3.0.md"
+      "size": 13554
     },
     "https://github.com/huggingface/trl/releases/tag/v1.2.0": {
+      "path": "releases/trl/v1.2.0.md",
       "tag": "v1.2.0",
       "name": "v1.2.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.2.0",
       "published_at": "2026-04-17T01:13:05Z",
       "prerelease": false,
       "sha256": "33f39380710dbda54a44602c08a3a085fab733670141a1c6f7eb1a8455b96784",
-      "size": 10117,
-      "path": "releases/trl/v1.2.0.md"
+      "size": 10117
     },
     "https://github.com/huggingface/trl/releases/tag/v1.1.0": {
+      "path": "releases/trl/v1.1.0.md",
       "tag": "v1.1.0",
       "name": "v1.1.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.1.0",
       "published_at": "2026-04-12T02:15:56Z",
       "prerelease": false,
       "sha256": "8470182fcf394386c7ded92e8f9e60b062d57d14f11bba2f1f25653f270fbd2a",
-      "size": 22882,
-      "path": "releases/trl/v1.1.0.md"
+      "size": 22882
     },
     "https://github.com/huggingface/trl/releases/tag/v1.0.0": {
+      "path": "releases/trl/v1.0.0.md",
       "tag": "v1.0.0",
       "name": "v1.0.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.0.0",
       "published_at": "2026-03-31T14:15:06Z",
       "prerelease": false,
       "sha256": "bd93332753fafb95dd7b89b10d138a3c25ac642aacffa9ff174701472e67a7df",
-      "size": 28632,
-      "path": "releases/trl/v1.0.0.md"
+      "size": 28632
     },
     "https://github.com/huggingface/trl/releases/tag/v1.0.0rc1": {
+      "path": "releases/trl/v1.0.0rc1.md",
       "tag": "v1.0.0rc1",
       "name": "v1.0.0rc1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v1.0.0rc1",
       "published_at": "2026-03-20T23:55:04Z",
       "prerelease": true,
       "sha256": "ac1d478fce1e9c1a5480d3acc4b6da2439b1f69b5a111a3e4238efc5aea5bdbf",
-      "size": 20550,
-      "path": "releases/trl/v1.0.0rc1.md"
+      "size": 20550
     },
     "https://github.com/huggingface/trl/releases/tag/v0.29.1": {
+      "path": "releases/trl/v0.29.1.md",
       "tag": "v0.29.1",
       "name": "v0.29.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.29.1",
       "published_at": "2026-03-20T03:57:13Z",
       "prerelease": false,
       "sha256": "c2d21178537b99112a400874bb60a85c1c7d1cdd90988cfa0750c37fb9082c1a",
-      "size": 3019,
-      "path": "releases/trl/v0.29.1.md"
+      "size": 3019
     },
     "https://github.com/huggingface/trl/releases/tag/v0.29.0": {
+      "path": "releases/trl/v0.29.0.md",
       "tag": "v0.29.0",
       "name": "v0.29.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.29.0",
       "published_at": "2026-02-25T22:38:09Z",
       "prerelease": false,
       "sha256": "c129d2076c0f3db0cc9b707285f51d22a2d241061e1976141362511da02f94c0",
-      "size": 25551,
-      "path": "releases/trl/v0.29.0.md"
+      "size": 25551
     },
     "https://github.com/huggingface/trl/releases/tag/v0.28.0": {
+      "path": "releases/trl/v0.28.0.md",
       "tag": "v0.28.0",
       "name": " v0.28.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.28.0",
       "published_at": "2026-02-10T13:28:21Z",
       "prerelease": false,
       "sha256": "7c4a8906fcda30a0fd4bfb21653034e6b083a7299a50f3c3e07888bc340f97eb",
-      "size": 26887,
-      "path": "releases/trl/v0.28.0.md"
+      "size": 26887
     },
     "https://github.com/huggingface/trl/releases/tag/v0.27.2": {
+      "path": "releases/trl/v0.27.2.md",
       "tag": "v0.27.2",
       "name": "v0.27.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.27.2",
       "published_at": "2026-02-03T18:10:01Z",
       "prerelease": false,
       "sha256": "eb37903b08b992b1fc6a74d7a6dfe02d55d19fa4bddf663120bc9bc3044f1530",
-      "size": 579,
-      "path": "releases/trl/v0.27.2.md"
+      "size": 579
     },
     "https://github.com/huggingface/trl/releases/tag/v0.27.1": {
+      "path": "releases/trl/v0.27.1.md",
       "tag": "v0.27.1",
       "name": "v0.27.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.27.1",
       "published_at": "2026-01-24T03:42:17Z",
       "prerelease": false,
       "sha256": "0ee7cc4dd9d3f9850d7cbd763b2d02ba421fd738c3ad1ae21b92dda53f561dc3",
-      "size": 1064,
-      "path": "releases/trl/v0.27.1.md"
+      "size": 1064
     },
     "https://github.com/huggingface/trl/releases/tag/v0.27.0": {
+      "path": "releases/trl/v0.27.0.md",
       "tag": "v0.27.0",
       "name": "v0.27.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.27.0",
       "published_at": "2026-01-16T02:34:32Z",
       "prerelease": false,
       "sha256": "3476f60a8897196eb1ba8cf10576e1afab9d1e03e4511914be9233afc3e90ac0",
-      "size": 15140,
-      "path": "releases/trl/v0.27.0.md"
+      "size": 15140
     },
     "https://github.com/huggingface/trl/releases/tag/v0.26.2": {
+      "path": "releases/trl/v0.26.2.md",
       "tag": "v0.26.2",
       "name": "v0.26.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.26.2",
       "published_at": "2025-12-18T15:55:24Z",
       "prerelease": false,
       "sha256": "6e35f626ff993f3492f4658a200cdf67d6f8cc8dd5f0a9d08995e63065971c23",
-      "size": 390,
-      "path": "releases/trl/v0.26.2.md"
+      "size": 390
     },
     "https://github.com/huggingface/trl/releases/tag/v0.26.1": {
+      "path": "releases/trl/v0.26.1.md",
       "tag": "v0.26.1",
       "name": "v0.26.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.26.1",
       "published_at": "2025-12-12T17:50:48Z",
       "prerelease": false,
       "sha256": "dbb8f31bf4aafbb31d57ad7f7b687ed16132fd90f7c7feab09c02b2acc66a561",
-      "size": 688,
-      "path": "releases/trl/v0.26.1.md"
+      "size": 688
     },
     "https://github.com/huggingface/trl/releases/tag/v0.26.0": {
+      "path": "releases/trl/v0.26.0.md",
       "tag": "v0.26.0",
       "name": "v0.26.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.26.0",
       "published_at": "2025-12-09T20:51:12Z",
       "prerelease": false,
       "sha256": "b6db018210122ebb7a78e519ffb44e742074d3147e07d8c3024120b6314ada12",
-      "size": 29319,
-      "path": "releases/trl/v0.26.0.md"
+      "size": 29319
     },
     "https://github.com/huggingface/trl/releases/tag/v0.25.1": {
+      "path": "releases/trl/v0.25.1.md",
       "tag": "v0.25.1",
       "name": "v0.25.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.25.1",
       "published_at": "2025-11-12T16:51:21Z",
       "prerelease": false,
       "sha256": "b1f279b6cb4d681d41b89a300447fdb61d72a558373526d34075bc9b32e19b69",
-      "size": 513,
-      "path": "releases/trl/v0.25.1.md"
+      "size": 513
     },
     "https://github.com/huggingface/trl/releases/tag/v0.25.0": {
+      "path": "releases/trl/v0.25.0.md",
       "tag": "v0.25.0",
       "name": "v0.25.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.25.0",
       "published_at": "2025-11-06T00:18:30Z",
       "prerelease": false,
       "sha256": "f11453e4c2f128024606451dbd393ea0fc16aa861b6f525801f8a4ddba33cf18",
-      "size": 17721,
-      "path": "releases/trl/v0.25.0.md"
+      "size": 17721
     },
     "https://github.com/huggingface/trl/releases/tag/v0.24.0": {
+      "path": "releases/trl/v0.24.0.md",
       "tag": "v0.24.0",
       "name": "v0.24.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.24.0",
       "published_at": "2025-10-16T00:29:40Z",
       "prerelease": false,
       "sha256": "dc1655e6dd34348f3929ddb4adb06cdae1af1f4f7a43bb7f8d0d3084c2be4d67",
-      "size": 25640,
-      "path": "releases/trl/v0.24.0.md"
+      "size": 25640
     },
     "https://github.com/huggingface/trl/releases/tag/v0.23.1": {
+      "path": "releases/trl/v0.23.1.md",
       "tag": "v0.23.1",
       "name": "v0.23.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.23.1",
       "published_at": "2025-10-02T05:20:49Z",
       "prerelease": false,
       "sha256": "deb9ef774750a6fe0a9cf0b430d20cde7aa7704e011eef5d00b0d20121297102",
-      "size": 1130,
-      "path": "releases/trl/v0.23.1.md"
+      "size": 1130
     },
     "https://github.com/huggingface/trl/releases/tag/v0.23.0": {
+      "path": "releases/trl/v0.23.0.md",
       "tag": "v0.23.0",
       "name": "v0.23.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.23.0",
       "published_at": "2025-09-10T04:39:53Z",
       "prerelease": false,
       "sha256": "5716055f06bceaa1d59111e8ed1573d9dff3ad953f5d880920296d41dc153bbe",
-      "size": 8800,
-      "path": "releases/trl/v0.23.0.md"
+      "size": 8800
     },
     "https://github.com/huggingface/trl/releases/tag/v0.22.2": {
+      "path": "releases/trl/v0.22.2.md",
       "tag": "v0.22.2",
       "name": "v0.22.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.22.2",
       "published_at": "2025-09-03T14:44:47Z",
       "prerelease": false,
       "sha256": "425e83588659a5da550c85e21d18ffaebd6d8f50cb87a2c29c9914e4403450b6",
-      "size": 697,
-      "path": "releases/trl/v0.22.2.md"
+      "size": 697
     },
     "https://github.com/huggingface/trl/releases/tag/v0.22.1": {
+      "path": "releases/trl/v0.22.1.md",
       "tag": "v0.22.1",
       "name": "v0.22.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.22.1",
       "published_at": "2025-08-29T22:11:44Z",
       "prerelease": false,
       "sha256": "62f4ebfbfc58685e23818f2b4b91d79aa275f5f459441dfa25825aa472bf43a1",
-      "size": 359,
-      "path": "releases/trl/v0.22.1.md"
+      "size": 359
     },
     "https://github.com/huggingface/trl/releases/tag/v0.22.0": {
+      "path": "releases/trl/v0.22.0.md",
       "tag": "v0.22.0",
       "name": "v0.22.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.22.0",
       "published_at": "2025-08-29T22:07:33Z",
       "prerelease": false,
       "sha256": "c6531b99a9cdedf97e1b9183a6a32d546e83c29bafefcd4b47f9f18085856071",
-      "size": 13791,
-      "path": "releases/trl/v0.22.0.md"
+      "size": 13791
     },
     "https://github.com/huggingface/trl/releases/tag/v0.21.0": {
+      "path": "releases/trl/v0.21.0.md",
       "tag": "v0.21.0",
       "name": "v0.21.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.21.0",
       "published_at": "2025-08-05T17:01:43Z",
       "prerelease": false,
       "sha256": "c160ef8362a4785cfc920eaffd0eac470191d505901c5295a597c056d950bfb9",
-      "size": 3293,
-      "path": "releases/trl/v0.21.0.md"
+      "size": 3293
     },
     "https://github.com/huggingface/trl/releases/tag/v0.20.0": {
+      "path": "releases/trl/v0.20.0.md",
       "tag": "v0.20.0",
       "name": "v0.20.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.20.0",
       "published_at": "2025-07-29T04:59:20Z",
       "prerelease": false,
       "sha256": "eec8b46999197bd123850a845450a50ee64aa82453246dc734cd4c45bf3acd10",
-      "size": 14164,
-      "path": "releases/trl/v0.20.0.md"
+      "size": 14164
     },
     "https://github.com/huggingface/trl/releases/tag/v0.19.1": {
+      "path": "releases/trl/v0.19.1.md",
       "tag": "v0.19.1",
       "name": "v0.19.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.19.1",
       "published_at": "2025-07-08T01:07:35Z",
       "prerelease": false,
       "sha256": "aa3eeee116bd85cb5aa40aa5257ae64c6f46274ca969def774f91318d3605787",
-      "size": 1480,
-      "path": "releases/trl/v0.19.1.md"
+      "size": 1480
     },
     "https://github.com/huggingface/trl/releases/tag/v0.19.0": {
+      "path": "releases/trl/v0.19.0.md",
       "tag": "v0.19.0",
       "name": "v0.19.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.19.0",
       "published_at": "2025-06-21T14:04:10Z",
       "prerelease": false,
       "sha256": "bf27769f1cd4d538bb48b1e49934bd49fc1d7afaf03ab32db551e67b9f5f01c5",
-      "size": 15797,
-      "path": "releases/trl/v0.19.0.md"
+      "size": 15797
     },
     "https://github.com/huggingface/trl/releases/tag/v0.18.2": {
+      "path": "releases/trl/v0.18.2.md",
       "tag": "v0.18.2",
       "name": "v0.18.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.18.2",
       "published_at": "2025-06-15T22:15:03Z",
       "prerelease": false,
       "sha256": "0cc1a52b56a4458bd7f5dedcb2ce340cd5945a320e0d4f1ebf665c06ec5d3506",
-      "size": 460,
-      "path": "releases/trl/v0.18.2.md"
+      "size": 460
     },
     "https://github.com/huggingface/trl/releases/tag/v0.18.1": {
+      "path": "releases/trl/v0.18.1.md",
       "tag": "v0.18.1",
       "name": "v0.18.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.18.1",
       "published_at": "2025-06-03T01:31:17Z",
       "prerelease": false,
       "sha256": "051eb8500caaf6e773b41754b6d49fe79be808828b0f35d3066e8118e006f0a5",
-      "size": 491,
-      "path": "releases/trl/v0.18.1.md"
+      "size": 491
     },
     "https://github.com/huggingface/trl/releases/tag/v0.18.0": {
+      "path": "releases/trl/v0.18.0.md",
       "tag": "v0.18.0",
       "name": "v0.18.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.18.0",
       "published_at": "2025-05-28T01:56:15Z",
       "prerelease": false,
       "sha256": "7eb63366b74fe98a9503d8202bb51cb1654ad1c332405842abd065040f48c2e1",
-      "size": 8666,
-      "path": "releases/trl/v0.18.0.md"
+      "size": 8666
     },
     "https://github.com/huggingface/trl/releases/tag/v0.17.0": {
+      "path": "releases/trl/v0.17.0.md",
       "tag": "v0.17.0",
       "name": "v0.17.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.17.0",
       "published_at": "2025-04-25T02:20:18Z",
       "prerelease": false,
       "sha256": "0aaf30d54c33aa2cdb625086f967ef2fdd30ff5ef2e8a0a04edb095a3fd2b15d",
-      "size": 15086,
-      "path": "releases/trl/v0.17.0.md"
+      "size": 15086
     },
     "https://github.com/huggingface/trl/releases/tag/v0.16.1": {
+      "path": "releases/trl/v0.16.1.md",
       "tag": "v0.16.1",
       "name": "v0.16.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.16.1",
       "published_at": "2025-04-04T18:23:55Z",
       "prerelease": false,
       "sha256": "154ef77591803e792434c74f4d3fdfafb05aa87a571ef4444c6c3a1e896a39e5",
-      "size": 494,
-      "path": "releases/trl/v0.16.1.md"
+      "size": 494
     },
     "https://github.com/huggingface/trl/releases/tag/v0.16.0": {
+      "path": "releases/trl/v0.16.0.md",
       "tag": "v0.16.0",
       "name": "v0.16.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.16.0",
       "published_at": "2025-03-22T21:18:58Z",
       "prerelease": false,
       "sha256": "4bb040354b0a6847ea1c2f24e86f0f6a45e9bdcef3e9530033071f71e3d5b078",
-      "size": 20143,
-      "path": "releases/trl/v0.16.0.md"
+      "size": 20143
     },
     "https://github.com/huggingface/trl/releases/tag/v0.15.2": {
+      "path": "releases/trl/v0.15.2.md",
       "tag": "v0.15.2",
       "name": "v0.15.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.15.2",
       "published_at": "2025-02-25T22:40:00Z",
       "prerelease": false,
       "sha256": "ea13783d578c4899948e41533e47992edc685e124dfa29e5e7b81d54aded1429",
-      "size": 422,
-      "path": "releases/trl/v0.15.2.md"
+      "size": 422
     },
     "https://github.com/huggingface/trl/releases/tag/v0.15.1": {
+      "path": "releases/trl/v0.15.1.md",
       "tag": "v0.15.1",
       "name": "v0.15.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.15.1",
       "published_at": "2025-02-18T14:57:21Z",
       "prerelease": false,
       "sha256": "4b1d0904a0e3fcf5a6d6747ba97c21ce7930af7767a8a0e466d960cb7e5bb244",
-      "size": 706,
-      "path": "releases/trl/v0.15.1.md"
+      "size": 706
     },
     "https://github.com/huggingface/trl/releases/tag/v0.15.0": {
+      "path": "releases/trl/v0.15.0.md",
       "tag": "v0.15.0",
       "name": "v0.15.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.15.0",
       "published_at": "2025-02-13T14:42:36Z",
       "prerelease": false,
       "sha256": "bacf3640671203a863a4f33f2635decda6bd695ad2ca8e7458e7985f884d0b72",
-      "size": 7539,
-      "path": "releases/trl/v0.15.0.md"
+      "size": 7539
     },
     "https://github.com/huggingface/trl/releases/tag/v0.14.0": {
+      "path": "releases/trl/v0.14.0.md",
       "tag": "v0.14.0",
       "name": "v0.14.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.14.0",
       "published_at": "2025-01-29T16:47:28Z",
       "prerelease": false,
       "sha256": "7fca394bffd051de0cb1dc33b84024ececb745be8a2004da497347c43ecf6517",
-      "size": 8297,
-      "path": "releases/trl/v0.14.0.md"
+      "size": 8297
     },
     "https://github.com/huggingface/trl/releases/tag/v0.13.0": {
+      "path": "releases/trl/v0.13.0.md",
       "tag": "v0.13.0",
       "name": "v0.13.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.13.0",
       "published_at": "2024-12-16T18:31:38Z",
       "prerelease": false,
       "sha256": "602d991ad1cd872c4271a316342107923eebbd2dc04c98019fa39889fd4dd777",
-      "size": 17585,
-      "path": "releases/trl/v0.13.0.md"
+      "size": 17585
     },
     "https://github.com/huggingface/trl/releases/tag/v0.12.2": {
+      "path": "releases/trl/v0.12.2.md",
       "tag": "v0.12.2",
       "name": "v0.12.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.12.2",
       "published_at": "2024-12-06T13:01:21Z",
       "prerelease": false,
       "sha256": "4a2eb87f6c461c036b81e966e4425a6eae5efee79527c7a16e0e0781355b55f2",
-      "size": 347,
-      "path": "releases/trl/v0.12.2.md"
+      "size": 347
     },
     "https://github.com/huggingface/trl/releases/tag/v0.12.1": {
+      "path": "releases/trl/v0.12.1.md",
       "tag": "v0.12.1",
       "name": "v0.12.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.12.1",
       "published_at": "2024-11-15T12:30:07Z",
       "prerelease": false,
       "sha256": "1007c41a5743644c5c2b12083444db05ac98313388bef30b06c5999332f4ac39",
-      "size": 382,
-      "path": "releases/trl/v0.12.1.md"
+      "size": 382
     },
     "https://github.com/huggingface/trl/releases/tag/v0.12.0": {
+      "path": "releases/trl/v0.12.0.md",
       "tag": "v0.12.0",
       "name": "v0.12.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.12.0",
       "published_at": "2024-11-04T13:54:10Z",
       "prerelease": false,
       "sha256": "ddba59c81db70b69564512dbe96e81207f3bd071b906db8c9e3c7b24051888a0",
-      "size": 22002,
-      "path": "releases/trl/v0.12.0.md"
+      "size": 22002
     },
     "https://github.com/huggingface/trl/releases/tag/v0.11.4": {
+      "path": "releases/trl/v0.11.4.md",
       "tag": "v0.11.4",
       "name": "v0.11.4",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.11.4",
       "published_at": "2024-10-15T08:50:11Z",
       "prerelease": false,
       "sha256": "a836daa4bc98a28da50db8d26ba149a2c73569ec9b9b3099cccd470918f18fb2",
-      "size": 478,
-      "path": "releases/trl/v0.11.4.md"
+      "size": 478
     },
     "https://github.com/huggingface/trl/releases/tag/v0.11.3": {
+      "path": "releases/trl/v0.11.3.md",
       "tag": "v0.11.3",
       "name": "v0.11.3",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.11.3",
       "published_at": "2024-10-10T16:33:07Z",
       "prerelease": false,
       "sha256": "3330acfa6881e211359628e88f9dadeed6fc9faaaf4daed0e2633602db501cff",
-      "size": 693,
-      "path": "releases/trl/v0.11.3.md"
+      "size": 693
     },
     "https://github.com/huggingface/trl/releases/tag/v0.11.2": {
+      "path": "releases/trl/v0.11.2.md",
       "tag": "v0.11.2",
       "name": "v0.11.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.11.2",
       "published_at": "2024-10-07T17:21:17Z",
       "prerelease": false,
       "sha256": "1ddd561bb07fd584f653190a9a2c4b519cf7aeab9fa28ffd28d2f7bdd9a831ae",
-      "size": 343,
-      "path": "releases/trl/v0.11.2.md"
+      "size": 343
     },
     "https://github.com/huggingface/trl/releases/tag/v0.11.1": {
+      "path": "releases/trl/v0.11.1.md",
       "tag": "v0.11.1",
       "name": "v0.11.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.11.1",
       "published_at": "2024-09-24T16:13:05Z",
       "prerelease": false,
       "sha256": "a0994352498380f54b320ed34cd0988de1073ab054a1f19f17b3e6a66ed71778",
-      "size": 346,
-      "path": "releases/trl/v0.11.1.md"
+      "size": 346
     },
     "https://github.com/huggingface/trl/releases/tag/v0.11.0": {
+      "path": "releases/trl/v0.11.0.md",
       "tag": "v0.11.0",
       "name": "v0.11.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.11.0",
       "published_at": "2024-09-19T08:46:19Z",
       "prerelease": false,
       "sha256": "0cc515fc85a94f182f97a076edb546875ad7ae47429bc51c5034c1c3750db385",
-      "size": 11705,
-      "path": "releases/trl/v0.11.0.md"
+      "size": 11705
     },
     "https://github.com/huggingface/trl/releases/tag/v0.10.1": {
+      "path": "releases/trl/v0.10.1.md",
       "tag": "v0.10.1",
       "name": "v0.10.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.10.1",
       "published_at": "2024-08-29T14:34:50Z",
       "prerelease": false,
       "sha256": "48e6e5c9a5b5abc06e01952c7a275bcbd9775a731b30802a0c0e481fda4120fc",
-      "size": 13848,
-      "path": "releases/trl/v0.10.1.md"
+      "size": 13848
     },
     "https://github.com/huggingface/trl/releases/tag/v0.9.6": {
+      "path": "releases/trl/v0.9.6.md",
       "tag": "v0.9.6",
       "name": "v0.9.6 release",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.9.6",
       "published_at": "2024-07-08T13:51:10Z",
       "prerelease": false,
       "sha256": "7b1fdaaf6f453ba15c102d48d1b25c1f1c0ce3f333ceaa1513213b08c0c9627e",
-      "size": 6451,
-      "path": "releases/trl/v0.9.6.md"
+      "size": 6451
     },
     "https://github.com/huggingface/trl/releases/tag/v0.9.4": {
+      "path": "releases/trl/v0.9.4.md",
       "tag": "v0.9.4",
       "name": "v0.9.4",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.9.4",
       "published_at": "2024-06-06T14:17:27Z",
       "prerelease": false,
       "sha256": "c56cbe26a96a77fb8368bf7ebad629dbb8883d651efaadf96cf41be48a0259f4",
-      "size": 766,
-      "path": "releases/trl/v0.9.4.md"
+      "size": 766
     },
     "https://github.com/huggingface/trl/releases/tag/v0.9.3": {
+      "path": "releases/trl/v0.9.3.md",
       "tag": "v0.9.3",
       "name": "v0.9.3 RLOO / PPOv2 Trainer, RM Visualization",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.9.3",
       "published_at": "2024-06-05T16:08:05Z",
       "prerelease": false,
       "sha256": "443837d59216c7dacc75013d3d7040d4aa60eedb240a6c251bd013fd66a398a0",
-      "size": 7680,
-      "path": "releases/trl/v0.9.3.md"
+      "size": 7680
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.6": {
+      "path": "releases/trl/v0.8.6.md",
       "tag": "v0.8.6",
       "name": "v0.8.6: Fixes for CLI",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.6",
       "published_at": "2024-04-22T08:59:58Z",
       "prerelease": false,
       "sha256": "53214fef303c73c33c8d08bf4339fd15e4fbe8974a5c5a607d151d01be906b21",
-      "size": 684,
-      "path": "releases/trl/v0.8.6.md"
+      "size": 684
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.5": {
+      "path": "releases/trl/v0.8.5.md",
       "tag": "v0.8.5",
       "name": "v0.8.5: Important fixes for CLIs",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.5",
       "published_at": "2024-04-18T11:58:41Z",
       "prerelease": false,
       "sha256": "e797e7bd82d4b4a105a6aaf1574cddc2c36f96a10b2d561b83512072f232730c",
-      "size": 645,
-      "path": "releases/trl/v0.8.5.md"
+      "size": 645
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.4": {
+      "path": "releases/trl/v0.8.4.md",
       "tag": "v0.8.4",
       "name": "v0.8.4: CLI / CPO / KTO important fixes ",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.4",
       "published_at": "2024-04-17T15:22:10Z",
       "prerelease": false,
       "sha256": "a30fb890f77d3b95fbf6c2af988f533a8a1a60af4a2a1dcc6ce6d75926e39690",
-      "size": 1421,
-      "path": "releases/trl/v0.8.4.md"
+      "size": 1421
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.3": {
+      "path": "releases/trl/v0.8.3.md",
       "tag": "v0.8.3",
       "name": "v0.8.3: Patch release for CLI",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.3",
       "published_at": "2024-04-12T10:25:23Z",
       "prerelease": false,
       "sha256": "8caf477c911186690f2efbe13fba24dafa4919260ac46de6cbf3672178202376",
-      "size": 583,
-      "path": "releases/trl/v0.8.3.md"
+      "size": 583
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.2": {
+      "path": "releases/trl/v0.8.2.md",
       "tag": "v0.8.2",
       "name": "v0.8.2: ORPO & CPO Trainer / Vision LLMs support for `SFTTrainer`, KTO fixes",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.2",
       "published_at": "2024-04-11T13:51:28Z",
       "prerelease": false,
       "sha256": "c90caa2526cb4efe5d55bf88d645fae51683a7ddc26a0aa5b18053ca021ed43a",
-      "size": 4920,
-      "path": "releases/trl/v0.8.2.md"
+      "size": 4920
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.1": {
+      "path": "releases/trl/v0.8.1.md",
       "tag": "v0.8.1",
       "name": "v0.8.1: Patch release for CLIs",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.1",
       "published_at": "2024-03-20T10:39:16Z",
       "prerelease": false,
       "sha256": "4c0eeab667e11a04ee1a109680c053fea80c0d3715a76ee623eec977c032a13e",
-      "size": 691,
-      "path": "releases/trl/v0.8.1.md"
+      "size": 691
     },
     "https://github.com/huggingface/trl/releases/tag/v0.8.0": {
+      "path": "releases/trl/v0.8.0.md",
       "tag": "v0.8.0",
       "name": "v0.8.0: KTOTrainer, TRL CLIs, QLoRA + FSDP !",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.8.0",
       "published_at": "2024-03-19T16:25:11Z",
       "prerelease": false,
       "sha256": "2913e6b0fb2ff230fc55c23ca57de25aae49313806e3ee80f392d9e012dadc52",
-      "size": 5608,
-      "path": "releases/trl/v0.8.0.md"
+      "size": 5608
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.11": {
+      "path": "releases/trl/v0.7.11.md",
       "tag": "v0.7.11",
       "name": "v0.7.11: IPO & DPO fixes, faster data processing for multi-GPU, Automatic tagging for all models",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.11",
       "published_at": "2024-02-16T08:22:47Z",
       "prerelease": false,
       "sha256": "7e2fbf4becac8874786927c00518226080159a438e92a29c220048aae77a2bf6",
-      "size": 5478,
-      "path": "releases/trl/v0.7.11.md"
+      "size": 5478
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.10": {
+      "path": "releases/trl/v0.7.10.md",
       "tag": "v0.7.10",
       "name": "v0.7.10: Automatic templating, `setup_chat_format` API, stronger tests",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.10",
       "published_at": "2024-01-19T10:58:25Z",
       "prerelease": false,
       "sha256": "59fb1ef33af78af3a78a8e2cade4be9a59c328f6f6fb431bcac404b22caf8cd9",
-      "size": 4014,
-      "path": "releases/trl/v0.7.10.md"
+      "size": 4014
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.9": {
+      "path": "releases/trl/v0.7.9.md",
       "tag": "v0.7.9",
       "name": "v0.7.9: Patch release for DPO & SFTTrainer",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.9",
       "published_at": "2024-01-09T12:06:13Z",
       "prerelease": false,
       "sha256": "9a1dd69b77f1be20c7a5c73c7ec342df89fcd5c6accafa927079cc5c55868b5e",
-      "size": 1201,
-      "path": "releases/trl/v0.7.9.md"
+      "size": 1201
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.8": {
+      "path": "releases/trl/v0.7.8.md",
       "tag": "v0.7.8",
       "name": "v0.7.8: Unsloth tag, DPO fixes, PEFT support for DDPO ",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.8",
       "published_at": "2024-01-09T04:17:27Z",
       "prerelease": false,
       "sha256": "f1a6c9a3f4174aa8405fa69806ce1ba3e92ca559d5b069ec1f21a1a9131844a2",
-      "size": 3315,
-      "path": "releases/trl/v0.7.8.md"
+      "size": 3315
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.7": {
+      "path": "releases/trl/v0.7.7.md",
       "tag": "v0.7.7",
       "name": "v0.7.7",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.7",
       "published_at": "2023-12-26T09:27:17Z",
       "prerelease": false,
       "sha256": "024876759d454bd9254d783f7c8a004d8b8c874331af45224eef3820992570c6",
-      "size": 1307,
-      "path": "releases/trl/v0.7.7.md"
+      "size": 1307
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.6": {
+      "path": "releases/trl/v0.7.6.md",
       "tag": "v0.7.6",
       "name": "v0.7.6: Patch release - Multi-tag instead of single tags for `xxxTrainer`",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.6",
       "published_at": "2023-12-22T14:10:45Z",
       "prerelease": false,
       "sha256": "ec7b67449c81d3abaf848f1fe3700e06b6d12e4bb3ead7dc9b294bd9343ff4a1",
-      "size": 755,
-      "path": "releases/trl/v0.7.6.md"
+      "size": 755
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.5": {
+      "path": "releases/trl/v0.7.5.md",
       "tag": "v0.7.5",
       "name": "v0.7.5: IPO & KTO & cDPO loss, `DPOTrainer` enhancements, automatic tags for `xxxTrainer`",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.5",
       "published_at": "2023-12-22T13:09:41Z",
       "prerelease": false,
       "sha256": "b4da08445818ea421bdbd2268ba88746d9f13944a32ffcd0e0968d7a2e6a63dc",
-      "size": 8013,
-      "path": "releases/trl/v0.7.5.md"
+      "size": 8013
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.4": {
+      "path": "releases/trl/v0.7.4.md",
       "tag": "v0.7.4",
       "name": "v0.7.4: Patch Release",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.4",
       "published_at": "2023-11-10T15:07:00Z",
       "prerelease": false,
       "sha256": "824a944eeaedcec2b4334dc44e4640dc4641048c259df3076c8b49abe726e407",
-      "size": 741,
-      "path": "releases/trl/v0.7.4.md"
+      "size": 741
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.3": {
+      "path": "releases/trl/v0.7.3.md",
       "tag": "v0.7.3",
       "name": "v0.7.3:`IterativeTrainer`, NEFTune and major bugfixes for `DPOTrainer` and Distributed Training",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.3",
       "published_at": "2023-11-10T15:06:24Z",
       "prerelease": false,
       "sha256": "de18c6af6c04730570c4cfe45350ab64bb2863812729d86f07529414bda020b1",
-      "size": 6247,
-      "path": "releases/trl/v0.7.3.md"
+      "size": 6247
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.2": {
+      "path": "releases/trl/v0.7.2.md",
       "tag": "v0.7.2",
       "name": "v0.7.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.2",
       "published_at": "2023-10-12T13:32:05Z",
       "prerelease": false,
       "sha256": "7ae0d33d88bbec574e865f0359627312719b7b7db273a0551cd5cfc372c61548",
-      "size": 8292,
-      "path": "releases/trl/v0.7.2.md"
+      "size": 8292
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.1": {
+      "path": "releases/trl/v0.7.1.md",
       "tag": "v0.7.1",
       "name": "v0.7.1: Patch release",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.1",
       "published_at": "2023-08-30T15:38:34Z",
       "prerelease": false,
       "sha256": "11195dbc07baa72356b355fdd4034e761db909349a24bdeaacb3ce13c86bf003",
-      "size": 684,
-      "path": "releases/trl/v0.7.1.md"
+      "size": 684
     },
     "https://github.com/huggingface/trl/releases/tag/v0.7.0": {
+      "path": "releases/trl/v0.7.0.md",
       "tag": "v0.7.0",
       "name": "v0.7.0: Text Environments, Agents & Tools",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.7.0",
       "published_at": "2023-08-30T15:38:25Z",
       "prerelease": false,
       "sha256": "fa468d219d23aaa4d9d4a0588cf8035c4491060e2fd6553e4001eb52bb76b635",
-      "size": 2041,
-      "path": "releases/trl/v0.7.0.md"
+      "size": 2041
     },
     "https://github.com/huggingface/trl/releases/tag/v0.6.0": {
+      "path": "releases/trl/v0.6.0.md",
       "tag": "v0.6.0",
       "name": "v0.6.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.6.0",
       "published_at": "2023-08-25T15:08:01Z",
       "prerelease": false,
       "sha256": "d860c3919f75cb3e5e1cfb439be1d17d7e9918a588040264ae673ee8fba54ccd",
-      "size": 4873,
-      "path": "releases/trl/v0.6.0.md"
+      "size": 4873
     },
     "https://github.com/huggingface/trl/releases/tag/v0.5.0": {
+      "path": "releases/trl/v0.5.0.md",
       "tag": "v0.5.0",
       "name": "v0.5.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.5.0",
       "published_at": "2023-08-02T09:08:43Z",
       "prerelease": false,
       "sha256": "ed442b6a05431abe3e64c6d0cf03f18ad037addb888122175b7e7a10c0649322",
-      "size": 5134,
-      "path": "releases/trl/v0.5.0.md"
+      "size": 5134
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.7": {
+      "path": "releases/trl/v0.4.7.md",
       "tag": "v0.4.7",
       "name": "v0.4.7",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.7",
       "published_at": "2023-07-13T09:08:39Z",
       "prerelease": false,
       "sha256": "e77c08c35311f01c2ee6f6a44da4a6d235569146ea6aa0451cadeabef6923d32",
-      "size": 2398,
-      "path": "releases/trl/v0.4.7.md"
+      "size": 2398
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.6": {
+      "path": "releases/trl/v0.4.6.md",
       "tag": "v0.4.6",
       "name": "v0.4.6",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.6",
       "published_at": "2023-06-23T09:19:57Z",
       "prerelease": false,
       "sha256": "50ae05857f5340189ac2beecce444ae17571d644f19e3e8c9d787f07b8503b35",
-      "size": 430,
-      "path": "releases/trl/v0.4.6.md"
+      "size": 430
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.5": {
+      "path": "releases/trl/v0.4.5.md",
       "tag": "v0.4.5",
       "name": "v0.4.5",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.5",
       "published_at": "2023-06-23T08:40:43Z",
       "prerelease": false,
       "sha256": "94b62573cdf68b507ff7b7c516112e41b17442a9c367c9f4ad2e831875a3022c",
-      "size": 2116,
-      "path": "releases/trl/v0.4.5.md"
+      "size": 2116
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.4": {
+      "path": "releases/trl/v0.4.4.md",
       "tag": "v0.4.4",
       "name": "v0.4.4",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.4",
       "published_at": "2023-06-08T14:42:45Z",
       "prerelease": false,
       "sha256": "c8918155c8edf8dfe9452644741be0c15765d606f4ad5b4b21b0dd95758cf803",
-      "size": 335,
-      "path": "releases/trl/v0.4.4.md"
+      "size": 335
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.3": {
+      "path": "releases/trl/v0.4.3.md",
       "tag": "v0.4.3",
       "name": "v0.4.3",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.3",
       "published_at": "2023-06-08T08:54:56Z",
       "prerelease": false,
       "sha256": "f1ccdd40892833450eb61cd3aad559ff55247943e9d1066db18cbfb017b098ad",
-      "size": 489,
-      "path": "releases/trl/v0.4.3.md"
+      "size": 489
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.2": {
+      "path": "releases/trl/v0.4.2.md",
       "tag": "v0.4.2",
       "name": "v0.4.2",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.2",
       "published_at": "2023-06-07T13:20:07Z",
       "prerelease": false,
       "sha256": "205c52a2757f0f9b0f3b693ecf49dd19f0d2cff67d005dc418f93e379d449524",
-      "size": 8938,
-      "path": "releases/trl/v0.4.2.md"
+      "size": 8938
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.1": {
+      "path": "releases/trl/v0.4.1.md",
       "tag": "v0.4.1",
       "name": "v0.4.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.1",
       "published_at": "2023-03-17T10:39:12Z",
       "prerelease": false,
       "sha256": "18242bb822ae692e389c94adbe9f90e966a75a645912ffd5c7a9de2f50c866b0",
-      "size": 2703,
-      "path": "releases/trl/v0.4.1.md"
+      "size": 2703
     },
     "https://github.com/huggingface/trl/releases/tag/v0.4.0": {
+      "path": "releases/trl/v0.4.0.md",
       "tag": "v0.4.0",
       "name": "v0.4.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.4.0",
       "published_at": "2023-03-09T11:38:59Z",
       "prerelease": false,
       "sha256": "4909960a33970940a52bfc5567b1f93f07d0a99f8a448c9195e6c53bff8c31e1",
-      "size": 1148,
-      "path": "releases/trl/v0.4.0.md"
+      "size": 1148
     },
     "https://github.com/huggingface/trl/releases/tag/v0.3.1": {
+      "path": "releases/trl/v0.3.1.md",
       "tag": "v0.3.1",
       "name": "v0.3.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.3.1",
       "published_at": "2023-03-02T09:18:39Z",
       "prerelease": false,
       "sha256": "5d1134769ac0cc52b568842433133e40b02131483db38c1b4aaf2e6d0e5e4366",
-      "size": 725,
-      "path": "releases/trl/v0.3.1.md"
+      "size": 725
     },
     "https://github.com/huggingface/trl/releases/tag/v0.3.0": {
+      "path": "releases/trl/v0.3.0.md",
       "tag": "v0.3.0",
       "name": "v0.3.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.3.0",
       "published_at": "2023-03-01T12:45:06Z",
       "prerelease": false,
       "sha256": "2c5dc8a238bb53d6bf50307d99ae93a2040d2f5081dfd87276afe1735f1edb82",
-      "size": 3238,
-      "path": "releases/trl/v0.3.0.md"
+      "size": 3238
     },
     "https://github.com/huggingface/trl/releases/tag/v0.2.1": {
+      "path": "releases/trl/v0.2.1.md",
       "tag": "v0.2.1",
       "name": "v0.2.1",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.2.1",
       "published_at": "2023-01-25T16:09:56Z",
       "prerelease": false,
       "sha256": "f5bdc2d3a65e60307cfa6bd13e82107569427491034738d7b68ce049607dd390",
-      "size": 621,
-      "path": "releases/trl/v0.2.1.md"
+      "size": 621
     },
     "https://github.com/huggingface/trl/releases/tag/v0.2.0": {
+      "path": "releases/trl/v0.2.0.md",
       "tag": "v0.2.0",
       "name": "v0.2.0",
-      "url": "https://github.com/huggingface/trl/releases/tag/v0.2.0",
       "published_at": "2023-01-25T14:04:19Z",
       "prerelease": false,
       "sha256": "6b8d1043448e42daebaa01347c60760ab9e709237246d574821e260594cc6c8e",
-      "size": 5350,
-      "path": "releases/trl/v0.2.0.md"
+      "size": 5350
     }
   }
 }

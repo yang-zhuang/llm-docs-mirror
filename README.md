@@ -145,9 +145,12 @@ python crawlers/github_releases.py huggingface/trl
 2. **重新下载每一页正文**，逐条对比 sha256：变了才写盘（`NEW` / `UPDATED`），
    没变跳过（`unchanged`），文件修改时间即"内容最后变化时间"；
 3. **官网已删除的页面**本地保留不删，只在结尾报告；
-4. **manifest 以页面 URL 为主键**（不是相对路径）。这是关键设计：
+4. **manifest 以页面官方 URL 为主键**（不是相对路径）。这是关键设计：
    官网改组章节导致目录 rename 时，sha256 记录不会失效，
-   不会把上千页误判成"新页面"全部重写；
+   不会把上千页误判成"新页面"全部重写。
+   key 形如 `https://huggingface.co/docs/trl/index`（不含 `.md`，与实际下载用的
+   `.md` 端点区分），值里的 `path` 记录落盘位置；因为 key 本身已是 URL，
+   记录里不再重复存 `url` 字段；
 5. 请求一律带 `Cache-Control: no-cache`，避免镜像/CDN 返回旧副本被误判成"没更新"；
 6. 跑完 `git add -A` + `git commit`（无变更则跳过）。
 
@@ -173,8 +176,10 @@ git diff <old> <new> -- docs/trl/02_trainers/grpo_trainer.md
 | `huggingface.co` CDN | **按 IP 约 0.3 请求/秒**。8 线程实测全部 HTTP 429 + `Retry-After: 127/42` |
 
 所以 `hf_docs.py` 内置 429/503 的 `Retry-After` 退避重试（加随机错峰，最多 5 次），
-并发固定 3。Transformers 774 页实测约 38 分钟——**这是站点限速决定的下限，
-堆线程只会更慢**。其它 4 个来源合计约 3 分钟。
+`--workers` 默认 3（可改，但不建议超过 4）。Transformers 774 页实测约 38 分钟——
+**这是站点限速决定的下限，堆线程只会更慢**。其它 4 个来源合计约 3 分钟。
+注意"未变"也必须把每页正文重新下载一遍才能算 sha256，所以即便官网一篇没改，
+Transformers 这一项也不会变快。
 
 ## 11. 常见问题
 
@@ -206,11 +211,39 @@ Sphinx 升级改了索引格式，更新 `crawlers/sphinx_docs.py` 的 `fetch_pa
 迁移时用 `robocopy /E` 复制数据（整目录 `mv` 会被宿主句柄拒绝），
 逐文件 md5 校验 5 个来源全部一致；旧 manifest 转换成 URL 主键格式放入 `state/`；
 transformers 的 `00_getting_started` 按官网章节名 "Get started" 改为 `00_get_started`。
-旧项目目录保留，等新仓库验证通过后再清理。
+旧项目目录原地保留作为历史快照，本仓库 `sync_all.py` 是此后唯一的维护入口。
 
 ## 附录 B：为什么修过 SUMMARY.md
 
 旧版 `crawl_hf_docs.py` 生成索引时，拼的相对路径是相对 `docs/<lib>/` 的，
 而 manifest 的 key 是相对项目根的 `docs/<lib>/...`，前缀不匹配导致
 所有页面被当成"失败"跳过，两个 SUMMARY.md 里 **0 个链接**。
-现在索引统一由 `state/` 生成并用 manifest 里的 `path` 字段，链接前缀 `../`。
+现在索引统一由 `state/` 生成并用 manifest 里的 `path` 字段，
+链接形如 `../docs/trl/00_getting_started/index.md`。
+
+## 附录 C：URL 主键曾拼出重复前缀（2026-11-09 修复）
+
+迁移旧 manifest 时，把 `page["url_path"]` 当成"页面相对路径"又拼了一次库名前缀：
+
+```python
+# 错误：url_path 本身已是 /docs/trl/index，再拼会变成 /docs/trl/docs/trl/index
+official_url = f"https://huggingface.co/docs/{lib}{page['url_path']}"
+# 正确
+official_url = "https://huggingface.co" + page["url_path"]
+```
+
+结果 `state/trl.manifest.json` 的 57 条、`state/transformers.manifest.json` 的 774 条
+key 全部形如 `https://huggingface.co/docs/trl/docs/trl/index`。
+
+**这个 bug 很隐蔽**：key 仍然唯一、仍然能正常做增量判断（脚本里两处拼接用了同一个
+错误公式，读写自洽），所以同步结果一直是 `unchanged`，不会报错；只是 manifest 里记的
+URL 打不开，且以后若按真实 URL 去查表就会查不到。
+
+修复分两步，缺一不可：
+
+1. 改 `crawlers/hf_docs.py` 的**两处**生成逻辑（主下载循环 + SUMMARY 生成循环）；
+2. 把 `state/*.manifest.json` 里已落盘的旧 key 批量改写，否则脚本一跑会把
+   全部 831 页判成 `NEW` 并重写一遍。
+
+修完复验：`hf_docs.py trl` → `0 新增, 0 更新, 57 未变, 0 失败`，且没有误报
+"官网已删除"，说明新旧 key 完全对齐。

@@ -1,758 +1,683 @@
 {
   "source": "swift.docs",
-  "fetched_at": "2026-11-09T22:55:52",
+  "fetched_at": "2026-11-09T23:41:35",
   "base_url": "https://swift.readthedocs.io/zh-cn/latest",
   "pages_total": 75,
   "files": {
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/AMD-support.html": {
+      "path": "docs/swift/BestPractices/AMD-support.md",
       "title": "AMD GPU 支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/AMD-support.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/AMD-support.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "addbd0a90e6c58d54224c8d6bc4d81fe95670a67d49799961bc6a364c7acfe13",
-      "size": 15351,
-      "path": "docs/swift/BestPractices/AMD-support.md"
+      "size": 15351
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Decision.html": {
+      "path": "docs/swift/BestPractices/Decision.md",
       "title": "Decision 决策模型训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Decision.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Decision.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "b3dfa4e054d69f81b08e83fccf5f0d88ab45cd3171bb41c0e0bc4b5c9b004de3",
-      "size": 56471,
-      "path": "docs/swift/BestPractices/Decision.md"
+      "size": 56471
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Elastic.html": {
+      "path": "docs/swift/BestPractices/Elastic.md",
       "title": "Elastic",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Elastic.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Elastic.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "dbbd4fd4f81d3673d80be9255b4f1e9b648a1dec0731f186ecbf3a59082b32c9",
-      "size": 6948,
-      "path": "docs/swift/BestPractices/Elastic.md"
+      "size": 6948
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Embedding.html": {
+      "path": "docs/swift/BestPractices/Embedding.md",
       "title": "Embedding训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Embedding.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Embedding.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "c71f6ab8a051e11bb7398db8c2c2c332f69313208ae6863e9ce1f5e0fcb36811",
-      "size": 11993,
-      "path": "docs/swift/BestPractices/Embedding.md"
+      "size": 11993
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Flexble-Quantization-With-Entropack.html": {
+      "path": "docs/swift/BestPractices/Flexble-Quantization-With-Entropack.md",
       "title": "EntroPack 灵活量化最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Flexble-Quantization-With-Entropack.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Flexble-Quantization-With-Entropack.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "c160ab72776b118828c0eb07e5aee1f3b8c4216b93bb350f3732a496e88854aa",
-      "size": 11005,
-      "path": "docs/swift/BestPractices/Flexble-Quantization-With-Entropack.md"
+      "size": 11005
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/GRPO.html": {
+      "path": "docs/swift/BestPractices/GRPO.md",
       "title": "GRPO完整实验流程",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/GRPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/GRPO.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "48d468ca22f745a52dbfdf4e81f51b5a516ec9f7887a58ff839048bedf31717f",
-      "size": 14884,
-      "path": "docs/swift/BestPractices/GRPO.md"
+      "size": 14884
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/GRPO-Code-Training.html": {
+      "path": "docs/swift/BestPractices/GRPO-Code-Training.md",
       "title": "GRPO代码训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/GRPO-Code-Training.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/GRPO-Code-Training.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "4c2ce50f5d92a0980188951ce6fbe5b0a018ecc79ba459dbc89137a49bf46d95",
-      "size": 7497,
-      "path": "docs/swift/BestPractices/GRPO-Code-Training.md"
+      "size": 7497
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/GRPO-Multi-Modal-Training.html": {
+      "path": "docs/swift/BestPractices/GRPO-Multi-Modal-Training.md",
       "title": "多模态GRPO完整实验流程",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/GRPO-Multi-Modal-Training.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/GRPO-Multi-Modal-Training.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "a0d72540b3213fd9b55b1578fa9d8d8ee206171273ccd199b17cef2ae88b6f91",
-      "size": 16154,
-      "path": "docs/swift/BestPractices/GRPO-Multi-Modal-Training.md"
+      "size": 16154
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/MLLM-Registration.html": {
+      "path": "docs/swift/BestPractices/MLLM-Registration.md",
       "title": "注册多模态模型最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/MLLM-Registration.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/MLLM-Registration.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "1f4f3826a59f462c74f18ef0a27a7c93482ed276a4ac228c6fc8f107dcf404e8",
-      "size": 30941,
-      "path": "docs/swift/BestPractices/MLLM-Registration.md"
+      "size": 30941
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/MUSA-support.html": {
+      "path": "docs/swift/BestPractices/MUSA-support.md",
       "title": "摩尔线程 MUSA 支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/MUSA-support.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/MUSA-support.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "2d7a26af7243f20ea644e5d79bc9f40bb7c040a46b1d770d4d4026ca63422637",
-      "size": 7945,
-      "path": "docs/swift/BestPractices/MUSA-support.md"
+      "size": 7945
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Metax-support.html": {
+      "path": "docs/swift/BestPractices/Metax-support.md",
       "title": "Metax支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Metax-support.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Metax-support.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "5727ef54c49e86eff503b883e0e38c48b512d017b5b71ff102c0199e36386ef4",
-      "size": 19132,
-      "path": "docs/swift/BestPractices/Metax-support.md"
+      "size": 19132
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/More-Best-Practices.html": {
+      "path": "docs/swift/BestPractices/More-Best-Practices.md",
       "title": "更多最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/More-Best-Practices.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/More-Best-Practices.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "8906ee20c9e0e050c1166d07c9f3f14ad390ad2f3c288764c6629ed0f5ea4880",
-      "size": 379,
-      "path": "docs/swift/BestPractices/More-Best-Practices.md"
+      "size": 379
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/NPU-support.html": {
+      "path": "docs/swift/BestPractices/NPU-support.md",
       "title": "NPU支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/NPU-support.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/NPU-support.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "e93de5843511e91a0597902408527c32e937a2f5a92f0cc2b4a50a4f0df4e348",
-      "size": 43992,
-      "path": "docs/swift/BestPractices/NPU-support.md"
+      "size": 43992
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3-Best-Practice.html": {
+      "path": "docs/swift/BestPractices/Qwen3-Best-Practice.md",
       "title": "Qwen3最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3-Best-Practice.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Qwen3-Best-Practice.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "a43d824b0347cc49dabc4236459b4fccba33dbb4dabacb36c4d1ba46c24954bd",
-      "size": 15953,
-      "path": "docs/swift/BestPractices/Qwen3-Best-Practice.md"
+      "size": 15953
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3-VL-Best-Practice.html": {
+      "path": "docs/swift/BestPractices/Qwen3-VL-Best-Practice.md",
       "title": "Qwen3-VL最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3-VL-Best-Practice.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Qwen3-VL-Best-Practice.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "49e09c78e1238eb6b3075c4eaf26b8f47f9458e6177f50f4452170f04468128c",
-      "size": 16202,
-      "path": "docs/swift/BestPractices/Qwen3-VL-Best-Practice.md"
+      "size": 16202
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3_8-Best-Practice.html": {
+      "path": "docs/swift/BestPractices/Qwen3_8-Best-Practice.md",
       "title": "Qwen3.5/Qwen3.6/Qwen3.8 最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3_8-Best-Practice.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Qwen3_8-Best-Practice.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "640c815fb2ea9916223a881f00e341ced16d951ab7b760dc6817e1496d441eb6",
-      "size": 22567,
-      "path": "docs/swift/BestPractices/Qwen3_8-Best-Practice.md"
+      "size": 22567
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3_8-Flash-Next-Best-Practice.html": {
+      "path": "docs/swift/BestPractices/Qwen3_8-Flash-Next-Best-Practice.md",
       "title": "Qwen3.8-Flash-Next 最佳实践",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Qwen3_8-Flash-Next-Best-Practice.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Qwen3_8-Flash-Next-Best-Practice.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "fdda648c8ef241043312c22dcaea10e4132a623fea38fbaebce96bc07b0af8cf",
-      "size": 6693,
-      "path": "docs/swift/BestPractices/Qwen3_8-Flash-Next-Best-Practice.md"
+      "size": 6693
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Rapidly-Training-VL-model.html": {
+      "path": "docs/swift/BestPractices/Rapidly-Training-VL-model.md",
       "title": "快速训练VL模型",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Rapidly-Training-VL-model.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Rapidly-Training-VL-model.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "1b971f7d6d2f2cfa67a2777c136a22b1530cb51920b5d0f449ad4d87fe99ebd0",
-      "size": 7207,
-      "path": "docs/swift/BestPractices/Rapidly-Training-VL-model.md"
+      "size": 7207
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Reranker.html": {
+      "path": "docs/swift/BestPractices/Reranker.md",
       "title": "Reranker训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/Reranker.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/Reranker.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "4e236c353e96eef455e0205fe5767fdea728be0f18bc925069dfb5b6c9a13855",
-      "size": 7005,
-      "path": "docs/swift/BestPractices/Reranker.md"
+      "size": 7005
     },
     "https://swift.readthedocs.io/zh-cn/latest/BestPractices/deepseek-v4.html": {
+      "path": "docs/swift/BestPractices/deepseek-v4.md",
       "title": "DeepSeek-V4 训练支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/BestPractices/deepseek-v4.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/BestPractices/deepseek-v4.md.txt",
       "format": "md",
       "group": "BestPractices",
       "sha256": "a378767a4e126514f716758f259ea3360b798e932c4b2bc20de6277f1bfe3f80",
-      "size": 9678,
-      "path": "docs/swift/BestPractices/deepseek-v4.md"
+      "size": 9678
     },
     "https://swift.readthedocs.io/zh-cn/latest/Customization/Architecture.html": {
+      "path": "docs/swift/Customization/Architecture.md",
       "title": "架构介绍",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Customization/Architecture.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Customization/Architecture.md.txt",
       "format": "md",
       "group": "Customization",
       "sha256": "61ad5ca9900b88335e53efa2ed07f1c6e2fded8d3c87bcfbf118a75441152f54",
-      "size": 14571,
-      "path": "docs/swift/Customization/Architecture.md"
+      "size": 14571
     },
     "https://swift.readthedocs.io/zh-cn/latest/Customization/Custom-dataset.html": {
+      "path": "docs/swift/Customization/Custom-dataset.md",
       "title": "自定义数据集",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Customization/Custom-dataset.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Customization/Custom-dataset.md.txt",
       "format": "md",
       "group": "Customization",
       "sha256": "817a5dba1e702a1e546b99415caf5ff6bd68537f3939171fee32a1c37253a5f3",
-      "size": 38994,
-      "path": "docs/swift/Customization/Custom-dataset.md"
+      "size": 38994
     },
     "https://swift.readthedocs.io/zh-cn/latest/Customization/Custom-model.html": {
+      "path": "docs/swift/Customization/Custom-model.md",
       "title": "自定义模型",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Customization/Custom-model.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Customization/Custom-model.md.txt",
       "format": "md",
       "group": "Customization",
       "sha256": "2ec298f442b7141ec89c8c3cda7ee168612507e45f6525d3c90f2e46491228f5",
-      "size": 4725,
-      "path": "docs/swift/Customization/Custom-model.md"
+      "size": 4725
     },
     "https://swift.readthedocs.io/zh-cn/latest/GetStarted/Quick-start.html": {
+      "path": "docs/swift/GetStarted/Quick-start.md",
       "title": "快速开始",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/GetStarted/Quick-start.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/GetStarted/Quick-start.md.txt",
       "format": "md",
       "group": "GetStarted",
       "sha256": "ab982feba8a6bb0ac1979fc5a73d3f2abbe870c0fbc0d3b0c82e386f4b3bbb5e",
-      "size": 6979,
-      "path": "docs/swift/GetStarted/Quick-start.md"
+      "size": 6979
     },
     "https://swift.readthedocs.io/zh-cn/latest/GetStarted/SWIFT-installation.html": {
+      "path": "docs/swift/GetStarted/SWIFT-installation.md",
       "title": "SWIFT安装",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/GetStarted/SWIFT-installation.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/GetStarted/SWIFT-installation.md.txt",
       "format": "md",
       "group": "GetStarted",
       "sha256": "99012aa9fbc1bf73166e001e04cfdbaa107b3675ba7bbe708db49c29ac4b4316",
-      "size": 11755,
-      "path": "docs/swift/GetStarted/SWIFT-installation.md"
+      "size": 11755
     },
     "https://swift.readthedocs.io/zh-cn/latest/GetStarted/Web-UI.html": {
+      "path": "docs/swift/GetStarted/Web-UI.md",
       "title": "Web-UI",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/GetStarted/Web-UI.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/GetStarted/Web-UI.md.txt",
       "format": "md",
       "group": "GetStarted",
       "sha256": "3f146a0aac43ad28133abc97ffe5406dcf25afd223c900632b266e34e0f5c91c",
-      "size": 2056,
-      "path": "docs/swift/GetStarted/Web-UI.md"
+      "size": 2056
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Agent-support.html": {
+      "path": "docs/swift/Instruction/Agent-support.md",
       "title": "Agent支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Agent-support.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Agent-support.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "136992dda32f6be27a4d70652a6aca712370bcdc9d27c9892a8fc4df9edab0b0",
-      "size": 13935,
-      "path": "docs/swift/Instruction/Agent-support.md"
+      "size": 13935
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Command-line-parameters.html": {
+      "path": "docs/swift/Instruction/Command-line-parameters.md",
       "title": "命令行参数",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Command-line-parameters.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Command-line-parameters.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "02c7373976cc99e7aea853b9930114c00c38f286d503b5e2231cc9680248af0d",
-      "size": 109342,
-      "path": "docs/swift/Instruction/Command-line-parameters.md"
+      "size": 109342
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Distillation.html": {
+      "path": "docs/swift/Instruction/Distillation.md",
       "title": "知识蒸馏（Knowledge Distillation）",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Distillation.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Distillation.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "6fe53e06521b9a0b64c6245b9ae5a411b2b25852e5a597427b7e2debf534aab4",
-      "size": 21170,
-      "path": "docs/swift/Instruction/Distillation.md"
+      "size": 21170
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Evaluation.html": {
+      "path": "docs/swift/Instruction/Evaluation.md",
       "title": "评测",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Evaluation.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Evaluation.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "76518be6da436f99e1ed1f40df180bdf98bfb1872a22157c9ee0f057de815c5d",
-      "size": 12164,
-      "path": "docs/swift/Instruction/Evaluation.md"
+      "size": 12164
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Export-and-push.html": {
+      "path": "docs/swift/Instruction/Export-and-push.md",
       "title": "导出与推送",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Export-and-push.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Export-and-push.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "331a06bb61323c86f053da38cba3c9cf21e4943b68ba3ddfa8fe26d5c61a13dd",
-      "size": 3276,
-      "path": "docs/swift/Instruction/Export-and-push.md"
+      "size": 3276
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Frequently-asked-questions.html": {
+      "path": "docs/swift/Instruction/Frequently-asked-questions.md",
       "title": "常见问题整理",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Frequently-asked-questions.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Frequently-asked-questions.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "1847e40258a3fc94a6cdaea7e75828fad1698777594a05f6ff046b8c2b0c99a7",
-      "size": 46574,
-      "path": "docs/swift/Instruction/Frequently-asked-questions.md"
+      "size": 46574
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/CHORD.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/CHORD.md",
       "title": "On-Policy RL Meets Off-Policy Experts: Harmonizing SFT and RL via Dynamic Weighting (CHORD)",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/CHORD.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/CHORD.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "0d78aaab47f3331f14356f17d7fcb9a2f710dff3f0ee4ae40bcbe14f64df5b51",
-      "size": 2716,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/CHORD.md"
+      "size": 2716
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/CISPO.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/CISPO.md",
       "title": "Clipped Importance Sampling Policy Optimization (CISPO)",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/CISPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/CISPO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "6a756229db0e5fb57b0e641fb6665b9490de84b1004810614a22ce5f2121438b",
-      "size": 2785,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/CISPO.md"
+      "size": 2785
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/DAPO.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/DAPO.md",
       "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/DAPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/DAPO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "beca4807385ed30ad12857c16152060dcd1da0120057ab051b210287cb26f00a",
-      "size": 3682,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/DAPO.md"
+      "size": 3682
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/FIPO.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/FIPO.md",
       "title": "FIPO: Future-KL Influenced Policy Optimization",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/FIPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/FIPO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "1d94bcad46b86a2ddcff4402ebd83129f9a9787a35d98a66aa4bf73519f7893c",
-      "size": 3228,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/FIPO.md"
+      "size": 3228
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/GSPO.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/GSPO.md",
       "title": "Group Sequence Policy Optimization",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/GSPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/GSPO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "55fee0fcb219909852cf2e5ffb8dfb7012b28537dd2548970206ee77c81e00c9",
-      "size": 3426,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/GSPO.md"
+      "size": 3426
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/REAL.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/REAL.md",
       "title": "Rewards as Labels: Revisiting RLVR from a Classification Perspective",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/REAL.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/REAL.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "5404a9cfc88906e3c67104e2ccd74645081a3a9628032e99be597d0483ddedb0",
-      "size": 3922,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/REAL.md"
+      "size": 3922
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/REINFORCEPP.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/REINFORCEPP.md",
       "title": "REINFORCE++: An Efficient RLHF Algorithm with Robustness to Both Prompt and Reward Models",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/REINFORCEPP.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/REINFORCEPP.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "20c8af81e1613f6bd0b87bd089844476cacd0080669c2f3cd0d3d8f41ca887d4",
-      "size": 3237,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/REINFORCEPP.md"
+      "size": 3237
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/RLOO.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/RLOO.md",
       "title": "REINFORCE Leave-One-Out (RLOO)",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/RLOO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/RLOO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "f6d858b6f590eb16bcd7f557dae3cf04c726931b5274ce6541f243a58dc36c9c",
-      "size": 3759,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/RLOO.md"
+      "size": 3759
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/SAPO.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/SAPO.md",
       "title": "Soft Adaptive Policy Optimization (SAPO)",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/SAPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/SAPO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "582b5c6f8577f565632865ebfa4582d5355cbd1af78da5cb08e18788f6e9da42",
-      "size": 3609,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/SAPO.md"
+      "size": 3609
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/deepeyes.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/deepeyes.md",
       "title": "DeepEyes: Incentivizing &quot;Thinking with Images&quot; via Reinforcement Learning",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/deepeyes.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/deepeyes.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "9abcdf5d0d539022a0feb308cd5c5ac03e7122807b9002428e4233807d9ee826",
-      "size": 4601,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/deepeyes.md"
+      "size": 4601
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/entropy_mask.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/entropy_mask.md",
       "title": "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/entropy_mask.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/entropy_mask.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "55dd8cd2ed4b8c3429939c8ad01c7cbaff61811ed20fd465e5f548d046b068a3",
-      "size": 2253,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/entropy_mask.md"
+      "size": 2253
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/index.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/index.rst",
       "title": "Advanced Research",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/index.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/index.rst.txt",
       "format": "rst",
       "group": "Instruction",
       "sha256": "f405a742650519c0a73ef7367dce161eb4615843ac040b4e6d4ec0890438fc3d",
-      "size": 273,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/index.rst"
+      "size": 273
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/router_replay.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/router_replay.md",
       "title": "Router Replay (R2/R3)",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/router_replay.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/router_replay.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "326d05845979dca65264d42332d613bf93dd72ca9f96a123129166f75125c447",
-      "size": 5878,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/router_replay.md"
+      "size": 5878
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/training_inference_mismatch.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/training_inference_mismatch.md",
       "title": "Training-Inference-Mismatch",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/training_inference_mismatch.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/training_inference_mismatch.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "8b81b9ea93913894065a74e2afae9a4053f396709d6a35bc81fa407cf84a79c0",
-      "size": 9225,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/training_inference_mismatch.md"
+      "size": 9225
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/treepo.html": {
+      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/treepo.md",
       "title": "TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/AdvancedResearch/treepo.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/AdvancedResearch/treepo.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "fa41ad667fb449ffda3da04c3bc18a4d056387e93352ea945d019226752863ad",
-      "size": 3609,
-      "path": "docs/swift/Instruction/GRPO/AdvancedResearch/treepo.md"
+      "size": 3609
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/gym_env.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/gym_env.md",
       "title": "GYM环境训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/gym_env.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/gym_env.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "7282b4b0e96767b7dc94308353de4a637f8e7b9d8580036278f2a80e45483bfc",
-      "size": 15801,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/gym_env.md"
+      "size": 15801
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/index.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/index.rst",
       "title": "Developer Guide",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/index.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/index.rst.txt",
       "format": "rst",
       "group": "Instruction",
       "sha256": "b1d0172c3ef3cddd5b378ba48936d977a80f32a4acff377d590a6bc18b557b44",
-      "size": 168,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/index.rst"
+      "size": 168
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/loss_types.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/loss_types.md",
       "title": "Loss Types",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/loss_types.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/loss_types.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "92267b9371092c4d90a1696a2a2e53a08e289a28444734dbfd5667372ee15f87",
-      "size": 4498,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/loss_types.md"
+      "size": 4498
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/multi_task.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/multi_task.md",
       "title": "多任务训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/multi_task.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/multi_task.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "efcf06a52e559686c357958d3a499add538b14a6138f364b7aad659716037ac2",
-      "size": 2052,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/multi_task.md"
+      "size": 2052
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/multi_turn.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/multi_turn.md",
       "title": "多轮训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/multi_turn.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/multi_turn.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "c234b434c5477616742ac86e1095af66be1f47b9de45255047ae41bfbe908dad",
-      "size": 16773,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/multi_turn.md"
+      "size": 16773
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/reward_function.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/reward_function.md",
       "title": "奖励函数",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/reward_function.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/reward_function.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "5dc70249e7209988c8eb8f5612d6124673ac8d13d60af496f9f0ff1b1d5041ba",
-      "size": 8306,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/reward_function.md"
+      "size": 8306
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/reward_model.html": {
+      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/reward_model.md",
       "title": "奖励模型",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/DeveloperGuide/reward_model.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/DeveloperGuide/reward_model.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "1077a045fdc55d6680027b5551ea7375c51f54548005cdf16a9cd476fee350f9",
-      "size": 6582,
-      "path": "docs/swift/Instruction/GRPO/DeveloperGuide/reward_model.md"
+      "size": 6582
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/GetStarted/GRPO.html": {
+      "path": "docs/swift/Instruction/GRPO/GetStarted/GRPO.md",
       "title": "GRPO",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/GetStarted/GRPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/GetStarted/GRPO.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "4d13cf90041ee86e820cf9fa7375701baa33d0e30cfd362fd8ec02d33f917a56",
-      "size": 15203,
-      "path": "docs/swift/Instruction/GRPO/GetStarted/GRPO.md"
+      "size": 15203
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/GetStarted/index.html": {
+      "path": "docs/swift/Instruction/GRPO/GetStarted/index.rst",
       "title": "Get Started",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/GetStarted/index.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/GetStarted/index.rst.txt",
       "format": "rst",
       "group": "Instruction",
       "sha256": "9e579a6fe8fc69592cb3fb1155c3d4df799f3b77277f16e77159f52318bd1d6a",
-      "size": 69,
-      "path": "docs/swift/Instruction/GRPO/GetStarted/index.rst"
+      "size": 69
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/index.html": {
+      "path": "docs/swift/Instruction/GRPO/index.rst",
       "title": "GRPO",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/GRPO/index.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/GRPO/index.rst.txt",
       "format": "rst",
       "group": "Instruction",
       "sha256": "1b5d22f1e3f78c500e66f1bc13ce60f43af3794457e9122eab453001a3793e19",
-      "size": 280,
-      "path": "docs/swift/Instruction/GRPO/index.rst"
+      "size": 280
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Inference-and-deployment.html": {
+      "path": "docs/swift/Instruction/Inference-and-deployment.md",
       "title": "推理和部署",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Inference-and-deployment.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Inference-and-deployment.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "1b0717998b14b2df3d400ec6978e62020c7539017cc75d3a054511fe8bf365b1",
-      "size": 17399,
-      "path": "docs/swift/Instruction/Inference-and-deployment.md"
+      "size": 17399
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Pre-training-and-Fine-tuning.html": {
+      "path": "docs/swift/Instruction/Pre-training-and-Fine-tuning.md",
       "title": "预训练与微调",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Pre-training-and-Fine-tuning.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Pre-training-and-Fine-tuning.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "a35bfd1e782c072832b18de8eb26cdeb05e4a1b9ab3d591de9b001b1e60830ce",
-      "size": 22679,
-      "path": "docs/swift/Instruction/Pre-training-and-Fine-tuning.md"
+      "size": 22679
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/RLHF.html": {
+      "path": "docs/swift/Instruction/RLHF.md",
       "title": "人类对齐",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/RLHF.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/RLHF.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "fed1ca6a89d11de1899727ebd4b00351817a608a5a0fe9a13946cba38678a970",
-      "size": 6949,
-      "path": "docs/swift/Instruction/RLHF.md"
+      "size": 6949
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Ray.html": {
+      "path": "docs/swift/Instruction/Ray.md",
       "title": "ray的支持",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Ray.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Ray.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "3ba9f92084d707dd35a81f3cc27b43fd42a4dcb28c22e8cbbe918ab541c25b42",
-      "size": 9119,
-      "path": "docs/swift/Instruction/Ray.md"
+      "size": 9119
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Reinforced-Fine-tuning.html": {
+      "path": "docs/swift/Instruction/Reinforced-Fine-tuning.md",
       "title": "强化微调",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Reinforced-Fine-tuning.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Reinforced-Fine-tuning.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "520cc26507f6732279d9db4f5ed5a63156a805ac0dabc76000cbb37a2cc12dc3",
-      "size": 6363,
-      "path": "docs/swift/Instruction/Reinforced-Fine-tuning.md"
+      "size": 6363
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Sample.html": {
+      "path": "docs/swift/Instruction/Sample.md",
       "title": "采样",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Sample.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Sample.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "1c2b7bcf9716627aab7c4a3762ce5612fdb7cc8bda4ac27223d7c24e3c5547d3",
-      "size": 3910,
-      "path": "docs/swift/Instruction/Sample.md"
+      "size": 3910
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Supported-models-and-datasets.html": {
+      "path": "docs/swift/Instruction/Supported-models-and-datasets.md",
       "title": "支持的模型和数据集",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Supported-models-and-datasets.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Supported-models-and-datasets.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "2cbf57f86a59b0ae1b10c120c229c791e8651d9d2429974764855723872b4081",
-      "size": 332782,
-      "path": "docs/swift/Instruction/Supported-models-and-datasets.md"
+      "size": 332782
     },
     "https://swift.readthedocs.io/zh-cn/latest/Instruction/Use-tuners.html": {
+      "path": "docs/swift/Instruction/Use-tuners.md",
       "title": "使用Tuners",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Instruction/Use-tuners.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Instruction/Use-tuners.md.txt",
       "format": "md",
       "group": "Instruction",
       "sha256": "7d60d4050130b44754d181c609b8b292b18bbf6c0fbf48b7400e5b573b1df26e",
-      "size": 7981,
-      "path": "docs/swift/Instruction/Use-tuners.md"
+      "size": 7981
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Ascend.html": {
+      "path": "docs/swift/Megatron-SWIFT/Ascend.md",
       "title": "Huawei Ascend NPU",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Ascend.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/Ascend.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "e93b4740273ea41def7d3696233fe952ac6edf4d4661764d93a06068591c55f2",
-      "size": 7165,
-      "path": "docs/swift/Megatron-SWIFT/Ascend.md"
+      "size": 7165
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Command-line-parameters.html": {
+      "path": "docs/swift/Megatron-SWIFT/Command-line-parameters.md",
       "title": "命令行参数",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Command-line-parameters.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/Command-line-parameters.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "8b38fa0e41dcca86f03c8d40c8c467f3959c07c0e28396910fa699ab1462e9f1",
-      "size": 58348,
-      "path": "docs/swift/Megatron-SWIFT/Command-line-parameters.md"
+      "size": 58348
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Custom-Model.html": {
+      "path": "docs/swift/Megatron-SWIFT/Custom-Model.md",
       "title": "自定义Megatron模型",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Custom-Model.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/Custom-Model.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "2a7aa6d0a301688c04bac0d82930d3e025202443f9be6182c4db96349398b9bc",
-      "size": 10599,
-      "path": "docs/swift/Megatron-SWIFT/Custom-Model.md"
+      "size": 10599
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/GKD.html": {
+      "path": "docs/swift/Megatron-SWIFT/GKD.md",
       "title": "GKD",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/GKD.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/GKD.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "19cc938f023651e375a707c88180ce05ef1a16e701b59abd30e99a8d1b5d9849",
-      "size": 2560,
-      "path": "docs/swift/Megatron-SWIFT/GKD.md"
+      "size": 2560
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/GRPO.html": {
+      "path": "docs/swift/Megatron-SWIFT/GRPO.md",
       "title": "GRPO",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/GRPO.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/GRPO.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "2b798bd2b91217191b6f987a7964ee7eb2427f95858407a82c1fd3f04d20b4a0",
-      "size": 2871,
-      "path": "docs/swift/Megatron-SWIFT/GRPO.md"
+      "size": 2871
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/LoRA-Training.html": {
+      "path": "docs/swift/Megatron-SWIFT/LoRA-Training.md",
       "title": "LoRA训练",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/LoRA-Training.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/LoRA-Training.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "df5ed1b9ac7adfe48afaef86cdf6b4fdf73bd43cdd71c349367fa40d32b1583b",
-      "size": 7311,
-      "path": "docs/swift/Megatron-SWIFT/LoRA-Training.md"
+      "size": 7311
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Mcore-Bridge.html": {
+      "path": "docs/swift/Megatron-SWIFT/Mcore-Bridge.md",
       "title": "Mcore-Bridge",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Mcore-Bridge.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/Mcore-Bridge.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "c3a4cd3b86fc63454ea8240027619a0d20e45c3a9c99381f1846ab5f96bcc788",
-      "size": 9914,
-      "path": "docs/swift/Megatron-SWIFT/Mcore-Bridge.md"
+      "size": 9914
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Multimodal-Model.html": {
+      "path": "docs/swift/Megatron-SWIFT/Multimodal-Model.md",
       "title": "多模态模型",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Multimodal-Model.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/Multimodal-Model.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "8a9de56320a1f4f6142f555e204e989a8a0baf9b37a7dca5dbb4457ec6122589",
-      "size": 5636,
-      "path": "docs/swift/Megatron-SWIFT/Multimodal-Model.md"
+      "size": 5636
     },
     "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Quick-start.html": {
+      "path": "docs/swift/Megatron-SWIFT/Quick-start.md",
       "title": "快速开始",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/Megatron-SWIFT/Quick-start.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/Megatron-SWIFT/Quick-start.md.txt",
       "format": "md",
       "group": "Megatron-SWIFT",
       "sha256": "69907a6714f9a059be9b33700e6119507d51342beeb4e69f1913bcabd93da49d",
-      "size": 13077,
-      "path": "docs/swift/Megatron-SWIFT/Quick-start.md"
+      "size": 13077
     },
     "https://swift.readthedocs.io/zh-cn/latest/index.html": {
+      "path": "docs/swift/index.rst",
       "title": "Swift DOCUMENTATION",
-      "url": "https://swift.readthedocs.io/zh-cn/latest/index.html",
       "source_url": "https://swift.readthedocs.io/zh-cn/latest/_sources/index.rst.txt",
       "format": "rst",
       "group": "(根目录)",
       "sha256": "f065012c6fe8dc3f46c2066f551ef56c770a751dd3acdc8ffc6f5af766dc5668",
-      "size": 2302,
-      "path": "docs/swift/index.rst"
+      "size": 2302
     }
   }
 }
