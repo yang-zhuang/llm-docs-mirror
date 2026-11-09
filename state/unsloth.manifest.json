@@ -1,0 +1,1817 @@
+{
+  "source": "unsloth.docs",
+  "fetched_at": "2026-11-09T22:31:43",
+  "base_url": "https://unsloth.ai/docs",
+  "pages_total": 201,
+  "files": {
+    "https://unsloth.ai/docs/docs.md": {
+      "title": "Unsloth Docs",
+      "url": "https://unsloth.ai/docs/docs.md",
+      "group": "(根目录)",
+      "description": "Unsloth is an open-source framework for running and training LLMs.",
+      "sha256": "0aaf15633d051605c8f5fa18c8386c1a08eace378ab9d9fc8968103b32f6d92e",
+      "size": 13929,
+      "path": "docs/unsloth/docs.md"
+    },
+    "https://unsloth.ai/docs/desktop.md": {
+      "title": "Introducing Unsloth Desktop",
+      "url": "https://unsloth.ai/docs/desktop.md",
+      "group": "(根目录)",
+      "description": "Unsloth Desktop is a free, open-source app for Mac, Windows and Linux.",
+      "sha256": "11d4718e7355c60d89f12cc5565c98955ce6792fe2cd43dc3f70ab1f2080fedb",
+      "size": 35602,
+      "path": "docs/unsloth/desktop.md"
+    },
+    "https://unsloth.ai/docs/get-started/install.md": {
+      "title": "Unsloth Installation",
+      "url": "https://unsloth.ai/docs/get-started/install.md",
+      "group": "get-started",
+      "description": "Install Unsloth Desktop, Unsloth Studio, or Unsloth Core.",
+      "sha256": "9c097ac50d04b3a6546343b82bf2f20e5a823ada87e6c34aafc9bbb98d325cf4",
+      "size": 5649,
+      "path": "docs/unsloth/get-started/install.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/pip-install.md": {
+      "title": "Install Unsloth via pip and uv",
+      "url": "https://unsloth.ai/docs/get-started/install/pip-install.md",
+      "group": "get-started",
+      "description": "Install Unsloth Studio manually or install Unsloth Core with pip, uv, or a virtual environment.",
+      "sha256": "7df447bd370f0a9a4d0b7c315256703da6ae1991d3ccddaae4a2c28a85ceeace",
+      "size": 14832,
+      "path": "docs/unsloth/get-started/install/pip-install.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/mac.md": {
+      "title": "Install Unsloth on MacOS",
+      "url": "https://unsloth.ai/docs/get-started/install/mac.md",
+      "group": "get-started",
+      "description": "Install Unsloth Desktop, Unsloth Studio, or Unsloth Core on macOS.",
+      "sha256": "7a8fad2a0454bd77f9f10dedadb51ef8756e1e4fe80a6ec9e89b3d0af8b0e121",
+      "size": 6423,
+      "path": "docs/unsloth/get-started/install/mac.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/windows-installation.md": {
+      "title": "Install Unsloth on Windows",
+      "url": "https://unsloth.ai/docs/get-started/install/windows-installation.md",
+      "group": "get-started",
+      "description": "Install Unsloth Desktop, Unsloth Studio, or Unsloth Core on Windows.",
+      "sha256": "4b84c1aaa905658ef7b4358f23e8ed692bd308cf9e80fca54091f150333131e0",
+      "size": 22363,
+      "path": "docs/unsloth/get-started/install/windows-installation.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/docker.md": {
+      "title": "Install Unsloth via Docker",
+      "url": "https://unsloth.ai/docs/get-started/install/docker.md",
+      "group": "get-started",
+      "description": "Install Unsloth using our official Docker container",
+      "sha256": "c532a5eb664890ea3b9225ec0f37b4b4c12f8ba15ff5e0842d4b9d587f2b0b88",
+      "size": 34540,
+      "path": "docs/unsloth/get-started/install/docker.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/linux.md": {
+      "title": "Install Unsloth on Linux",
+      "url": "https://unsloth.ai/docs/get-started/install/linux.md",
+      "group": "get-started",
+      "description": "Install Unsloth Desktop, Unsloth Studio, or Unsloth Core on Linux.",
+      "sha256": "0a294ebd38e6763b83ac1a1281d9c631a130344a445142305c2956682d6190f8",
+      "size": 5865,
+      "path": "docs/unsloth/get-started/install/linux.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/updating.md": {
+      "title": "Updating Unsloth",
+      "url": "https://unsloth.ai/docs/get-started/install/updating.md",
+      "group": "get-started",
+      "description": "Update Unsloth Desktop, Unsloth Studio, or Unsloth Core.",
+      "sha256": "ac082210ad518f570d4549d8b2a3fe7564106c262facbad83895de4edf196051",
+      "size": 4426,
+      "path": "docs/unsloth/get-started/install/updating.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/intel.md": {
+      "title": "Fine-tuning LLMs on Intel GPUs with Unsloth",
+      "url": "https://unsloth.ai/docs/get-started/install/intel.md",
+      "group": "get-started",
+      "description": "Learn how to train and fine-tune large language models on Intel GPUs.",
+      "sha256": "7622fc23af8f3f2f14ac9686bd4499df1d795fa6d03a873baf6a4a3e03e61276",
+      "size": 15130,
+      "path": "docs/unsloth/get-started/install/intel.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/amd.md": {
+      "title": "Fine-tuning LLMs on AMD GPUs with Unsloth Guide",
+      "url": "https://unsloth.ai/docs/get-started/install/amd.md",
+      "group": "get-started",
+      "description": "Learn how to fine-tune large language models (LLMs) on AMD GPUs with Unsloth.",
+      "sha256": "1f5d4db4f8ad914fd3b0dfcec3298338c30fba5bad8d3e8105057aed565c4d1c",
+      "size": 14042,
+      "path": "docs/unsloth/get-started/install/amd.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/amd/amd-hackathon.md": {
+      "title": "AMD AI Reinforcement Learning Hackathon with Unsloth",
+      "url": "https://unsloth.ai/docs/get-started/install/amd/amd-hackathon.md",
+      "group": "get-started",
+      "description": "​​Learn hands-on techniques for ​Reinforcement Learning for AI models with Unsloth from Daniel Han, the creator of Unsloth.",
+      "sha256": "8420dc3a38c0abd005eb69c2e887fe91948c0d7e8f6e25c4d036901ebfb18e09",
+      "size": 3930,
+      "path": "docs/unsloth/get-started/install/amd/amd-hackathon.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/conda-install.md": {
+      "title": "Conda Install",
+      "url": "https://unsloth.ai/docs/get-started/install/conda-install.md",
+      "group": "get-started",
+      "description": "To install Unsloth locally on Conda, follow the steps below:",
+      "sha256": "bafd1dcf14d8137dabe41a2657bb46e917a6c09571e5ae477675464e238f3534",
+      "size": 2606,
+      "path": "docs/unsloth/get-started/install/conda-install.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/vs-code.md": {
+      "title": "How to Fine-tune LLMs in VS Code with Unsloth & Colab GPUs",
+      "url": "https://unsloth.ai/docs/get-started/install/vs-code.md",
+      "group": "get-started",
+      "description": "Guide to fine-tuning models directly in Visual Studio Code via Unsloth and Google Colab.",
+      "sha256": "c434e493e3ee1f37f53fb2adf202ac2a5f293f1bbf58da87a02cc9e16d57b0f3",
+      "size": 7979,
+      "path": "docs/unsloth/get-started/install/vs-code.md"
+    },
+    "https://unsloth.ai/docs/get-started/install/google-colab.md": {
+      "title": "Google Colab",
+      "url": "https://unsloth.ai/docs/get-started/install/google-colab.md",
+      "group": "get-started",
+      "description": "To install and run Unsloth on Google Colab, follow the steps below:",
+      "sha256": "446ee91b9bf630823f99a4eeecf274508e4697867c291566085450198da1484c",
+      "size": 5655,
+      "path": "docs/unsloth/get-started/install/google-colab.md"
+    },
+    "https://unsloth.ai/docs/get-started/unsloth-model-catalog.md": {
+      "title": "Unsloth Model Catalog",
+      "url": "https://unsloth.ai/docs/get-started/unsloth-model-catalog.md",
+      "group": "get-started",
+      "description": "",
+      "sha256": "ed9c19e3d5aa7b9ef3f0c631c18df2859809891776708ed98fdb86ab867aa0fd",
+      "size": 83889,
+      "path": "docs/unsloth/get-started/unsloth-model-catalog.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-for-beginners.md": {
+      "title": "Fine-tuning for Beginners",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-for-beginners.md",
+      "group": "get-started",
+      "description": "",
+      "sha256": "51e380702843be3a822e00b01228feee488b38215beeedc4ed7ca25bb2d798bf",
+      "size": 4816,
+      "path": "docs/unsloth/get-started/fine-tuning-for-beginners.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-for-beginners/unsloth-requirements.md": {
+      "title": "Unsloth Requirements",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-for-beginners/unsloth-requirements.md",
+      "group": "get-started",
+      "description": "Here are Unsloth's requirements including system and GPU VRAM requirements.",
+      "sha256": "c7d6d6668077279157e19cf94ed3cde58e36aa3077159ed1166ef312c15f1faf",
+      "size": 7963,
+      "path": "docs/unsloth/get-started/fine-tuning-for-beginners/unsloth-requirements.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-for-beginners/faq-+-is-fine-tuning-right-for-me.md": {
+      "title": "FAQ + Is Fine-tuning Right For Me?",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-for-beginners/faq-+-is-fine-tuning-right-for-me.md",
+      "group": "get-started",
+      "description": "If you're stuck on if fine-tuning is right for you, see here! Learn about fine-tuning misconceptions, how it compared to RAG and more:",
+      "sha256": "d7a5305f54f2d0d696750a23e17268108b32983e60de10e0128ebb2488e66c91",
+      "size": 10660,
+      "path": "docs/unsloth/get-started/fine-tuning-for-beginners/faq-+-is-fine-tuning-right-for-me.md"
+    },
+    "https://unsloth.ai/docs/get-started/unsloth-notebooks.md": {
+      "title": "Unsloth Notebooks",
+      "url": "https://unsloth.ai/docs/get-started/unsloth-notebooks.md",
+      "group": "get-started",
+      "description": "Fine-tuning notebooks: Explore the Unsloth catalog.",
+      "sha256": "4af09c3622ed632a6ad3789248d44275e3012a2f96b2d2e1713cb0d97cb0b26d",
+      "size": 32251,
+      "path": "docs/unsloth/get-started/unsloth-notebooks.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide.md": {
+      "title": "Fine-tuning LLMs Guide",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide.md",
+      "group": "get-started",
+      "description": "Learn all the basics and best practices of fine-tuning. Beginner-friendly.",
+      "sha256": "fc9b4c9ec413e135f2bfd2da1f80f78b3c46d9b79d87a4cb44a4b19f9792411b",
+      "size": 20807,
+      "path": "docs/unsloth/get-started/fine-tuning-llms-guide.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/datasets-guide.md": {
+      "title": "Datasets Guide",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/datasets-guide.md",
+      "group": "get-started",
+      "description": "Learn how to create & prepare a dataset for fine-tuning.",
+      "sha256": "362313a90179c8bbaff97d630ebbb6cbc8476fc1cbe9dcd1f20a371297c83a25",
+      "size": 32187,
+      "path": "docs/unsloth/get-started/fine-tuning-llms-guide/datasets-guide.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/lora-hyperparameters-guide.md": {
+      "title": "LoRA fine-tuning Hyperparameters Guide",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/lora-hyperparameters-guide.md",
+      "group": "get-started",
+      "description": "Learn step-by-step the best LLM fine-tuning settings - LoRA rank & alpha, epochs, batch size + gradient accumulation, QLoRA vs. LoRA, target modules, and more.",
+      "sha256": "4fe89ca2bc23c3dac6345f045b12933525394a054bfe18295070db608155eb41",
+      "size": 28387,
+      "path": "docs/unsloth/get-started/fine-tuning-llms-guide/lora-hyperparameters-guide.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/what-model-should-i-use.md": {
+      "title": "What Model Should I Use for Fine-tuning?",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/what-model-should-i-use.md",
+      "group": "get-started",
+      "description": "",
+      "sha256": "500d36427e5c596fbf9c4a71f729ef7fa5e957b3690bd86435fefd2c9cca458d",
+      "size": 6656,
+      "path": "docs/unsloth/get-started/fine-tuning-llms-guide/what-model-should-i-use.md"
+    },
+    "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/tutorial-how-to-finetune-llama-3-and-use-in-ollama.md": {
+      "title": "Tutorial: How to Finetune Llama-3 and Use In Ollama",
+      "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide/tutorial-how-to-finetune-llama-3-and-use-in-ollama.md",
+      "group": "get-started",
+      "description": "Beginner's Guide for creating a customized personal assistant (like ChatGPT) to run locally on Ollama",
+      "sha256": "692b331ce7e5d74d908acff01812f70eddbcca57b4290810f2db9c21b711dc4b",
+      "size": 32850,
+      "path": "docs/unsloth/get-started/fine-tuning-llms-guide/tutorial-how-to-finetune-llama-3-and-use-in-ollama.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide.md": {
+      "title": "Reinforcement Learning (RL) Guide",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide.md",
+      "group": "get-started",
+      "description": "Learn all about Reinforcement Learning (RL) and how to train your own DeepSeek-R1 reasoning model with Unsloth using GRPO. A complete guide from beginner to advanced.",
+      "sha256": "a1da81af0be54ee37f64da7bd6b4a5d28a058621c0593e73149218a63fa3a486",
+      "size": 34782,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/grpo-long-context.md": {
+      "title": "Reinforcement Learning GRPO with 7x Longer Context",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/grpo-long-context.md",
+      "group": "get-started",
+      "description": "Learn how Unsloth enables ultra long context RL fine-tuning.",
+      "sha256": "f917d1def7d95c26e35d7949515fd2ba4070874a511a36cc6e9a4c7b7aa4692f",
+      "size": 18871,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/grpo-long-context.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/vision-reinforcement-learning-vlm-rl.md": {
+      "title": "Vision Reinforcement Learning (VLM RL)",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/vision-reinforcement-learning-vlm-rl.md",
+      "group": "get-started",
+      "description": "Train Vision/multimodal models via GRPO and RL with Unsloth!",
+      "sha256": "643a7cdae781511b35cba7c05806137737e7dcb41e8ef1387e684bcdfb62088d",
+      "size": 13869,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/vision-reinforcement-learning-vlm-rl.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/fp8-reinforcement-learning.md": {
+      "title": "FP8 Reinforcement Learning",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/fp8-reinforcement-learning.md",
+      "group": "get-started",
+      "description": "Train reinforcement learning (RL) and GRPO in FP8 precision with Unsloth.",
+      "sha256": "c3e60d4f06ecc1f3c09bbc708df14fedf45da0f4077c74b5d53905e177d9f04f",
+      "size": 28827,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/fp8-reinforcement-learning.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo.md": {
+      "title": "Tutorial: Train your own Reasoning model with GRPO",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo.md",
+      "group": "get-started",
+      "description": "Beginner's Guide to transforming a model like Llama 3.1 (8B) into a reasoning model by using Unsloth and GRPO.",
+      "sha256": "22ba419071b6f54d080d15cc0fe7b1a2279bbac55ef4de11fad5d0b3aafde904",
+      "size": 16046,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation.md": {
+      "title": "Advanced Reinforcement Learning Documentation",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation.md",
+      "group": "get-started",
+      "description": "Advanced documentation settings when using Unsloth with GRPO.",
+      "sha256": "1f54b427689ebef266d0615440fdb1655e5ce6333744617901ec30da0357c07c",
+      "size": 13113,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/gspo-reinforcement-learning.md": {
+      "title": "GSPO Reinforcement Learning",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/gspo-reinforcement-learning.md",
+      "group": "get-started",
+      "description": "Train with GSPO (Group Sequence Policy Optimization) RL in Unsloth.",
+      "sha256": "515235b8214074550482e8fe15e7ee945c689deb72a5ec22f73723f4904af0e6",
+      "size": 5807,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/gspo-reinforcement-learning.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/rl-reward-hacking.md": {
+      "title": "RL Reward Hacking",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/rl-reward-hacking.md",
+      "group": "get-started",
+      "description": "Learn what is Reward Hacking in Reinforcement Learning and how to counter it.",
+      "sha256": "68932d90a66a126c12f5721fa4ad76d49c0f4e8361df372d3f4dcbc59389a577",
+      "size": 4178,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/rl-reward-hacking.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/fp16-vs-bf16-for-rl.md": {
+      "title": "FP16 vs BF16 for RL",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/fp16-vs-bf16-for-rl.md",
+      "group": "get-started",
+      "description": "Defeating the Training-Inference Mismatch via FP16 https://arxiv.org/pdf/2510.26788 shows how using float16 is better than bfloat16",
+      "sha256": "f3b94ac850bdd58ac88ffa0a548a65b7867bba45c198420fccfb9348066633b8",
+      "size": 6058,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/advanced-rl-documentation/fp16-vs-bf16-for-rl.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/memory-efficient-rl.md": {
+      "title": "Memory Efficient RL",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/memory-efficient-rl.md",
+      "group": "get-started",
+      "description": "",
+      "sha256": "ba6e28f5360632945860178e0ac7dc7633051574161a6bc74d47fb4174681f7c",
+      "size": 25785,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/memory-efficient-rl.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/preference-dpo-orpo-and-kto.md": {
+      "title": "Preference Optimization Training - DPO, ORPO & KTO",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/preference-dpo-orpo-and-kto.md",
+      "group": "get-started",
+      "description": "Learn about preference alignment fine-tuning with DPO, GRPO, ORPO or KTO via Unsloth, follow the steps below:",
+      "sha256": "18f16a77cd1f7fb66ae0df98e534d480e523dccbb57d1b78b624b0f6ceae4260",
+      "size": 4733,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/preference-dpo-orpo-and-kto.md"
+    },
+    "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/training-ai-agents-with-rl.md": {
+      "title": "Training AI Agents with RL",
+      "url": "https://unsloth.ai/docs/get-started/reinforcement-learning-rl-guide/training-ai-agents-with-rl.md",
+      "group": "get-started",
+      "description": "Learn how to train AI agents for real-world tasks using Reinforcement Learning (RL).",
+      "sha256": "fc9c42a3fc9ff7aef1f2f35e4ed38e929f449f1c08d333f70bf4223ca9b987cc",
+      "size": 7979,
+      "path": "docs/unsloth/get-started/reinforcement-learning-rl-guide/training-ai-agents-with-rl.md"
+    },
+    "https://unsloth.ai/docs/new/changelog.md": {
+      "title": "Unsloth Updates",
+      "url": "https://unsloth.ai/docs/new/changelog.md",
+      "group": "new",
+      "description": "Unsloth Changelog for our latest releases, improvements and fixes.",
+      "sha256": "fbc47c62d187cb52eb863a21479c0663a8f17f2a2dd8f596a4d2672fe10c273d",
+      "size": 85305,
+      "path": "docs/unsloth/new/changelog.md"
+    },
+    "https://unsloth.ai/docs/new/studio.md": {
+      "title": "Introducing Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio.md",
+      "group": "new",
+      "description": "Run and train AI models locally with Unsloth Studio.",
+      "sha256": "93eb983e5aecf775d0926516546f26d3af7734cc64abbb36d7d411d31d97c51f",
+      "size": 24913,
+      "path": "docs/unsloth/new/studio.md"
+    },
+    "https://unsloth.ai/docs/new/studio/start.md": {
+      "title": "Get started with Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio/start.md",
+      "group": "new",
+      "description": "A guide for getting started with the fine-tuning studio, data recipes, model exporting, and chat.",
+      "sha256": "8475a282583eb13e076f1c83e8d32d6d1fb23af597698a35f2ae8a2df9abb857",
+      "size": 30569,
+      "path": "docs/unsloth/new/studio/start.md"
+    },
+    "https://unsloth.ai/docs/new/studio/chat.md": {
+      "title": "How to Run models with Unsloth",
+      "url": "https://unsloth.ai/docs/new/studio/chat.md",
+      "group": "new",
+      "description": "Run AI models, LLMs and GGUFs locally with Unsloth Studio.",
+      "sha256": "6e0e23911cf9ee229130e05b711e34a1ac397c693324d4f0d7c6dd8cc93a8ca2",
+      "size": 15116,
+      "path": "docs/unsloth/new/studio/chat.md"
+    },
+    "https://unsloth.ai/docs/new/studio/install.md": {
+      "title": "Unsloth Studio Installation",
+      "url": "https://unsloth.ai/docs/new/studio/install.md",
+      "group": "new",
+      "description": "Manually install Unsloth Studio, or download the separate Unsloth Desktop app.",
+      "sha256": "0a2c04962ee9a7dd4b0bc7a9aa55f087929c19e532f13b885fc0bfa5badac9ed",
+      "size": 26661,
+      "path": "docs/unsloth/new/studio/install.md"
+    },
+    "https://unsloth.ai/docs/new/studio/data-recipe.md": {
+      "title": "Unsloth Data Recipes",
+      "url": "https://unsloth.ai/docs/new/studio/data-recipe.md",
+      "group": "new",
+      "description": "Learn how to create, build and edit datasets with Unsloth Studio's Data Recipes.",
+      "sha256": "c10f13724201cb060fdb95fe8c3f9ac1b60aeb858674d1e36052edabb40a2122",
+      "size": 13533,
+      "path": "docs/unsloth/new/studio/data-recipe.md"
+    },
+    "https://unsloth.ai/docs/new/studio/export.md": {
+      "title": "Export models with Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio/export.md",
+      "group": "new",
+      "description": "Learn how to export your safetensor or LoRA model files to GGUF or other formats.",
+      "sha256": "a77f7edce1f61543f2f358d55661507fa294dbb5045d45cddf4e87294f4fab5d",
+      "size": 6374,
+      "path": "docs/unsloth/new/studio/export.md"
+    },
+    "https://unsloth.ai/docs/new/studio/security.md": {
+      "title": "Security in Unsloth",
+      "url": "https://unsloth.ai/docs/new/studio/security.md",
+      "group": "new",
+      "description": "",
+      "sha256": "1413f12b4e8b5913f3e91f87954e95c5981bec27027aff66cb0423b9d921cc8b",
+      "size": 11092,
+      "path": "docs/unsloth/new/studio/security.md"
+    },
+    "https://unsloth.ai/docs/new/studio/sandboxing-in-unsloth.md": {
+      "title": "Sandboxing in Unsloth",
+      "url": "https://unsloth.ai/docs/new/studio/sandboxing-in-unsloth.md",
+      "group": "new",
+      "description": "Unsloth uses bubblewrap on Linux, Seatbelt on macOS, and MXC on Windows.",
+      "sha256": "a0389a9e57ddaa361858773dd1fd164b98cc377280d4c93ab4c0028d41ddb7e2",
+      "size": 8482,
+      "path": "docs/unsloth/new/studio/sandboxing-in-unsloth.md"
+    },
+    "https://unsloth.ai/docs/models/deepseek-v4.1-flash.md": {
+      "title": "DeepSeek-V4.1-Flash: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash.md",
+      "group": "models",
+      "description": "Run DeepSeek-V4.1-Flash-1017 locally with Unsloth GGUFs and Engram n-gram offloading.",
+      "sha256": "60568145df6fa0a92877d959e5fe2438000062416615388ec460dac5a9d7fbb5",
+      "size": 45211,
+      "path": "docs/unsloth/models/deepseek-v4.1-flash.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.8.md": {
+      "title": "Qwen3.8 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.8.md",
+      "group": "models",
+      "description": "Guide to running Qwen3.8 quants including Qwen3.8-27B on your local setup.",
+      "sha256": "521b3c222f2f255d3adb2c0db2a26f7c642317fdc3dbb89514605e1b04462318",
+      "size": 30815,
+      "path": "docs/unsloth/models/qwen3.8.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.8/train.md": {
+      "title": "Qwen3.8 Fine-tuning Guide",
+      "url": "https://unsloth.ai/docs/models/qwen3.8/train.md",
+      "group": "models",
+      "description": "Learn how to fine-tune Qwen3.8-27B with Unsloth.",
+      "sha256": "887c3ac9f22ec8977f68a5be6100895ab81a3ef9f016946dd149b715901d35cd",
+      "size": 10418,
+      "path": "docs/unsloth/models/qwen3.8/train.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.8-next.md": {
+      "title": "Qwen3.8-Flash-Next: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.8-next.md",
+      "group": "models",
+      "description": "Guide to run Qwen3.8-Flash-Next locally.",
+      "sha256": "ebe04e54ca9ea7b5d59a74b2ee5070a0ef2b2d467523e01ff7465f236dc54036",
+      "size": 28945,
+      "path": "docs/unsloth/models/qwen3.8-next.md"
+    },
+    "https://unsloth.ai/docs/models/flint.md": {
+      "title": "Flint: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/flint.md",
+      "group": "models",
+      "description": "Run Recursive Flint locally with Unsloth Dynamic GGUFs, Unsloth Desktop and llama.cpp.",
+      "sha256": "4ad1f67553ac0d124976804c81d9655c681030be89282d2c3b5270dcfe61bcd0",
+      "size": 11315,
+      "path": "docs/unsloth/models/flint.md"
+    },
+    "https://unsloth.ai/docs/models/mistral-large-4.md": {
+      "title": "Mistral Large 4 (Le Chonk): Run Locally",
+      "url": "https://unsloth.ai/docs/models/mistral-large-4.md",
+      "group": "models",
+      "description": "Guide to running Mistral Large 4 GGUFs locally with Unsloth and llama.cpp.",
+      "sha256": "fe4512efe88df1c912f77b866cc87ecd4511115c121f9d6d8130de2ec9505c30",
+      "size": 14892,
+      "path": "docs/unsloth/models/mistral-large-4.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3.5-bolt.md": {
+      "title": "NVIDIA Nemotron 3.5 Bolt: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/nemotron-3.5-bolt.md",
+      "group": "models",
+      "description": "Run Nemotron 3.5 Bolt locally with Unsloth GGUFs.",
+      "sha256": "098cdefb775d83843685f6bee7eace89b9221166d499086e568d6c0182f25d62",
+      "size": 11341,
+      "path": "docs/unsloth/models/nemotron-3.5-bolt.md"
+    },
+    "https://unsloth.ai/docs/models/minimax-m3.1-flash.md": {
+      "title": "MiniMax-M3.1-Flash: Run Locally",
+      "url": "https://unsloth.ai/docs/models/minimax-m3.1-flash.md",
+      "group": "models",
+      "description": "Run MiniMax-M3.1-Flash locally with Unsloth Dynamic GGUFs.",
+      "sha256": "393cc67b883d6dd4c74746330cc859916cea49f0b7c8e4b22836a3f3e4c128f2",
+      "size": 14041,
+      "path": "docs/unsloth/models/minimax-m3.1-flash.md"
+    },
+    "https://unsloth.ai/docs/models/glm-5.3-flash.md": {
+      "title": "GLM-5.3-Flash: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.3-flash.md",
+      "group": "models",
+      "description": "Run the new GLM-5.3-Flash aka ox-alpha model by Z.ai.",
+      "sha256": "1a1d97bafbd572c1919be5f6a739043ac335f510ed04869e5b318aed6a644a8e",
+      "size": 19227,
+      "path": "docs/unsloth/models/glm-5.3-flash.md"
+    },
+    "https://unsloth.ai/docs/models/qwen-image-2.1.md": {
+      "title": "Qwen-Image-2.1: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/qwen-image-2.1.md",
+      "group": "models",
+      "description": "Run Qwen-Image-2.1 locally with Unsloth FP8 and GGUF quants.",
+      "sha256": "f3e1d72c241e00138aff77eede8bc2b2f561e459893f428fe726427704d4e5a4",
+      "size": 17388,
+      "path": "docs/unsloth/models/qwen-image-2.1.md"
+    },
+    "https://unsloth.ai/docs/models/embeddinggemma-2.md": {
+      "title": "EmbeddingGemma 2 - Run Locally",
+      "url": "https://unsloth.ai/docs/models/embeddinggemma-2.md",
+      "group": "models",
+      "description": "Run EmbeddingGemma 2 locally and fine-tune the model with Unsloth.",
+      "sha256": "5ec181fefff7c1def547f761a9b8b8b794a3ff0bd7a45a7ba0129b54516e5167",
+      "size": 17474,
+      "path": "docs/unsloth/models/embeddinggemma-2.md"
+    },
+    "https://unsloth.ai/docs/models/muse-spark-open.md": {
+      "title": "Meta Muse Spark Open - Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/muse-spark-open.md",
+      "group": "models",
+      "description": "Learn how to run the new Muse Spark Open model from Meta.",
+      "sha256": "c834d83393704f1e1f1721d51a717385bc01e34b56baf7b5bed223a310b641be",
+      "size": 17272,
+      "path": "docs/unsloth/models/muse-spark-open.md"
+    },
+    "https://unsloth.ai/docs/models/decision-laya.md": {
+      "title": "Run and Serve Decision Models Locally with Unsloth: Laya + Jev API",
+      "url": "https://unsloth.ai/docs/models/decision-laya.md",
+      "group": "models",
+      "description": "Serve and run decision models locally with Unsloth.",
+      "sha256": "55b99bd511633b4d88832b39fb5ac20cda309d7ddd6421e7c67bf712e70fb0fb",
+      "size": 10028,
+      "path": "docs/unsloth/models/decision-laya.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3.5-super-vl.md": {
+      "title": "NVIDIA Nemotron 3.5 Super VL: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/nemotron-3.5-super-vl.md",
+      "group": "models",
+      "description": "Run Nemotron 3.5 Super VL locally with Unsloth GGUFs.",
+      "sha256": "8e695be6643d2b2f630e9f71c90b8718c6afa65b1accfee8b1b3f1c8b7984cac",
+      "size": 14907,
+      "path": "docs/unsloth/models/nemotron-3.5-super-vl.md"
+    },
+    "https://unsloth.ai/docs/models/deepseek-v4.md": {
+      "title": "DeepSeek-V4: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/deepseek-v4.md",
+      "group": "models",
+      "description": "Run DeepSeek-V4-Pro-0813 and DeepSeek-V4-Flash-0731 locally on your own device!",
+      "sha256": "45b06e0ee77ad14dfd87216d583c1cef834218056334c5a6233ec18d459beffb",
+      "size": 24722,
+      "path": "docs/unsloth/models/deepseek-v4.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials.md": {
+      "title": "Large language model (LLMs) Tutorials",
+      "url": "https://unsloth.ai/docs/models/tutorials.md",
+      "group": "models",
+      "description": "",
+      "sha256": "cf523342f4d7959a0379f775ad1d9ce5ac70a8c9d924fca943ded00eb2a5d44c",
+      "size": 38778,
+      "path": "docs/unsloth/models/tutorials.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen3-how-to-run-and-fine-tune.md": {
+      "title": "Qwen3 - How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen3-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Learn to run & fine-tune Qwen3 locally with Unsloth + our Dynamic 2.0 quants",
+      "sha256": "809c4ab7ea9a6e5a10129633b062361daff5917cb0246b5a2ec104e5f9458ebe",
+      "size": 23187,
+      "path": "docs/unsloth/models/tutorials/qwen3-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen3-how-to-run-and-fine-tune/qwen3-vl-how-to-run-and-fine-tune.md": {
+      "title": "Qwen3-VL: How to Run Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen3-how-to-run-and-fine-tune/qwen3-vl-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Learn to fine-tune and run Qwen3-VL locally with Unsloth.",
+      "sha256": "e8173f84deeb221334bce8a48fd504d799c1ba6c0e0b3c001fc17ce5be31de48",
+      "size": 27146,
+      "path": "docs/unsloth/models/tutorials/qwen3-how-to-run-and-fine-tune/qwen3-vl-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen3-how-to-run-and-fine-tune/qwen3-2507.md": {
+      "title": "Qwen3-2507: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen3-how-to-run-and-fine-tune/qwen3-2507.md",
+      "group": "models",
+      "description": "Run Qwen3-30B-A3B-2507 and 235B-A22B Thinking and Instruct versions locally on your device!",
+      "sha256": "40ea6e1c6533550afe76ae94b1de73ae94b55f59a3075e9c236cd6d8861a752d",
+      "size": 25513,
+      "path": "docs/unsloth/models/tutorials/qwen3-how-to-run-and-fine-tune/qwen3-2507.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/minimax-m27.md": {
+      "title": "MiniMax-M2.7 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/minimax-m27.md",
+      "group": "models",
+      "description": "Run MiniMax-M2.7 LLM locally on your own device!",
+      "sha256": "f96953be7aead786cb2fb3db81f22310d0f06c4b7000d60f892b8104fad37f7f",
+      "size": 13646,
+      "path": "docs/unsloth/models/tutorials/minimax-m27.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/glm-5.md": {
+      "title": "GLM-5: How to Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/glm-5.md",
+      "group": "models",
+      "description": "Run the new GLM-5 model by Z.ai on your own local device!",
+      "sha256": "993c5c807d017a899a37152e62d2d8eadd094a23705b0ed3e1c896b50b8f3173",
+      "size": 28921,
+      "path": "docs/unsloth/models/tutorials/glm-5.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/kimi-k2.5.md": {
+      "title": "Kimi K2.5: How to Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/kimi-k2.5.md",
+      "group": "models",
+      "description": "Guide on running Kimi-K2.5 on your own local device!",
+      "sha256": "687178fa1d66f1071b0df1ec515aa5c2afac39116c557bb96bb3c3a036dda889",
+      "size": 33710,
+      "path": "docs/unsloth/models/tutorials/kimi-k2.5.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/glm-4.7-flash.md": {
+      "title": "GLM-4.7-Flash: How To Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/glm-4.7-flash.md",
+      "group": "models",
+      "description": "Run & fine-tune GLM-4.7-Flash locally on your device!",
+      "sha256": "5553006fb7b425124e8b689e4d5e95659cb2ec5ff870ee7c5ea9250c4871d602",
+      "size": 40820,
+      "path": "docs/unsloth/models/tutorials/glm-4.7-flash.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/gemma-3-how-to-run-and-fine-tune.md": {
+      "title": "Gemma 3 - How to Run Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/gemma-3-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "How to run Gemma 3 effectively with our GGUFs on llama.cpp, Ollama, Open WebUI and how to fine-tune with Unsloth!",
+      "sha256": "ad8a5dbb8af5206c75194a208810304d080c91499fa60a06ef02ccfd266c73fe",
+      "size": 18279,
+      "path": "docs/unsloth/models/tutorials/gemma-3-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/gemma-3-how-to-run-and-fine-tune/gemma-3n-how-to-run-and-fine-tune.md": {
+      "title": "Gemma 3n: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/gemma-3-how-to-run-and-fine-tune/gemma-3n-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Run Google's new Gemma 3n locally with Dynamic GGUFs on llama.cpp, Ollama, Open WebUI and fine-tune with Unsloth!",
+      "sha256": "7492f3c57e76247fed7077677c645231703b57a5976b9fe1c6bb881e3abbecee",
+      "size": 20764,
+      "path": "docs/unsloth/models/tutorials/gemma-3-how-to-run-and-fine-tune/gemma-3n-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen3-coder-how-to-run-locally.md": {
+      "title": "Qwen3-Coder: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen3-coder-how-to-run-locally.md",
+      "group": "models",
+      "description": "Run Qwen3-Coder-30B-A3B-Instruct and 480B-A35B locally with Unsloth Dynamic quants.",
+      "sha256": "41279fd211ee48529333460a9f20f96690aeed49f4c796c768b58153e6e1e930",
+      "size": 22129,
+      "path": "docs/unsloth/models/tutorials/qwen3-coder-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/minimax-m25.md": {
+      "title": "MiniMax-M2.5: How to Run Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/minimax-m25.md",
+      "group": "models",
+      "description": "Run MiniMax-M2.5 locally on your own device!",
+      "sha256": "c94900400c5b024d157af0cdf46b074853b4735f1baed9aa4e0beffcafc3c8aa",
+      "size": 13635,
+      "path": "docs/unsloth/models/tutorials/minimax-m25.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-ocr-2.md": {
+      "title": "DeepSeek-OCR 2: How to Run & Fine-tune Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-ocr-2.md",
+      "group": "models",
+      "description": "Guide on how to run and fine-tune DeepSeek-OCR-2 locally.",
+      "sha256": "bd6b29f02df15e902750490bfe6d06f7e1d8dbb640277bf1d2482f5715fc1862",
+      "size": 9832,
+      "path": "docs/unsloth/models/tutorials/deepseek-ocr-2.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/glm-4.7.md": {
+      "title": "GLM-4.7: How to Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/glm-4.7.md",
+      "group": "models",
+      "description": "A guide on how to run Z.ai GLM-4.7 model on your own local device!",
+      "sha256": "ee14efa7a4fc69ac8d4958f54b6ddefe4fc78f51a04d7d4442fdd0b3390b1b17",
+      "size": 21301,
+      "path": "docs/unsloth/models/tutorials/glm-4.7.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen-image-2512.md": {
+      "title": "How to Run Qwen-Image-2512 Locally in ComfyUI",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen-image-2512.md",
+      "group": "models",
+      "description": "Step-by-step tutorial for running Qwen-Image-2512 on your local device with ComfyUI.",
+      "sha256": "5411c874b35eab5507139620261b029cbf1a67afc4f888fd1a10b6c202fefbfc",
+      "size": 14720,
+      "path": "docs/unsloth/models/tutorials/qwen-image-2512.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen-image-2512/stable-diffusion.cpp.md": {
+      "title": "Run Qwen-Image-2512 in stable-diffusion.cpp Tutorial",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen-image-2512/stable-diffusion.cpp.md",
+      "group": "models",
+      "description": "Tutorial for using Qwen-Image-2512 in stable-diffusion.cpp.",
+      "sha256": "8e451e694753fc0dc8c06341159bd6627ca4b966eaa20eb53f595ea294df0e69",
+      "size": 6702,
+      "path": "docs/unsloth/models/tutorials/qwen-image-2512/stable-diffusion.cpp.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/devstral-2.md": {
+      "title": "Devstral 2 - How to Run Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/devstral-2.md",
+      "group": "models",
+      "description": "Guide for local running Mistral Devstral 2 models: 123B-Instruct-2512 and Small-2-24B-Instruct-2512.",
+      "sha256": "90b54c30f96506ff73e5e367b89e2420fad2510d510afe4712de0ddd4d4eda96",
+      "size": 25232,
+      "path": "docs/unsloth/models/tutorials/devstral-2.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/ministral-3.md": {
+      "title": "Ministral 3 - How to Run Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/ministral-3.md",
+      "group": "models",
+      "description": "Guide for Mistral Ministral 3 models, to run or fine-tune locally on your device",
+      "sha256": "7d9a8efdc7a7f978e0187ed194a2d3eaf55801084c54bf4e588310b0e6f07523",
+      "size": 16053,
+      "path": "docs/unsloth/models/tutorials/ministral-3.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-ocr-how-to-run-and-fine-tune.md": {
+      "title": "DeepSeek-OCR: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-ocr-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Guide on how to run and fine-tune DeepSeek-OCR locally.",
+      "sha256": "74fab84b48a22668bdb281688ff619ad3f83ef52c3de19947b3098a9df875cff",
+      "size": 11142,
+      "path": "docs/unsloth/models/tutorials/deepseek-ocr-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/kimi-k2-thinking-how-to-run-locally.md": {
+      "title": "Kimi K2 Thinking: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/kimi-k2-thinking-how-to-run-locally.md",
+      "group": "models",
+      "description": "Guide on running Kimi-K2-Thinking and Kimi-K2 on your own local device!",
+      "sha256": "6ac6bdd7a2543b38e3f006ad16d0282cfbc3f7db14f650a827fa5ac5afa32a1c",
+      "size": 26626,
+      "path": "docs/unsloth/models/tutorials/kimi-k2-thinking-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/glm-4.6-how-to-run-locally.md": {
+      "title": "GLM-4.6: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/glm-4.6-how-to-run-locally.md",
+      "group": "models",
+      "description": "A guide on how to run Z.ai GLM-4.6 and GLM-4.6V-Flash model on your own local device!",
+      "sha256": "034569506bafaaa06dcb39866a821f211cc1ed572df920bbf7bce2d5f5c07187",
+      "size": 21959,
+      "path": "docs/unsloth/models/tutorials/glm-4.6-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwen3-next.md": {
+      "title": "Qwen3-Next: Run Locally Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwen3-next.md",
+      "group": "models",
+      "description": "Run Qwen3-Next-80B-A3B-Instruct and Thinking versions locally on your device!",
+      "sha256": "1518a905e7d652ad56dd9a54e92a44a1c6bfcfebc24e6532eccf1ed288a9c060",
+      "size": 12451,
+      "path": "docs/unsloth/models/tutorials/qwen3-next.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/functiongemma.md": {
+      "title": "FunctionGemma: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/functiongemma.md",
+      "group": "models",
+      "description": "Learn how to run and fine-tune FunctionGemma locally on your device and phone.",
+      "sha256": "c7a4bf0dee3414680fd480e68d7d7d9b4c837f4e6584b749f2590ab749540f07",
+      "size": 22426,
+      "path": "docs/unsloth/models/tutorials/functiongemma.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-v3.1-how-to-run-locally.md": {
+      "title": "DeepSeek-V3.1: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-v3.1-how-to-run-locally.md",
+      "group": "models",
+      "description": "A guide on how to run DeepSeek-V3.1 and Terminus on your own local device!",
+      "sha256": "9d1770b5d0ca967757583cd56e4c2ab323de0373bfbbaf017cd1d37078773cf5",
+      "size": 19764,
+      "path": "docs/unsloth/models/tutorials/deepseek-v3.1-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-r1-0528-how-to-run-locally.md": {
+      "title": "DeepSeek-R1-0528: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-r1-0528-how-to-run-locally.md",
+      "group": "models",
+      "description": "A guide on how to run DeepSeek-R1-0528 including Qwen3 on your own local device!",
+      "sha256": "2e6333bd5b8af040cdd012f3a9f8371a8481404a7c7e752c801b635c43a6f264",
+      "size": 20156,
+      "path": "docs/unsloth/models/tutorials/deepseek-r1-0528-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/lfm2.5.md": {
+      "title": "Liquid LFM2.5: How To Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/lfm2.5.md",
+      "group": "models",
+      "description": "Run and fine-tune LFM2.5 Instruct and Vision locally on your device!",
+      "sha256": "9b9ef4ac826784b32ba103a0ea30506561621bcd878ef5fd835ca1ec18fa3b23",
+      "size": 17274,
+      "path": "docs/unsloth/models/tutorials/lfm2.5.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/magistral-how-to-run-and-fine-tune.md": {
+      "title": "Magistral: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/magistral-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Meet Magistral - Mistral's new reasoning models.",
+      "sha256": "a1be92c8396db681a67c4f6ebe4f61c0ba2158546cfc9f17e5d1c025039a56ed",
+      "size": 80341,
+      "path": "docs/unsloth/models/tutorials/magistral-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/ibm-granite-4.0.md": {
+      "title": "IBM Granite 4.0",
+      "url": "https://unsloth.ai/docs/models/tutorials/ibm-granite-4.0.md",
+      "group": "models",
+      "description": "How to run IBM Granite-4.0 with Unsloth GGUFs on llama.cpp, Ollama and how to fine-tune!",
+      "sha256": "35ef037b695437af2d7163064644fe688808722dbf274642aba254ee1155795e",
+      "size": 11085,
+      "path": "docs/unsloth/models/tutorials/ibm-granite-4.0.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/llama-4-how-to-run-and-fine-tune.md": {
+      "title": "Llama 4: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/llama-4-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "How to run Llama 4 locally using our dynamic GGUFs which recovers accuracy compared to standard quantization.",
+      "sha256": "17cc0237209b01e954e9851686103d5ed2fe051fc5971406dc771ab18c5d30d7",
+      "size": 15241,
+      "path": "docs/unsloth/models/tutorials/llama-4-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/grok-2.md": {
+      "title": "Grok 2",
+      "url": "https://unsloth.ai/docs/models/tutorials/grok-2.md",
+      "group": "models",
+      "description": "Run xAI's Grok 2 model locally!",
+      "sha256": "707c9aa79f4970f2b49c6cf7a7446faac5e4cfee69bc0c017d4bd5efdba9a46b",
+      "size": 11738,
+      "path": "docs/unsloth/models/tutorials/grok-2.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/devstral-how-to-run-and-fine-tune.md": {
+      "title": "Devstral: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/devstral-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Run and fine-tune Mistral Devstral 1.1, including Small-2507 and 2505.",
+      "sha256": "7e64b971cfa65876270c9a55f80c4d993eae1044eb4032b91aa1ec92461516a8",
+      "size": 19486,
+      "path": "docs/unsloth/models/tutorials/devstral-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/how-to-run-llms-with-docker.md": {
+      "title": "How to Run Local LLMs with Docker: Step-by-Step Guide",
+      "url": "https://unsloth.ai/docs/models/tutorials/how-to-run-llms-with-docker.md",
+      "group": "models",
+      "description": "Learn how to run Large Language Models (LLMs) with Docker & Unsloth on your local device.",
+      "sha256": "994d8b157682e99a318e4f4c43bd42e8d13653b639662f0c818dcb2295adeb15",
+      "size": 11922,
+      "path": "docs/unsloth/models/tutorials/how-to-run-llms-with-docker.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-v3-0324-how-to-run-locally.md": {
+      "title": "DeepSeek-V3-0324: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-v3-0324-how-to-run-locally.md",
+      "group": "models",
+      "description": "How to run DeepSeek-V3-0324 locally using our dynamic quants which recovers accuracy",
+      "sha256": "e0fac360ab1bfc3f8276ea0474de5eb03a1d661a7481e8669c02412ce430faa3",
+      "size": 40633,
+      "path": "docs/unsloth/models/tutorials/deepseek-v3-0324-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-r1-how-to-run-locally.md": {
+      "title": "DeepSeek-R1: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-r1-how-to-run-locally.md",
+      "group": "models",
+      "description": "A guide on how you can run our 1.58-bit Dynamic Quants for DeepSeek-R1 using llama.cpp.",
+      "sha256": "384fb730cb27d76235f1d152e79944e6889bd235399813c12b3a494e59c5f831",
+      "size": 14840,
+      "path": "docs/unsloth/models/tutorials/deepseek-r1-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/deepseek-r1-how-to-run-locally/deepseek-r1-dynamic-1.58-bit.md": {
+      "title": "DeepSeek-R1 Dynamic 1.58-bit",
+      "url": "https://unsloth.ai/docs/models/tutorials/deepseek-r1-how-to-run-locally/deepseek-r1-dynamic-1.58-bit.md",
+      "group": "models",
+      "description": "See performance comparison tables for Unsloth's Dynamic GGUF Quants vs Standard IMatrix Quants.",
+      "sha256": "a1d8b03d148cf27bffedb100f855e824ab56b97bf7e08f68126cdcce44b18707",
+      "size": 10623,
+      "path": "docs/unsloth/models/tutorials/deepseek-r1-how-to-run-locally/deepseek-r1-dynamic-1.58-bit.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/phi-4-reasoning-how-to-run-and-fine-tune.md": {
+      "title": "Phi-4 Reasoning: How to Run & Fine-tune",
+      "url": "https://unsloth.ai/docs/models/tutorials/phi-4-reasoning-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Learn to run & fine-tune Phi-4 reasoning models locally with Unsloth + our Dynamic 2.0 quants",
+      "sha256": "e775299b4d4526ab7088ba5f9565bdddef76d9313bbc7a352ca4c5e9cb56d1d4",
+      "size": 9171,
+      "path": "docs/unsloth/models/tutorials/phi-4-reasoning-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/qwq-32b-how-to-run-effectively.md": {
+      "title": "QwQ-32B: How to Run effectively",
+      "url": "https://unsloth.ai/docs/models/tutorials/qwq-32b-how-to-run-effectively.md",
+      "group": "models",
+      "description": "How to run QwQ-32B effectively with our bug fixes and without endless generations + GGUFs.",
+      "sha256": "d5473ca9ec58cb21490b97d1917930ace707306e8dc1cccbf613ef016f90d74c",
+      "size": 28460,
+      "path": "docs/unsloth/models/tutorials/qwq-32b-how-to-run-effectively.md"
+    },
+    "https://unsloth.ai/docs/models/tutorials/cogito-v2-how-to-run-locally.md": {
+      "title": "Cogito v2.1: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/tutorials/cogito-v2-how-to-run-locally.md",
+      "group": "models",
+      "description": "Cogito v2.1 LLMs are one of the strongest open models in the world trained with IDA. Also v1 comes in 4 sizes: 70B, 109B, 405B and 671B, allowing you to select which size best matches your hardware.",
+      "sha256": "d6084dd294d1c1ad6b33837ffe9a9b34794caf341352062ac2d95e66b32aaf07",
+      "size": 10394,
+      "path": "docs/unsloth/models/tutorials/cogito-v2-how-to-run-locally.md"
+    },
+    "https://unsloth.ai/docs/models/gemma-4.md": {
+      "title": "Gemma 4 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/gemma-4.md",
+      "group": "models",
+      "description": "Run Google’s new Gemma 4 models locally, including E2B, E4B, 26B A4B, and 31B.",
+      "sha256": "ab99abad8d5f6c8ecf07854dd3f26cb09c515bae86b76b25cdf5677722c7c5be",
+      "size": 32641,
+      "path": "docs/unsloth/models/gemma-4.md"
+    },
+    "https://unsloth.ai/docs/models/gemma-4/qat.md": {
+      "title": "Gemma 4 QAT",
+      "url": "https://unsloth.ai/docs/models/gemma-4/qat.md",
+      "group": "models",
+      "description": "Run Google Gemma 4 QAT models locally, including E2B, E4B, 12B, 26B-A4B, and 31B.",
+      "sha256": "481f123fb6f7bd750a1ebdbea81197c84fcdbd93433c17f409003ff47cd96536",
+      "size": 17884,
+      "path": "docs/unsloth/models/gemma-4/qat.md"
+    },
+    "https://unsloth.ai/docs/models/gemma-4/train.md": {
+      "title": "Gemma 4 Fine-tuning Guide",
+      "url": "https://unsloth.ai/docs/models/gemma-4/train.md",
+      "group": "models",
+      "description": "Train Gemma 4 by Google with Unsloth.",
+      "sha256": "e2fedf896f058e1448c2bda2da3c208236280260f4b0c9364997ea5eaf8485c3",
+      "size": 36477,
+      "path": "docs/unsloth/models/gemma-4/train.md"
+    },
+    "https://unsloth.ai/docs/models/glm-5.3.md": {
+      "title": "GLM-5.3 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.3.md",
+      "group": "models",
+      "description": "Run the new GLM-5.3 model by Z.ai.",
+      "sha256": "34dbd6d718a7d8f518a29de4e5111552847df57749bca44b37af811d7b100d87",
+      "size": 20605,
+      "path": "docs/unsloth/models/glm-5.3.md"
+    },
+    "https://unsloth.ai/docs/models/inkling.md": {
+      "title": "Inkling - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/inkling.md",
+      "group": "models",
+      "description": "Learn how to run Thinking Machine Labs' Inkling multimodal models locally.",
+      "sha256": "fc21ae8fbec56000e7f66eea66995b44f4deee64ae9012f5599ce9215d539bb4",
+      "size": 24190,
+      "path": "docs/unsloth/models/inkling.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.6.md": {
+      "title": "Qwen3.6 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.6.md",
+      "group": "models",
+      "description": "Run the new Qwen3.6-27B and 35B-A3B models locally!",
+      "sha256": "23c195d95c304e9e5551abc6d16944b93bad66e53151d9e15d154e0434e086fb",
+      "size": 47013,
+      "path": "docs/unsloth/models/qwen3.6.md"
+    },
+    "https://unsloth.ai/docs/models/kimi-k3.md": {
+      "title": "Kimi K3 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/kimi-k3.md",
+      "group": "models",
+      "description": "Guide to running Kimi K3 quants on your local setup.",
+      "sha256": "b5b642d63ed2acb6476800125e05b07b72b9290f67969940f7251ec87aff5025",
+      "size": 22486,
+      "path": "docs/unsloth/models/kimi-k3.md"
+    },
+    "https://unsloth.ai/docs/models/muse-glimmer.md": {
+      "title": "Muse Glimmer - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/muse-glimmer.md",
+      "group": "models",
+      "description": "Learn how to run the new Muse Glimmer 30B model from Meta.",
+      "sha256": "458f40ea7858d5b25d9d8c31d7c6eac27760779e6b452dfb731e0b0d88622b37",
+      "size": 21674,
+      "path": "docs/unsloth/models/muse-glimmer.md"
+    },
+    "https://unsloth.ai/docs/models/muse-glimmer/train.md": {
+      "title": "Muse Glimmer Fine-tuning Guide",
+      "url": "https://unsloth.ai/docs/models/muse-glimmer/train.md",
+      "group": "models",
+      "description": "Train Meta's Muse Glimmer 30B model with Unsloth.",
+      "sha256": "bd556c58490bbd83b6eb979193238323d06e3d141fa3d54ac817b697736acc64",
+      "size": 19359,
+      "path": "docs/unsloth/models/muse-glimmer/train.md"
+    },
+    "https://unsloth.ai/docs/models/glm-5.2.md": {
+      "title": "GLM-5.2 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.2.md",
+      "group": "models",
+      "description": "Run the new GLM-5.2 model by Z.ai on local hardware!",
+      "sha256": "ffcea3d4cd272144c38cfb48f7b24e42feb48e6261a8ba0cd7318c9ede654d27",
+      "size": 73572,
+      "path": "docs/unsloth/models/glm-5.2.md"
+    },
+    "https://unsloth.ai/docs/models/kimi-k2.7-code.md": {
+      "title": "Kimi K2.7 Code - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/kimi-k2.7-code.md",
+      "group": "models",
+      "description": "Step-by-step guide to running Kimi K2.7 Code on your own local device.",
+      "sha256": "86fc103c1f2bd3351f837215a0671a582ce7ffa4d084d80638f4cc91c674acbe",
+      "size": 17604,
+      "path": "docs/unsloth/models/kimi-k2.7-code.md"
+    },
+    "https://unsloth.ai/docs/models/mtp.md": {
+      "title": "How to Run MTP Models: Multi-Token Prediction Guide",
+      "url": "https://unsloth.ai/docs/models/mtp.md",
+      "group": "models",
+      "description": "",
+      "sha256": "cd69d35e9a2efcb75450aca7f35356002eeb6fe8a47253d7e5164fd33c92cfe7",
+      "size": 17723,
+      "path": "docs/unsloth/models/mtp.md"
+    },
+    "https://unsloth.ai/docs/models/diffusiongemma.md": {
+      "title": "DiffusionGemma - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/diffusiongemma.md",
+      "group": "models",
+      "description": "",
+      "sha256": "b1db9fa944ba4e4796212e9cb58b8ef45b5e3bc977782428bf5adf1ac4ba4f28",
+      "size": 19610,
+      "path": "docs/unsloth/models/diffusiongemma.md"
+    },
+    "https://unsloth.ai/docs/models/minimax-m3.md": {
+      "title": "MiniMax M3 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/minimax-m3.md",
+      "group": "models",
+      "description": "Run MiniMax M3 LLM locally on your own device!",
+      "sha256": "e176d1e3711444304600f8d22f766eff0b2bf611734adb4211c34a98adb9cd1a",
+      "size": 10700,
+      "path": "docs/unsloth/models/minimax-m3.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.5.md": {
+      "title": "Qwen3.5 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/qwen3.5.md",
+      "group": "models",
+      "description": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device!",
+      "sha256": "f47835ff1de8d10d62fb612a6579f6c316e3fd449cfc03c79a0b9b0290ee465d",
+      "size": 54267,
+      "path": "docs/unsloth/models/qwen3.5.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.5/fine-tune.md": {
+      "title": "Qwen3.5 Fine-tuning Guide",
+      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune.md",
+      "group": "models",
+      "description": "Learn how to fine-tune Qwen3.5 LLMs with Unsloth.",
+      "sha256": "13819f4fe87ea0181226b929672d83b4fb17c753b03e2f778617fe02f5e6e393",
+      "size": 19237,
+      "path": "docs/unsloth/models/qwen3.5/fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3.5/gguf-benchmarks.md": {
+      "title": "Qwen3.5 GGUF Benchmarks",
+      "url": "https://unsloth.ai/docs/models/qwen3.5/gguf-benchmarks.md",
+      "group": "models",
+      "description": "See how Unsloth Dynamic GGUFs perform + analysis of perplexity, KL divergence & MXFP4.",
+      "sha256": "8766a016a9c7a36c7a3f553cbd82c5f6efd37b032e044ab52dc2ce346423866f",
+      "size": 15004,
+      "path": "docs/unsloth/models/qwen3.5/gguf-benchmarks.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3.5.md": {
+      "title": "NVIDIA Nemotron 3.5 Lightning: How To Run Locally",
+      "url": "https://unsloth.ai/docs/models/nemotron-3.5.md",
+      "group": "models",
+      "description": "",
+      "sha256": "e890f2ac04a15f60e91bfb1bb4caf9c359687283db0160b0f881ae5b14b14825",
+      "size": 11386,
+      "path": "docs/unsloth/models/nemotron-3.5.md"
+    },
+    "https://unsloth.ai/docs/models/kimi-k2.6.md": {
+      "title": "Kimi K2.6 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/kimi-k2.6.md",
+      "group": "models",
+      "description": "Step-by-step guide to running Kimi-K2.6 on your own local device.",
+      "sha256": "eb71b5e2f65b43bd1c8423a9d25943d4628fc000f39fc648798cfeaa1ddef020",
+      "size": 11922,
+      "path": "docs/unsloth/models/kimi-k2.6.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3-ultra.md": {
+      "title": "NVIDIA Nemotron 3 Ultra - How To Run Locally",
+      "url": "https://unsloth.ai/docs/models/nemotron-3-ultra.md",
+      "group": "models",
+      "description": "Run Nemotron-3-Ultra-550B-A55B locally on your device!",
+      "sha256": "6b9dc426061c0575496019c2f5dc6274021cc2bc49a215acffbe87a202bdc1f2",
+      "size": 21569,
+      "path": "docs/unsloth/models/nemotron-3-ultra.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3-nano-omni.md": {
+      "title": "NVIDIA Nemotron 3 Nano Omni - How To Run Locally",
+      "url": "https://unsloth.ai/docs/models/nemotron-3-nano-omni.md",
+      "group": "models",
+      "description": "Run & fine-tune Nemotron-3-Nano-Omni-30B-A3B locally on your device!",
+      "sha256": "01a99a7d2e36178da187421a168b73bb66a74fc2c4c97ffed046e4325fe646bc",
+      "size": 17396,
+      "path": "docs/unsloth/models/nemotron-3-nano-omni.md"
+    },
+    "https://unsloth.ai/docs/models/mistral-3.5.md": {
+      "title": "Mistral 3.5 - How To Run Locally",
+      "url": "https://unsloth.ai/docs/models/mistral-3.5.md",
+      "group": "models",
+      "description": "Guide for Mistral Mistral 3.5 models, to run or fine-tune locally on your device",
+      "sha256": "3e9b6799978f64dd267c2283ff24d2c657d6e3aac1a0b958e40dad0374e38910",
+      "size": 13539,
+      "path": "docs/unsloth/models/mistral-3.5.md"
+    },
+    "https://unsloth.ai/docs/models/ibm-granite-4.1.md": {
+      "title": "IBM Granite 4.1 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/ibm-granite-4.1.md",
+      "group": "models",
+      "description": "Run IBM Granite-4.1 with Unsloth GGUFs and how to fine-tune!",
+      "sha256": "040b3397fd5995ab467c53a67c85082fdecb3bfebd3283e48b5729f61dcb0f4f",
+      "size": 11411,
+      "path": "docs/unsloth/models/ibm-granite-4.1.md"
+    },
+    "https://unsloth.ai/docs/models/glm-5.1.md": {
+      "title": "GLM-5.1 - How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.1.md",
+      "group": "models",
+      "description": "Run the new GLM-5.1 model by Z.ai on your own local device!",
+      "sha256": "36c1650c8062861f80fdfbe4aaf0bd733adc0818953befd0cb4c86fb8db42182",
+      "size": 24268,
+      "path": "docs/unsloth/models/glm-5.1.md"
+    },
+    "https://unsloth.ai/docs/models/qwen3-coder-next.md": {
+      "title": "Qwen3-Coder-Next: How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/qwen3-coder-next.md",
+      "group": "models",
+      "description": "Guide to run Qwen3-Coder-Next locally on your device!",
+      "sha256": "4ccc44410a1d8df94c867d05f8ed3e6ef7ba817cf4d16c03782efd1327d6004f",
+      "size": 42351,
+      "path": "docs/unsloth/models/qwen3-coder-next.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3.md": {
+      "title": "NVIDIA Nemotron 3 Nano - How To Run Guide",
+      "url": "https://unsloth.ai/docs/models/nemotron-3.md",
+      "group": "models",
+      "description": "Run & fine-tune NVIDIA Nemotron 3 Nano locally on your device!",
+      "sha256": "0e7cacb7f7a860a8a20a987d090ad7753dd8da9d47fe9b97244cdb569e38fc4d",
+      "size": 22898,
+      "path": "docs/unsloth/models/nemotron-3.md"
+    },
+    "https://unsloth.ai/docs/models/nemotron-3/nemotron-3-super.md": {
+      "title": "NVIDIA Nemotron-3-Super: How To Run Guide",
+      "url": "https://unsloth.ai/docs/models/nemotron-3/nemotron-3-super.md",
+      "group": "models",
+      "description": "Run & fine-tune NVIDIA Nemotron-3-Super-120B-A12B locally on your device!",
+      "sha256": "00e1cdc0f4a5638b3a5b1353e82be60e303e15a92f79a48ef810a6e2176198f0",
+      "size": 11401,
+      "path": "docs/unsloth/models/nemotron-3/nemotron-3-super.md"
+    },
+    "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune.md": {
+      "title": "gpt-oss: How to Run Guide",
+      "url": "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune.md",
+      "group": "models",
+      "description": "Run & fine-tune OpenAI's new open-source models!",
+      "sha256": "7a101d6a8322f08c495a2c169e66cc10158ee3abb2b62abbc766b4231c00c370",
+      "size": 32660,
+      "path": "docs/unsloth/models/gpt-oss-how-to-run-and-fine-tune.md"
+    },
+    "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/gpt-oss-reinforcement-learning.md": {
+      "title": "gpt-oss Reinforcement Learning",
+      "url": "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/gpt-oss-reinforcement-learning.md",
+      "group": "models",
+      "description": "",
+      "sha256": "3768079b7e02f054997ae34d8b88fe5d8264bf83809ac178d40bc36e9b9f35cf",
+      "size": 16191,
+      "path": "docs/unsloth/models/gpt-oss-how-to-run-and-fine-tune/gpt-oss-reinforcement-learning.md"
+    },
+    "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/gpt-oss-reinforcement-learning/tutorial-how-to-train-gpt-oss-with-rl.md": {
+      "title": "Tutorial: How to Train gpt-oss with RL",
+      "url": "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/gpt-oss-reinforcement-learning/tutorial-how-to-train-gpt-oss-with-rl.md",
+      "group": "models",
+      "description": "Learn to train OpenAI gpt-oss with GRPO to autonomously beat 2048 locally or on Colab.",
+      "sha256": "dfca00c37c4196b1c6da9d04fbd1c35c69d7e3b46a4bdb13e42dd9a4a821cd3e",
+      "size": 15916,
+      "path": "docs/unsloth/models/gpt-oss-how-to-run-and-fine-tune/gpt-oss-reinforcement-learning/tutorial-how-to-train-gpt-oss-with-rl.md"
+    },
+    "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/tutorial-how-to-fine-tune-gpt-oss.md": {
+      "title": "Tutorial: How to Fine-tune gpt-oss",
+      "url": "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/tutorial-how-to-fine-tune-gpt-oss.md",
+      "group": "models",
+      "description": "Learn step-by-step how to train OpenAI gpt-oss locally with Unsloth.",
+      "sha256": "86050e609442200cef607077e1be9fededd25cf20c0eb1fbac2e212ed0d31d6b",
+      "size": 28296,
+      "path": "docs/unsloth/models/gpt-oss-how-to-run-and-fine-tune/tutorial-how-to-fine-tune-gpt-oss.md"
+    },
+    "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training.md": {
+      "title": "Long Context gpt-oss Training",
+      "url": "https://unsloth.ai/docs/models/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training.md",
+      "group": "models",
+      "description": "",
+      "sha256": "abeea921149b42e2e203753fbae91a09cb37552eebb34e9dd22efc0bf7ff6065",
+      "size": 23568,
+      "path": "docs/unsloth/models/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training.md"
+    },
+    "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs.md": {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "fda17221b05cfa02c1825e70c6bc286a57124438f128497201a5918d709ac2d5",
+      "size": 30752,
+      "path": "docs/unsloth/basics/dynamic-3.0-ggufs.md"
+    },
+    "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs/dynamic-3.1-ggufs.md": {
+      "title": "Dynamic 3.1 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs/dynamic-3.1-ggufs.md",
+      "group": "basics",
+      "description": "A preview of our new methods to make quants smaller and maximize agentic performance",
+      "sha256": "336e7c41f97090eda3a8dbd3701d80a55d6f74de52860c2a3bad4e82be65cb11",
+      "size": 10104,
+      "path": "docs/unsloth/basics/dynamic-3.0-ggufs/dynamic-3.1-ggufs.md"
+    },
+    "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs/unsloth-dynamic-ggufs-on-aider-polyglot.md": {
+      "title": "Unsloth Dynamic GGUFs on Aider Polyglot",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs/unsloth-dynamic-ggufs-on-aider-polyglot.md",
+      "group": "basics",
+      "description": "Performance of Unsloth Dynamic GGUFs on Aider Polyglot Benchmarks",
+      "sha256": "c75e7275a314bd4bfd7a9639a9df4151c5158d694394b0686c6d9f95e92ca427",
+      "size": 16871,
+      "path": "docs/unsloth/basics/dynamic-3.0-ggufs/unsloth-dynamic-ggufs-on-aider-polyglot.md"
+    },
+    "https://unsloth.ai/docs/basics/api.md": {
+      "title": "How to use Unsloth as an API endpoint",
+      "url": "https://unsloth.ai/docs/basics/api.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "e5532a7ae13a3f83008d7526d1fd9d25701d40184380b0ca43540b327b2fe88f",
+      "size": 27405,
+      "path": "docs/unsloth/basics/api.md"
+    },
+    "https://unsloth.ai/docs/basics/how-to-serve-local-llms-anywhere-secure-remote-access-with-cloudflare-and-unsloth.md": {
+      "title": "How to Serve Local LLMs Anywhere: Secure Remote Access with Cloudflare and Unsloth",
+      "url": "https://unsloth.ai/docs/basics/how-to-serve-local-llms-anywhere-secure-remote-access-with-cloudflare-and-unsloth.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "db316773121994b0258108433cd868d7cc6aae5623a4be88b984fcd5ea16187e",
+      "size": 19523,
+      "path": "docs/unsloth/basics/how-to-serve-local-llms-anywhere-secure-remote-access-with-cloudflare-and-unsloth.md"
+    },
+    "https://unsloth.ai/docs/basics/lan.md": {
+      "title": "How to Serve Local AI Models from Any Device on Your Network with Unsloth LAN Access",
+      "url": "https://unsloth.ai/docs/basics/lan.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "a090f338062943761bd4e131eb2c854c37ab49712dc99dbdd94ce807541216a7",
+      "size": 9412,
+      "path": "docs/unsloth/basics/lan.md"
+    },
+    "https://unsloth.ai/docs/basics/browser-use.md": {
+      "title": "Browser Use with Local LLMs",
+      "url": "https://unsloth.ai/docs/basics/browser-use.md",
+      "group": "basics",
+      "description": "Use local models to navigate websites and complete tasks in the built-in browser.",
+      "sha256": "02238e7cc38a105781415eaddba1a7be3841bfbeb88dcb9a340457bfff02bd89",
+      "size": 13420,
+      "path": "docs/unsloth/basics/browser-use.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment.md": {
+      "title": "Inference & Deployment",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment.md",
+      "group": "basics",
+      "description": "Learn how to save your finetuned model so you can run it in your favorite inference engine.",
+      "sha256": "556700e03bf4f36bfbc3529c5ac0bfdb31694cb59f71729a43849fc212b30e29",
+      "size": 4464,
+      "path": "docs/unsloth/basics/inference-and-deployment.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-gguf.md": {
+      "title": "Saving to GGUF",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-gguf.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "1e98a5b7bd3be3419cbfe3d75f379179bad5ed148b31091a6ec5bfcae5441990",
+      "size": 8992,
+      "path": "docs/unsloth/basics/inference-and-deployment/saving-to-gguf.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-gguf/speculative-decoding.md": {
+      "title": "Speculative Decoding",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-gguf/speculative-decoding.md",
+      "group": "basics",
+      "description": "Speculative Decoding with llama-server, llama.cpp, vLLM and more for 2x faster inference",
+      "sha256": "5d73f6dd5bfdcef157ea8035611c429e5b64a2707bda6601502591a5c6ed7312",
+      "size": 4186,
+      "path": "docs/unsloth/basics/inference-and-deployment/saving-to-gguf/speculative-decoding.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/vllm-guide.md": {
+      "title": "vLLM Deployment & Inference Guide",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/vllm-guide.md",
+      "group": "basics",
+      "description": "Guide on saving and deploying LLMs to vLLM for serving LLMs in production",
+      "sha256": "19a48c2455bfc1cad8f5c5f3fd5abb8d807f7efd23fa312830e086ef2c5adace",
+      "size": 5189,
+      "path": "docs/unsloth/basics/inference-and-deployment/vllm-guide.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/vllm-guide/vllm-engine-arguments.md": {
+      "title": "vLLM Engine Arguments",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/vllm-guide/vllm-engine-arguments.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "181a31a94f7d5d7a56cc6f2140192da2cd9d1ddaeaa326309abb24469a867d5f",
+      "size": 6086,
+      "path": "docs/unsloth/basics/inference-and-deployment/vllm-guide/vllm-engine-arguments.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/vllm-guide/lora-hot-swapping-guide.md": {
+      "title": "LoRA Hot Swapping Guide",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/vllm-guide/lora-hot-swapping-guide.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "be89950dd2ed645cef5555a94ea970590ebb3a4f9d5b053177e421e6d8691ea8",
+      "size": 3628,
+      "path": "docs/unsloth/basics/inference-and-deployment/vllm-guide/lora-hot-swapping-guide.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-ollama.md": {
+      "title": "Saving models to Ollama",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/saving-to-ollama.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "9fb56d144bea37bbddbf01920639c1dcf4fd90cbc9f3f85625dd133f2e837720",
+      "size": 8995,
+      "path": "docs/unsloth/basics/inference-and-deployment/saving-to-ollama.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/lm-studio.md": {
+      "title": "Deploying models to LM Studio",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/lm-studio.md",
+      "group": "basics",
+      "description": "Saving models to GGUF so you can run and deploy them to LM Studio",
+      "sha256": "4b84660dd1cd89adddee5c0795eba7e85597f48623fe831ab711fe4b07d07df7",
+      "size": 10132,
+      "path": "docs/unsloth/basics/inference-and-deployment/lm-studio.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/lm-studio/how-to-install-lm-studio-cli-in-linux-terminal.md": {
+      "title": "How to install LM Studio CLI in Linux Terminal",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/lm-studio/how-to-install-lm-studio-cli-in-linux-terminal.md",
+      "group": "basics",
+      "description": "LM Studio CLI installation guide without a UI in a terminal instance.",
+      "sha256": "695bfda29581d14c149c77d7cc5f6d9c8c96ce094810a164b75f0ec12502b1e4",
+      "size": 8342,
+      "path": "docs/unsloth/basics/inference-and-deployment/lm-studio/how-to-install-lm-studio-cli-in-linux-terminal.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/sglang-guide.md": {
+      "title": "SGLang Deployment & Inference Guide",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/sglang-guide.md",
+      "group": "basics",
+      "description": "Guide on saving and deploying LLMs to SGLang for serving LLMs in production",
+      "sha256": "6a0ce529f89edf4a6b3c90fcefd1d37138aa8ce10c50000cbb769dec7b84a5f5",
+      "size": 13785,
+      "path": "docs/unsloth/basics/inference-and-deployment/sglang-guide.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/unsloth-inference.md": {
+      "title": "Unsloth Inference",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/unsloth-inference.md",
+      "group": "basics",
+      "description": "Learn how to run your finetuned model with Unsloth's faster inference.",
+      "sha256": "d8ffdd039c38a1561920fc97977140bb39e1db4cf27e162f582cc8c52edb951f",
+      "size": 2971,
+      "path": "docs/unsloth/basics/inference-and-deployment/unsloth-inference.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/llama-server-and-openai-endpoint.md": {
+      "title": "llama-server & OpenAI endpoint Deployment Guide",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/llama-server-and-openai-endpoint.md",
+      "group": "basics",
+      "description": "Deploying via llama-server with an OpenAI compatible endpoint",
+      "sha256": "d3b4986d16b6548898f437007693426b0ed9474817d58877c06d67bfd694765b",
+      "size": 7128,
+      "path": "docs/unsloth/basics/inference-and-deployment/llama-server-and-openai-endpoint.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/deploy-llms-phone.md": {
+      "title": "How to Run and Deploy LLMs on your iOS or Android Phone",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/deploy-llms-phone.md",
+      "group": "basics",
+      "description": "Tutorial for fine-tuning your own LLM and deploying it on your Android or iPhone with ExecuTorch.",
+      "sha256": "933f6584f30d98ac0fab3d43a8fd02e6faf5b12666a5d1dceaa76940d45633bb",
+      "size": 30022,
+      "path": "docs/unsloth/basics/inference-and-deployment/deploy-llms-phone.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/troubleshooting-inference.md": {
+      "title": "Troubleshooting Inference",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/troubleshooting-inference.md",
+      "group": "basics",
+      "description": "If you're experiencing issues when running or saving your model.",
+      "sha256": "bb3bd5cacdd0d39cf68e069b62457c8bed76859e1cf109ea7c07f2c4a4658523",
+      "size": 4591,
+      "path": "docs/unsloth/basics/inference-and-deployment/troubleshooting-inference.md"
+    },
+    "https://unsloth.ai/docs/basics/inference-and-deployment/deploying-llms-with-hugging-face-jobs.md": {
+      "title": "Deploying LLMs with Hugging Face Jobs",
+      "url": "https://unsloth.ai/docs/basics/inference-and-deployment/deploying-llms-with-hugging-face-jobs.md",
+      "group": "basics",
+      "description": "Using Hugging Face jobs and skills to fine-tune LFM with Codex / Claude Code with a SKILL.",
+      "sha256": "c0e34daf84ec77470fb291d19b6888f5f8fda50322e75439d171a1468756ae67",
+      "size": 7121,
+      "path": "docs/unsloth/basics/inference-and-deployment/deploying-llms-with-hugging-face-jobs.md"
+    },
+    "https://unsloth.ai/docs/basics/claude-code.md": {
+      "title": "How to Run Local LLMs with Claude Code",
+      "url": "https://unsloth.ai/docs/basics/claude-code.md",
+      "group": "basics",
+      "description": "Guide to use open models with Claude Code on your local device.",
+      "sha256": "b069a20445773d676b6d3389243627f44eebafa5e990ae4c568808bccac467d5",
+      "size": 30351,
+      "path": "docs/unsloth/basics/claude-code.md"
+    },
+    "https://unsloth.ai/docs/basics/codex.md": {
+      "title": "How to Run Local LLMs with OpenAI Codex",
+      "url": "https://unsloth.ai/docs/basics/codex.md",
+      "group": "basics",
+      "description": "Use open models with OpenAI Codex on your device locally.",
+      "sha256": "4f3fde70be126e42faea5db324be668f6c10c4940d4c436876f91c28b414db2a",
+      "size": 31497,
+      "path": "docs/unsloth/basics/codex.md"
+    },
+    "https://unsloth.ai/docs/basics/train-your-own-decision-model-with-unsloth.md": {
+      "title": "Train your own Decision Model with Unsloth",
+      "url": "https://unsloth.ai/docs/basics/train-your-own-decision-model-with-unsloth.md",
+      "group": "basics",
+      "description": "Fine-tune LLMs like Qwen and Gemma to make decisions with calibrated probabilities.",
+      "sha256": "b1b322dc518282060de1b10c1739147173041f831a598ca3f58aef9db4a56915",
+      "size": 18580,
+      "path": "docs/unsloth/basics/train-your-own-decision-model-with-unsloth.md"
+    },
+    "https://unsloth.ai/docs/basics/nvfp4.md": {
+      "title": "Run Unsloth Dynamic NVFP4 Guide",
+      "url": "https://unsloth.ai/docs/basics/nvfp4.md",
+      "group": "basics",
+      "description": "Learn how Unsloth Dynamic NVFP4 enables fast, accurate 4-bit inference on NVIDIA Blackwell GPUs.",
+      "sha256": "2aa9e1c5385fbcadfa9412beb254e5011ccbe83b849eb096890fb1a003a927e6",
+      "size": 18040,
+      "path": "docs/unsloth/basics/nvfp4.md"
+    },
+    "https://unsloth.ai/docs/basics/diffusion-image.md": {
+      "title": "How to Run Image Diffusion Models Locally with Unsloth",
+      "url": "https://unsloth.ai/docs/basics/diffusion-image.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "1db52a985ec4e5d637c8e81c405d7e9c1017cdfc13e340e22999edebc90cafbc",
+      "size": 12293,
+      "path": "docs/unsloth/basics/diffusion-image.md"
+    },
+    "https://unsloth.ai/docs/basics/amd.md": {
+      "title": "Train & run models on AMD GPUs with Unsloth",
+      "url": "https://unsloth.ai/docs/basics/amd.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "18ec8dd6cd9b95f3ce9805fcfceeafe29517d77fdbeba4c6730eefc25fd7dd84",
+      "size": 27787,
+      "path": "docs/unsloth/basics/amd.md"
+    },
+    "https://unsloth.ai/docs/basics/mcp.md": {
+      "title": "How to Use MCP Servers with Local LLMs",
+      "url": "https://unsloth.ai/docs/basics/mcp.md",
+      "group": "basics",
+      "description": "Learn how to connect MCP Servers to open AI models with screenshots.",
+      "sha256": "9ce21d750292a6e5e600c854511572d3e556b32746cea7220cbd2d19d790d589",
+      "size": 21915,
+      "path": "docs/unsloth/basics/mcp.md"
+    },
+    "https://unsloth.ai/docs/basics/multi-gpu-training-with-unsloth.md": {
+      "title": "Multi-GPU Fine-tuning with Unsloth",
+      "url": "https://unsloth.ai/docs/basics/multi-gpu-training-with-unsloth.md",
+      "group": "basics",
+      "description": "Learn how to fine-tune LLMs on multiple GPUs and parallelism with Unsloth.",
+      "sha256": "dd13cb33483779db5e4c1719813b3673f29bad41ac11a2fd6d2019bad4982171",
+      "size": 3729,
+      "path": "docs/unsloth/basics/multi-gpu-training-with-unsloth.md"
+    },
+    "https://unsloth.ai/docs/basics/multi-gpu-training-with-unsloth/ddp.md": {
+      "title": "Multi-GPU Fine-tuning with Distributed Data Parallel (DDP)",
+      "url": "https://unsloth.ai/docs/basics/multi-gpu-training-with-unsloth/ddp.md",
+      "group": "basics",
+      "description": "Learn how to use the Unsloth CLI to train on multiple GPUs with Distributed Data Parallel (DDP)!",
+      "sha256": "67295ba268aeb3138dd2106adc16e13269232b889d95a2c16f2d4adbc57173a0",
+      "size": 14910,
+      "path": "docs/unsloth/basics/multi-gpu-training-with-unsloth/ddp.md"
+    },
+    "https://unsloth.ai/docs/basics/embedding-finetuning.md": {
+      "title": "Fine-tuning Embedding Models with Unsloth Guide",
+      "url": "https://unsloth.ai/docs/basics/embedding-finetuning.md",
+      "group": "basics",
+      "description": "Learn how to easily fine-tune embedding models with Unsloth.",
+      "sha256": "64692dc3e79b9295ab4e83ec0e7927633848474b354b1f369d1f8ff979615302",
+      "size": 10826,
+      "path": "docs/unsloth/basics/embedding-finetuning.md"
+    },
+    "https://unsloth.ai/docs/basics/faster-moe.md": {
+      "title": "Fine-tune MoE Models 12x Faster with Unsloth",
+      "url": "https://unsloth.ai/docs/basics/faster-moe.md",
+      "group": "basics",
+      "description": "Train MoE LLMs locally using Unsloth Guide.",
+      "sha256": "70f971238440c6103a117bcccc9a9941f71dcb023b797e761c38f17ccde3baea",
+      "size": 28200,
+      "path": "docs/unsloth/basics/faster-moe.md"
+    },
+    "https://unsloth.ai/docs/basics/text-to-speech-tts-fine-tuning.md": {
+      "title": "Text-to-Speech (TTS) Fine-tuning Guide",
+      "url": "https://unsloth.ai/docs/basics/text-to-speech-tts-fine-tuning.md",
+      "group": "basics",
+      "description": "Learn how to to fine-tune TTS & STT voice models with Unsloth.",
+      "sha256": "1fdc6b7f3b7b2a7113575c3a0573880c5c4e7a860fec9dbc5d5f492ad18c95dc",
+      "size": 19149,
+      "path": "docs/unsloth/basics/text-to-speech-tts-fine-tuning.md"
+    },
+    "https://unsloth.ai/docs/basics/tool-calling-guide-for-local-llms.md": {
+      "title": "Tool Calling Guide for Local LLMs",
+      "url": "https://unsloth.ai/docs/basics/tool-calling-guide-for-local-llms.md",
+      "group": "basics",
+      "description": "",
+      "sha256": "db5b08fa9fa52292c488c60588405918535ce9f8960ae3429c22da3cc9022378",
+      "size": 32865,
+      "path": "docs/unsloth/basics/tool-calling-guide-for-local-llms.md"
+    },
+    "https://unsloth.ai/docs/basics/vision-fine-tuning.md": {
+      "title": "Vision Fine-tuning",
+      "url": "https://unsloth.ai/docs/basics/vision-fine-tuning.md",
+      "group": "basics",
+      "description": "Learn how to fine-tune vision/multimodal LLMs with Unsloth",
+      "sha256": "6cebaaed22fe292aed97c0874af2903f9ec90998c31fa1c2745f5b0e8719a68c",
+      "size": 14771,
+      "path": "docs/unsloth/basics/vision-fine-tuning.md"
+    },
+    "https://unsloth.ai/docs/basics/troubleshooting-and-faqs.md": {
+      "title": "Troubleshooting & FAQs",
+      "url": "https://unsloth.ai/docs/basics/troubleshooting-and-faqs.md",
+      "group": "basics",
+      "description": "Tips to solve issues, and frequently asked questions.",
+      "sha256": "5829a28e6c8338666aaa9dec79cf6cc500c2c41485c33a27b1058cbd69ac5390",
+      "size": 15476,
+      "path": "docs/unsloth/basics/troubleshooting-and-faqs.md"
+    },
+    "https://unsloth.ai/docs/basics/troubleshooting-and-faqs/hugging-face-hub-xet-debugging.md": {
+      "title": "Hugging Face Hub, XET debugging",
+      "url": "https://unsloth.ai/docs/basics/troubleshooting-and-faqs/hugging-face-hub-xet-debugging.md",
+      "group": "basics",
+      "description": "Debugging, troubleshooting stalled, stuck downloads and slow downloads",
+      "sha256": "2922523fdde323b2a90a3e6fa7d86e37f20ff0955c92b40663edcd16708d735f",
+      "size": 3949,
+      "path": "docs/unsloth/basics/troubleshooting-and-faqs/hugging-face-hub-xet-debugging.md"
+    },
+    "https://unsloth.ai/docs/basics/chat-templates.md": {
+      "title": "Chat Templates",
+      "url": "https://unsloth.ai/docs/basics/chat-templates.md",
+      "group": "basics",
+      "description": "Learn the fundamentals and customization options of chat templates, including Conversational, ChatML, ShareGPT, Alpaca formats, and more!",
+      "sha256": "ea2ac11f59072837e93cc85cffa40feb262942cf7ffc89db1cc80230ef0e243a",
+      "size": 13497,
+      "path": "docs/unsloth/basics/chat-templates.md"
+    },
+    "https://unsloth.ai/docs/basics/unsloth-environment-flags.md": {
+      "title": "Unsloth Environment Flags",
+      "url": "https://unsloth.ai/docs/basics/unsloth-environment-flags.md",
+      "group": "basics",
+      "description": "Advanced flags which might be useful if you see breaking finetunes, or you want to turn stuff off.",
+      "sha256": "d7c1d0bcc40543c0ff7787188a6d7ba3d4476324d52894311ce19aa6d8647cf6",
+      "size": 3907,
+      "path": "docs/unsloth/basics/unsloth-environment-flags.md"
+    },
+    "https://unsloth.ai/docs/basics/continued-pretraining.md": {
+      "title": "Continued Pretraining",
+      "url": "https://unsloth.ai/docs/basics/continued-pretraining.md",
+      "group": "basics",
+      "description": "AKA as Continued Finetuning. Unsloth allows you to continually pretrain so a model can learn a new language.",
+      "sha256": "7bd65e2a059395d0451b2f284f0cbd7df89ada2909dc52c74e8ca11dd8439d2f",
+      "size": 4338,
+      "path": "docs/unsloth/basics/continued-pretraining.md"
+    },
+    "https://unsloth.ai/docs/basics/finetuning-from-last-checkpoint.md": {
+      "title": "Finetuning from Last Checkpoint",
+      "url": "https://unsloth.ai/docs/basics/finetuning-from-last-checkpoint.md",
+      "group": "basics",
+      "description": "Checkpointing allows you to save your finetuning progress so you can pause it and then continue.",
+      "sha256": "d2dda56bb4f0b386be7030da74c0d027c9429bbdd2670c6f67a9281b29951e8d",
+      "size": 5298,
+      "path": "docs/unsloth/basics/finetuning-from-last-checkpoint.md"
+    },
+    "https://unsloth.ai/docs/basics/unsloth-benchmarks.md": {
+      "title": "Unsloth Benchmarks",
+      "url": "https://unsloth.ai/docs/basics/unsloth-benchmarks.md",
+      "group": "basics",
+      "description": "Unsloth recorded benchmarks on NVIDIA GPUs.",
+      "sha256": "f2c33adf28791613674dc0f27e4072ae7a05a40e800da063183d1a3e14e18766",
+      "size": 4611,
+      "path": "docs/unsloth/basics/unsloth-benchmarks.md"
+    },
+    "https://unsloth.ai/docs/integrations/unsloth-start.md": {
+      "title": "Run Coding Agents with Local LLMs using Unsloth Start",
+      "url": "https://unsloth.ai/docs/integrations/unsloth-start.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "9af6df5255c82d04b38ff193770536ea81edc23b43c8d1f83e4ea190b15cab1e",
+      "size": 18544,
+      "path": "docs/unsloth/integrations/unsloth-start.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections.md": {
+      "title": "Connect API Providers & Model Servers to Unsloth",
+      "url": "https://unsloth.ai/docs/integrations/connections.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "25a6969a0b8888e800b36cfc0c39b11bbdbff4a1307240ff3e44ab2266d76138",
+      "size": 13666,
+      "path": "docs/unsloth/integrations/connections.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections/openai.md": {
+      "title": "Connect OpenAI to Unsloth: Run GPT Models in Local Chat",
+      "url": "https://unsloth.ai/docs/integrations/connections/openai.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "afb47511a21a2d3cd32d26ca79afeef3c767e5a176e7ffb76795c262856268d1",
+      "size": 8292,
+      "path": "docs/unsloth/integrations/connections/openai.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections/anthropic-claude.md": {
+      "title": "Connect Anthropic to Unsloth: Run Claude Models in Local Chat",
+      "url": "https://unsloth.ai/docs/integrations/connections/anthropic-claude.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "09e57cfd7fae3afe269691a4040630b0baec2510bf1bcad083258a9c46682a56",
+      "size": 6570,
+      "path": "docs/unsloth/integrations/connections/anthropic-claude.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections/connect-llama.cpp-to-unsloth-run-ggufs-with-llama-server.md": {
+      "title": "Connect llama.cpp to Unsloth: Run GGUFs with llama-server",
+      "url": "https://unsloth.ai/docs/integrations/connections/connect-llama.cpp-to-unsloth-run-ggufs-with-llama-server.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "81dee3033b4bf71978eb363a1580bb2b737a12d1d1737617c586b2ddf385c007",
+      "size": 6918,
+      "path": "docs/unsloth/integrations/connections/connect-llama.cpp-to-unsloth-run-ggufs-with-llama-server.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections/vllm.md": {
+      "title": "Connect vLLM to Unsloth for Local Chat Inference",
+      "url": "https://unsloth.ai/docs/integrations/connections/vllm.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "f4189b006b8aa76acee7b4ed2c6a810d8fcf9aefee86a0b7a7267b47d64b4de2",
+      "size": 5082,
+      "path": "docs/unsloth/integrations/connections/vllm.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections/ollama.md": {
+      "title": "How to Connect Ollama to Unsloth",
+      "url": "https://unsloth.ai/docs/integrations/connections/ollama.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "81df66c9bcc635dd0f95cc486b9535e9346dd4a325c868f68e2ae477c277e26c",
+      "size": 6985,
+      "path": "docs/unsloth/integrations/connections/ollama.md"
+    },
+    "https://unsloth.ai/docs/integrations/connections/openrouter.md": {
+      "title": "How to Connect OpenRouter to Unsloth: API Key & Model Setup",
+      "url": "https://unsloth.ai/docs/integrations/connections/openrouter.md",
+      "group": "integrations",
+      "description": "",
+      "sha256": "46248211d23fa15dead778f03b0728436d2b6a223a9e8463b4a86fa10a892942",
+      "size": 5484,
+      "path": "docs/unsloth/integrations/connections/openrouter.md"
+    },
+    "https://unsloth.ai/docs/integrations/how-to-run-local-ai-models-in-vs-code.md": {
+      "title": "How to Run Local AI Models in VS Code",
+      "url": "https://unsloth.ai/docs/integrations/how-to-run-local-ai-models-in-vs-code.md",
+      "group": "integrations",
+      "description": "How to Run Local LLMs with VS Code",
+      "sha256": "a479293e042116b98d3b04ed8d690cfa1eb86ed4c85dfb2f50a4009478d52dc6",
+      "size": 11728,
+      "path": "docs/unsloth/integrations/how-to-run-local-ai-models-in-vs-code.md"
+    },
+    "https://unsloth.ai/docs/integrations/opencode.md": {
+      "title": "How to Run Local AI Models with OpenCode",
+      "url": "https://unsloth.ai/docs/integrations/opencode.md",
+      "group": "integrations",
+      "description": "Guide to connect open LLMs with OpenCode on your local device.",
+      "sha256": "5360c124094f3a02f3e836b9e70c3f7eb595d143472b9904c7fcb36ead22709d",
+      "size": 17906,
+      "path": "docs/unsloth/integrations/opencode.md"
+    },
+    "https://unsloth.ai/docs/integrations/hermes-agent.md": {
+      "title": "How to Run Local AI Models with Hermes Agent",
+      "url": "https://unsloth.ai/docs/integrations/hermes-agent.md",
+      "group": "integrations",
+      "description": "Guide on using open LLMs with Hermes Agent locally.",
+      "sha256": "242f58026a7579b47c44726ff749d4a9c57230165429d3bc30892c6f5721cdfa",
+      "size": 16362,
+      "path": "docs/unsloth/integrations/hermes-agent.md"
+    },
+    "https://unsloth.ai/docs/integrations/openclaw.md": {
+      "title": "How to Run Local AI Models with OpenClaw",
+      "url": "https://unsloth.ai/docs/integrations/openclaw.md",
+      "group": "integrations",
+      "description": "Guide to running local LLMs with OpenClaw.",
+      "sha256": "53916dc9fb804ea93075f20806ba5e15ed22ed25d0bccd8dd012aa01927057e0",
+      "size": 12103,
+      "path": "docs/unsloth/integrations/openclaw.md"
+    },
+    "https://unsloth.ai/docs/integrations/connect-python-sdk-to-unsloth.md": {
+      "title": "Connect Python SDK to Unsloth",
+      "url": "https://unsloth.ai/docs/integrations/connect-python-sdk-to-unsloth.md",
+      "group": "integrations",
+      "description": "Guide to calling Unsloth's local API from Python using the official OpenAI or Anthropic SDKs including streaming, vision, function calling, and Unsloth's built-in server-side tools.",
+      "sha256": "beab8f70058ed42168d503d4cdb56c297f4d3fae967b67512117648d38113c46",
+      "size": 19317,
+      "path": "docs/unsloth/integrations/connect-python-sdk-to-unsloth.md"
+    },
+    "https://unsloth.ai/docs/integrations/connect-curl-and-http-to-unsloth.md": {
+      "title": "Connect Curl & HTTP to Unsloth",
+      "url": "https://unsloth.ai/docs/integrations/connect-curl-and-http-to-unsloth.md",
+      "group": "integrations",
+      "description": "Guide to hitting Unsloth's API with curl (or any HTTP client), complete with copy-pasteable recipes for every endpoint and feature..",
+      "sha256": "35e17b39bb93a0e1b6f4823eca3ff44e8d9311fa5f24bcfb8f3b37bd9dc74ff0",
+      "size": 21560,
+      "path": "docs/unsloth/integrations/connect-curl-and-http-to-unsloth.md"
+    },
+    "https://unsloth.ai/docs/blog/3x-faster-training-packing.md": {
+      "title": "3x Faster LLM Training with Unsloth Kernels + Packing",
+      "url": "https://unsloth.ai/docs/blog/3x-faster-training-packing.md",
+      "group": "blog",
+      "description": "Learn how Unsloth increases training throughput and eliminates padding waste for fine-tuning.",
+      "sha256": "52a28da86ccc287aee9132b687932d4a1a3937b9c3d6a5f483a5f37ce92cfab7",
+      "size": 17727,
+      "path": "docs/unsloth/blog/3x-faster-training-packing.md"
+    },
+    "https://unsloth.ai/docs/blog/500k-context-length-fine-tuning.md": {
+      "title": "500K Context Length Fine-tuning",
+      "url": "https://unsloth.ai/docs/blog/500k-context-length-fine-tuning.md",
+      "group": "blog",
+      "description": "Learn how to enable >500K token context window fine-tuning with Unsloth.",
+      "sha256": "53cefb7b8923a51d622df83e3619a0074211878af32e722cb95181e32fb2dc14",
+      "size": 11661,
+      "path": "docs/unsloth/blog/500k-context-length-fine-tuning.md"
+    },
+    "https://unsloth.ai/docs/blog/quantization-aware-training-qat.md": {
+      "title": "Quantization-Aware Training (QAT)",
+      "url": "https://unsloth.ai/docs/blog/quantization-aware-training-qat.md",
+      "group": "blog",
+      "description": "Quantize models to 4-bit with Unsloth and PyTorch to recover accuracy.",
+      "sha256": "05896c7e880a0407c4b66311f1cab64ad2dfeaf54d0e34cce64d15cea57f63f3",
+      "size": 10599,
+      "path": "docs/unsloth/blog/quantization-aware-training-qat.md"
+    },
+    "https://unsloth.ai/docs/blog/dgx-station.md": {
+      "title": "Fine-Tuning LLMs on NVIDIA DGX Station with Unsloth",
+      "url": "https://unsloth.ai/docs/blog/dgx-station.md",
+      "group": "blog",
+      "description": "NVIDIA DGX Station tutorial on how to fine-tune with notebooks from Unsloth.",
+      "sha256": "3cf8f3374373023fe587fc415d308803c27d19578862044773749b06d43395e0",
+      "size": 11294,
+      "path": "docs/unsloth/blog/dgx-station.md"
+    },
+    "https://unsloth.ai/docs/blog/how-to-fine-tune-llms-with-unsloth-and-docker.md": {
+      "title": "How to Fine-tune LLMs with Unsloth & Docker",
+      "url": "https://unsloth.ai/docs/blog/how-to-fine-tune-llms-with-unsloth-and-docker.md",
+      "group": "blog",
+      "description": "Learn how to fine-tune LLMs or do Reinforcement Learning (RL) with Unsloth's Docker image.",
+      "sha256": "c645327c228cd4fded9c56e626076b0a1b9b037d9c0c7ec25c86481c93fa5852",
+      "size": 8365,
+      "path": "docs/unsloth/blog/how-to-fine-tune-llms-with-unsloth-and-docker.md"
+    },
+    "https://unsloth.ai/docs/blog/fine-tuning-llms-with-nvidia-dgx-spark-and-unsloth.md": {
+      "title": "Fine-tuning LLMs with NVIDIA DGX Spark and Unsloth",
+      "url": "https://unsloth.ai/docs/blog/fine-tuning-llms-with-nvidia-dgx-spark-and-unsloth.md",
+      "group": "blog",
+      "description": "Tutorial on how to fine-tune and do reinforcement learning (RL) with OpenAI gpt-oss on NVIDIA DGX Spark.",
+      "sha256": "0d54529de57455f7f949e3a5e05cbd7a15e8d49a227a5c0eb562d813c667c70e",
+      "size": 10090,
+      "path": "docs/unsloth/blog/fine-tuning-llms-with-nvidia-dgx-spark-and-unsloth.md"
+    },
+    "https://unsloth.ai/docs/blog/fine-tuning-llms-with-blackwell-rtx-50-series-and-unsloth.md": {
+      "title": "Fine-tuning LLMs with Blackwell, RTX 50 series & Unsloth",
+      "url": "https://unsloth.ai/docs/blog/fine-tuning-llms-with-blackwell-rtx-50-series-and-unsloth.md",
+      "group": "blog",
+      "description": "Learn how to fine-tune LLMs on NVIDIA's Blackwell RTX 50 series and B200 GPUs with our step-by-step guide.",
+      "sha256": "3488624c057f46cd5e919e22c5187c4272e845dba12423b02af1431e48299b03",
+      "size": 9505,
+      "path": "docs/unsloth/blog/fine-tuning-llms-with-blackwell-rtx-50-series-and-unsloth.md"
+    },
+    "https://unsloth.ai/docs/blog/comfyui.md": {
+      "title": "How to Run Diffusion Image GGUFs in ComfyUI",
+      "url": "https://unsloth.ai/docs/blog/comfyui.md",
+      "group": "blog",
+      "description": "Guide for running Unsloth Diffusion GGUF models in ComfyUI.",
+      "sha256": "c59235e035ad78662eeb66dda88d65e56ac75b39e601c2d6fad0014cdf8ae62a",
+      "size": 13494,
+      "path": "docs/unsloth/blog/comfyui.md"
+    },
+    "https://unsloth.ai/docs/blog/ai-engineers-2025.md": {
+      "title": "AI Engineer's 2025",
+      "url": "https://unsloth.ai/docs/blog/ai-engineers-2025.md",
+      "group": "blog",
+      "description": "Slides to our AI Engineer's Worlds Fair 2025 Workshop.",
+      "sha256": "07c3724f3ae0d6b62fcabd5ea8170a6b0a511cd1f80511983430888ec90e62d3",
+      "size": 23547,
+      "path": "docs/unsloth/blog/ai-engineers-2025.md"
+    },
+    "https://unsloth.ai/docs/blog/ai-engineer-2026.md": {
+      "title": "Unsloth - AI Engineer World's Fair 2026",
+      "url": "https://unsloth.ai/docs/blog/ai-engineer-2026.md",
+      "group": "blog",
+      "description": "Slides to our AI Engineer's Worlds Fair 2026 Workshop.",
+      "sha256": "edfe7cc750278ede344fcdf049de1180af4ecb6a90c6e0ade9a6351ccd67a8e2",
+      "size": 33398,
+      "path": "docs/unsloth/blog/ai-engineer-2026.md"
+    },
+    "https://unsloth.ai/docs/blog/gpu-mode-conference.md": {
+      "title": "GPU Mode - Reinforcement Learning Mini Conference 2026",
+      "url": "https://unsloth.ai/docs/blog/gpu-mode-conference.md",
+      "group": "blog",
+      "description": "Slides to our PyTorch Conference 2025 Talks.",
+      "sha256": "e05336e16cd91299f03ce7832f41241fd10a1c3991920d8c64e36aab189cde5f",
+      "size": 3500,
+      "path": "docs/unsloth/blog/gpu-mode-conference.md"
+    },
+    "https://unsloth.ai/docs/blog/unsloth-amd-pytorch-synthetic-data-hackathon.md": {
+      "title": "Unsloth AMD PyTorch Synthetic Data Hackathon",
+      "url": "https://unsloth.ai/docs/blog/unsloth-amd-pytorch-synthetic-data-hackathon.md",
+      "group": "blog",
+      "description": "Tips & tricks, troubleshooting and guide to run Unsloth on an AMD GPU.",
+      "sha256": "5bad6984a8e39aebe367166470beb14d58b90376466d1c86abccc89a9f069566",
+      "size": 33649,
+      "path": "docs/unsloth/blog/unsloth-amd-pytorch-synthetic-data-hackathon.md"
+    },
+    "https://unsloth.ai/docs/blog/pytorch-conference-2025-unsloth.md": {
+      "title": "PyTorch Conference 2025 - Unsloth",
+      "url": "https://unsloth.ai/docs/blog/pytorch-conference-2025-unsloth.md",
+      "group": "blog",
+      "description": "Slides to our PyTorch Conference 2025 Talks.",
+      "sha256": "992fe754d6b934c1199b95323aa2c6cec67f22e526ad020132d0d84ae941698a",
+      "size": 13221,
+      "path": "docs/unsloth/blog/pytorch-conference-2025-unsloth.md"
+    }
+  }
+}
